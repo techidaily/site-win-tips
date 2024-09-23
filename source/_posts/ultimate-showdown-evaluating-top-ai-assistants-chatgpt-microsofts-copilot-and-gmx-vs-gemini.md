@@ -1,7 +1,7 @@
 ---
 title: "Ultimate Showdown: Evaluating Top AI Assistants – ChatGPT, Microsoft's Copilot and GMX Vs. Gemini"
-date: 2024-09-19 16:50:37
-updated: 2024-09-20 10:26:39
+date: 2024-09-22T16:25:32.041Z
+updated: 2024-09-23T16:13:01.793Z
 tags:
   - microsoft
 categories:
@@ -83,6 +83,13 @@ By the way, neither Linux nor ChromeOS Flex will cost you a dime. They're free n
 
 If you want to replace your Windows machines in a business, Google can help you. For organizations using ChromeOS Flex under [Chrome Enterprise Upgrade](https://chromeos.google/products/device-management/) or [Chrome Education Upgrade](https://services.google.com/fh/files/misc/chrome%5Feducation%5Fupgrade%5Fonepager.pdf), Google offers dedicated support. You can access support via the Google Admin console. There, you'll find help with device enrollment, connectivity issues, and software-related problems. The price starts at $50 per machine per year. 
 
+<!-- affiliate ads begin -->
+<a href="https://review-au.sjv.io/c/5597632/2098703/14409" target="_top" id="2098703">
+  <img src="//a.impactradius-go.com/display-ad/14409-2098703" border="0" alt="https://techidaily.com" width="468" height="60"/>
+</a>
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098703/14409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## **4\. Pay for Windows 10 Extended Support**
 
 Of course, you could buy support for your Windows 10 machine. Microsoft recently [announced](https://techcommunity.microsoft.com/t5/windows-it-pro-blog/when-to-use-windows-10-extended-security-updates/ba-p/4102628) pricing for its [Extended Security Updates (ESUs) for Windows 10](https://www.zdnet.com/article/when-windows-10-support-ends-you-have-5-options-but-only-2-are-worth-considering/#link=%7B%22role%22:%22standard%22,%22href%22:%22https://www.zdnet.com/article/when-windows-10-support-ends-you-have-5-options-but-only-2-are-worth-considering/%22,%22target%22:%22%22,%22absolute%22:%22%22,%22linkText%22:%22Extended%20Security%20Updates%20%28ESUs%29%20for%20Windows%2010%22%7D), particularly for businesses and educational institutions. Consumer pricing remains unclear.
@@ -115,15 +122,36 @@ In summary, commercial organizations will pay $61 to $244 per device over three 
 
 I'd only go with an ESU, myself, if I _really_ had no other choice.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2016134/19272" target="_top" id="2016134">
+  <img src="//a.impactradius-go.com/display-ad/19272-2016134" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016134/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## **5\. Try alternative security patching**
 
 Finally, a company called [0Patch](https://0patch.com/#link=%7B%22role%22:%22standard%22,%22href%22:%22https://0patch.com/%22,%22target%22:%22%5Fblank%22,%22absolute%22:%22%22,%22linkText%22:%220Patch%22%7D) offers customized patches for out-of-service operating systems. For example, [0Patch](https://www.zdnet.de/88411127/0patch-verspricht-sicherheitsupdates-fuer-windows-server-2012-bis-2026/#link=%7B%22role%22:%22standard%22,%22href%22:%22https://www.zdnet.de/88411127/0patch-verspricht-sicherheitsupdates-fuer-windows-server-2012-bis-2026/%22,%22target%22:%22%22,%22absolute%22:%22%22,%22linkText%22:%220Patch%20offers%20%22%7D)supported Windows Server 2012 until 2026\. Now, it supports [Windows 10 for about $25 a year](https://0patch.com/pricing.html).
 
 **Also: [Linux might be your best bet for heightening your desktop computer security](https://www.zdnet.com/article/linux-might-be-your-best-bet-for-heightening-your-desktop-computer-security/)**
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1997643/19272" target="_top" id="1997643">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997643" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997643/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## **Ignore it and keep running Windows 10** 
 
 Do you have a death wish!? No, just no! Unless your Windows 10 PC is never, ever connected to the internet, this is just asking for trouble.
+
+<!-- affiliate ads begin -->
+<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1557746/17382" target="_top" id="1557746">
+  <img src="//a.impactradius-go.com/display-ad/17382-1557746" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1557746/17382" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## **Conclusion**
 
@@ -159,11 +187,28 @@ Don't trash your old Windows 10 PCs! There are many ways to give them a long, us
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-footage.techidaily.com/new-in-2024-chromatic-brilliance-for-video-enthusiasts/"><u>[New] In 2024, Chromatic Brilliance for Video Enthusiasts</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-snap-and-save-professional-screen-recording-11-version/"><u>[New] Snap & Save Professional Screen Recording 11-Version</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/updated-2024-approved-customizing-your-windows-photos-app-filters-and-music-sync-feature/"><u>[Updated] 2024 Approved Customizing Your Window's Photos App Filters & Music Sync Feature</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/updated-affordable-and-reliable-discover-the-best-online-passport-photo-apps/"><u>[Updated] Affordable & Reliable Discover the Best Online Passport Photo Apps</u></a></li>
+<li><a href="https://win-tips.techidaily.com/aprende-a-aprovechar-la-tecnologia-de-camaras-virtuais-obs-en-el-2024-guia-detallada/"><u>Aprende a Aprovechar La Tecnología De Camaras Virtuais OBS en El 2024 - Guia Detallada</u></a></li>
+<li><a href="https://win-tips.techidaily.com/conversione-gratuita-online-da-m4a-a-avi-con-movavi/"><u>Conversione Gratuita Online: Da M4A a AVI Con Movavi</u></a></li>
+<li><a href="https://win-tips.techidaily.com/descubra-como-transformar-fotos-raw-en-formatos-jpg-facilmente/"><u>Descubra Como Transformar Fotos RAW en Formatos JPG Fácilmente</u></a></li>
+<li><a href="https://win-tips.techidaily.com/free-online-converter-easily-change-png-images-into-jpeg-format-with-movavi/"><u>Free Online Converter: Easily Change PNG Images Into JPEG Format with Movavi</u></a></li>
+<li><a href="https://win-tips.techidaily.com/gratuit-gebaseerd-swf-toevoegen-naar-mp3-professionele-lijst-van-bewerken-movavi/"><u>Gratuit Gebaseerd SWF-Toevoegen Naar MP3: Professionele Lijst Van Bewerken - Movavi</u></a></li>
+<li><a href="https://driver-download.techidaily.com/how-to-install-official-logitech-g402-controller-software-and-driver/"><u>How to Install: Official Logitech G402 Controller Software and Driver</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-the-complete-guide-to-xiaomi-redmi-12-5g-frp-bypass-everything-you-need-to-know-by-drfone-android/"><u>In 2024, The Complete Guide to Xiaomi Redmi 12 5G FRP Bypass Everything You Need to Know</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/new-2024-approved-transform-your-photos-into-a-breathtaking-video-with-final-cut-pro/"><u>New 2024 Approved Transform Your Photos Into a Breathtaking Video with Final Cut Pro</u></a></li>
+<li><a href="https://techtrends.techidaily.com/profi-dvd-kopierleitfaden-mit-handbuch-fur-winx-dvd-copy-software-perfektioniere-deine-brenntechnik/"><u>Profi-DVD Kopierleitfaden Mit Handbuch Für WinX DVD Copy Software – Perfektioniere Deine Brenntechnik!</u></a></li>
+<li><a href="https://win-tips.techidaily.com/top-15-most-popular-presentation-software-apps-compatible-with-ios-and-android-devices/"><u>Top 15 Most Popular Presentation Software Apps Compatible with iOS & Android Devices</u></a></li>
+</ul></div>
+

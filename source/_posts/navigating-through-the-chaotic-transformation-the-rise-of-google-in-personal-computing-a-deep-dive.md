@@ -1,7 +1,7 @@
 ---
 title: "Navigating Through the Chaotic Transformation: The Rise of Google in Personal Computing - A Deep Dive"
-date: 2024-09-18 22:21:17
-updated: 2024-09-20 12:39:23
+date: 2024-09-20T16:39:03.832Z
+updated: 2024-09-23T16:26:49.396Z
 tags:
   - microsoft
 categories:
@@ -63,6 +63,13 @@ Sure, back in the 2000s, you needed to be a Linux shell command wizard to instal
 
 Another advantage of running Linux is that your PC will never be left behind. I have computers more than a decade old that came with Windows XP, and they're still running up-to-date Linux. 
 
+<!-- affiliate ads begin -->
+<a href="https://wigfever.sjv.io/c/5597632/2005184/22899" target="_top" id="2005184">
+  <img src="//a.impactradius-go.com/display-ad/22899-2005184" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2005184/22899" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## **3\. Switch to ChromeOS**
 
 You can use a web browser, right? If you really can't see yourself learning Linux, try ChromeOS.
@@ -82,6 +89,13 @@ By the way, neither Linux nor ChromeOS Flex will cost you a dime. They're free n
 **Also: [Google might abandon ChromeOS Flex. Here's why - and what you can do about it](https://www.zdnet.com/article/google-might-abandon-chromeos-flex-next-heres-why/)**
 
 If you want to replace your Windows machines in a business, Google can help you. For organizations using ChromeOS Flex under [Chrome Enterprise Upgrade](https://chromeos.google/products/device-management/) or [Chrome Education Upgrade](https://services.google.com/fh/files/misc/chrome%5Feducation%5Fupgrade%5Fonepager.pdf), Google offers dedicated support. You can access support via the Google Admin console. There, you'll find help with device enrollment, connectivity issues, and software-related problems. The price starts at $50 per machine per year. 
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134493/18498" target="_top" id="2134493">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134493" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134493/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## **4\. Pay for Windows 10 Extended Support**
 
@@ -115,11 +129,31 @@ In summary, commercial organizations will pay $61 to $244 per device over three 
 
 I'd only go with an ESU, myself, if I _really_ had no other choice.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135370/19272" target="_top" id="2135370">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135370" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135370/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## **5\. Try alternative security patching**
 
 Finally, a company called [0Patch](https://0patch.com/#link=%7B%22role%22:%22standard%22,%22href%22:%22https://0patch.com/%22,%22target%22:%22%5Fblank%22,%22absolute%22:%22%22,%22linkText%22:%220Patch%22%7D) offers customized patches for out-of-service operating systems. For example, [0Patch](https://www.zdnet.de/88411127/0patch-verspricht-sicherheitsupdates-fuer-windows-server-2012-bis-2026/#link=%7B%22role%22:%22standard%22,%22href%22:%22https://www.zdnet.de/88411127/0patch-verspricht-sicherheitsupdates-fuer-windows-server-2012-bis-2026/%22,%22target%22:%22%22,%22absolute%22:%22%22,%22linkText%22:%220Patch%20offers%20%22%7D)supported Windows Server 2012 until 2026\. Now, it supports [Windows 10 for about $25 a year](https://0patch.com/pricing.html).
 
 **Also: [Linux might be your best bet for heightening your desktop computer security](https://www.zdnet.com/article/linux-might-be-your-best-bet-for-heightening-your-desktop-computer-security/)**
+
+<!-- affiliate ads begin -->
+<span id="1542129">
+					<video width="864" height="1152" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1542129.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16836-1542129">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1542129.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2F25home.pxf.io%2Fc%2F5597632%2F1542129%2F16836'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1542129/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## **Ignore it and keep running Windows 10** 
 
@@ -159,11 +193,27 @@ Don't trash your old Windows 10 PCs! There are many ways to give them a long, us
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-clips.techidaily.com/new-the-instagram-edge-vertical-footage-editing-techniques-on-final-cut-x-for-2024/"><u>[New] The Instagram Edge Vertical Footage Editing Techniques on Final Cut X for 2024</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-2024-approved-how-to-make-the-most-of-your-youtube-watches-gif-magic-for-devices/"><u>[Updated] 2024 Approved How to Make the Most of Your YouTube Watches GIF Magic for Devices</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-premium-portable-switch-game-clones/"><u>[Updated] Premium Portable Switch Game Clones</u></a></li>
+<li><a href="https://win-tips.techidaily.com/aprende-a-aprovechar-la-tecnologia-de-camaras-virtuais-obs-en-el-2024-guia-detallada/"><u>Aprende a Aprovechar La Tecnología De Camaras Virtuais OBS en El 2024 - Guia Detallada</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/comprehensive-analysis-updated-s3700-bd-player/"><u>Comprehensive Analysis Updated S3700 BD Player</u></a></li>
+<li><a href="https://win-tips.techidaily.com/conversione-gratuita-online-da-m4a-a-avi-con-movavi/"><u>Conversione Gratuita Online: Da M4A a AVI Con Movavi</u></a></li>
+<li><a href="https://win-tips.techidaily.com/descubra-como-transformar-fotos-raw-en-formatos-jpg-facilmente/"><u>Descubra Como Transformar Fotos RAW en Formatos JPG Fácilmente</u></a></li>
+<li><a href="https://win-tips.techidaily.com/free-web-based-mov-to-mp4-converter-easy-mov-file-transformation-with-moveave-video-software/"><u>Free Web-Based MOV to MP4 Converter - Easy MOV File Transformation with Moveave Video Software</u></a></li>
+<li><a href="https://facebook.techidaily.com/from-solo-to-synergy-the-pathway-to-linking-your-social-media-on-xbox/"><u>From Solo to Synergy: The Pathway to Linking Your Social Media on Xbox</u></a></li>
+<li><a href="https://win-tips.techidaily.com/gratuit-gebaseerd-swf-toevoegen-naar-mp3-professionele-lijst-van-bewerken-movavi/"><u>Gratuit Gebaseerd SWF-Toevoegen Naar MP3: Professionele Lijst Van Bewerken - Movavi</u></a></li>
+<li><a href="https://win-tips.techidaily.com/online-tiff-jpeg/"><u>Online 무료 제공: 오픈 소스의 Tiff 이미지를 Jpeg으로 구독하는 방법</u></a></li>
+<li><a href="https://win-cloud.techidaily.com/the-case-against-expensive-antivirus-programs-discover-how-to-protect-your-devices-without-the-cost/"><u>The Case Against Expensive Antivirus Programs: Discover How to Protect Your Devices Without the Cost</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshooting-unplugged-nvidia-graphics-card-issues-expert-tips/"><u>Troubleshooting Unplugged Nvidia Graphics Card Issues – Expert Tips</u></a></li>
+</ul></div>
+

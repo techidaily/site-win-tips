@@ -1,7 +1,7 @@
 ---
 title: Azure Unveils Radius - Revolutionizing Open Source Tools for Hybrid Cloud Environments | TechNews
-date: 2024-09-19 16:55:48
-updated: 2024-09-20 10:57:33
+date: 2024-09-16T16:41:02.981Z
+updated: 2024-09-23T16:05:45.956Z
 tags:
   - microsoft
 categories:
@@ -53,6 +53,13 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 
 [See all](https://www.zdnet.com/newsletters/)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1997717/19272" target="_top" id="1997717">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997717" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997717/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## **2\. Install Linux**
 
 Then, there's my default suggestion: [Move from your soon-to-be-outdated Windows 10 to Linux](https://www.zdnet.com/article/how-to-replace-windows-with-linux-mint-on-your-pc/#link=%7B%22role%22:%22standard%22,%22href%22:%22https://www.zdnet.com/article/how-to-replace-windows-with-linux-mint-on-your-pc/%22,%22target%22:%22%22,%22absolute%22:%22%22,%22linkText%22:%22Move%20from%20your%20soon-to-be-outdated%20Windows%2010%20to%20Linux%22%7D). Yes, I know you've been told that Linux is hard to use and install. It's not. 
@@ -62,6 +69,13 @@ Sure, back in the 2000s, you needed to be a Linux shell command wizard to instal
 **Also: [5 reasons why Linux will overtake Windows and MacOS on the desktop](https://www.zdnet.com/article/5-reasons-why-linux-will-eventually-overtake-windows-and-macos-on-the-desktop/)**
 
 Another advantage of running Linux is that your PC will never be left behind. I have computers more than a decade old that came with Windows XP, and they're still running up-to-date Linux. 
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2043856/7443" target="_top" id="2043856">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043856" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043856/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## **3\. Switch to ChromeOS**
 
@@ -115,11 +129,25 @@ In summary, commercial organizations will pay $61 to $244 per device over three 
 
 I'd only go with an ESU, myself, if I _really_ had no other choice.
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134494/18498" target="_top" id="2134494">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134494" border="0" alt="https://techidaily.com" width="721" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134494/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## **5\. Try alternative security patching**
 
 Finally, a company called [0Patch](https://0patch.com/#link=%7B%22role%22:%22standard%22,%22href%22:%22https://0patch.com/%22,%22target%22:%22%5Fblank%22,%22absolute%22:%22%22,%22linkText%22:%220Patch%22%7D) offers customized patches for out-of-service operating systems. For example, [0Patch](https://www.zdnet.de/88411127/0patch-verspricht-sicherheitsupdates-fuer-windows-server-2012-bis-2026/#link=%7B%22role%22:%22standard%22,%22href%22:%22https://www.zdnet.de/88411127/0patch-verspricht-sicherheitsupdates-fuer-windows-server-2012-bis-2026/%22,%22target%22:%22%22,%22absolute%22:%22%22,%22linkText%22:%220Patch%20offers%20%22%7D)supported Windows Server 2012 until 2026\. Now, it supports [Windows 10 for about $25 a year](https://0patch.com/pricing.html).
 
 **Also: [Linux might be your best bet for heightening your desktop computer security](https://www.zdnet.com/article/linux-might-be-your-best-bet-for-heightening-your-desktop-computer-security/)**
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2129738/7443" target="_top" id="2129738">
+  <img src="//a.impactradius-go.com/display-ad/7443-2129738" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129738/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## **Ignore it and keep running Windows 10** 
 
@@ -159,11 +187,27 @@ Don't trash your old Windows 10 PCs! There are many ways to give them a long, us
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-activity-recording.techidaily.com/new-effortless-methods-to-document-console-gaming-for-2024/"><u>[New] Effortless Methods to Document Console Gaming for 2024</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/op-15-must-use-gaming-tags-for-skyrocketing-views-on-youtube-for-2024/"><u>[New] Top 15 Must-Use Gaming Tags for Skyrocketing Views on YouTube for 2024</u></a></li>
+<li><a href="https://fox-info.techidaily.com/updated-in-2024-interweaving-art-and-science-in-colors/"><u>[Updated] In 2024, Interweaving Art and Science in Colors</u></a></li>
+<li><a href="https://win-tips.techidaily.com/opuswav-movavi/"><u>網路無限制自由轉換 OPUS到WAV - 利用 Movavi 革命性工具</u></a></li>
+<li><a href="https://win-tips.techidaily.com/pgmtiff-movavi/"><u>無成本網上PGM至TIFF備選工具 - 利用Movavi 快速變換</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/a-complete-guide-to-oem-unlocking-on-motorola-moto-g34-5g-by-drfone-android/"><u>A Complete Guide To OEM Unlocking on Motorola Moto G34 5G</u></a></li>
+<li><a href="https://win-tips.techidaily.com/alternative-13-platforms-to-imovie-for-enthusiastic-filmmakers/"><u>Alternative 13 Platforms to iMovie for Enthusiastic Filmmakers</u></a></li>
+<li><a href="https://fox-triigers.techidaily.com/creative-tims-impactful-design-system-complimentary-bootstrap-4-integrated-framework/"><u>Creative Tim's Impactful Design System – Complimentary, Bootstrap 4 Integrated Framework</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-icloud-separation-how-to-disconnect-apple-iphone-13-pro-max-and-ipad-by-drfone-ios/"><u>In 2024, iCloud Separation How To Disconnect Apple iPhone 13 Pro Max and iPad</u></a></li>
+<li><a href="https://win-tips.techidaily.com/movavi-mpeg-4-converter-the-ultimate-mp4-to-video-format-translation-tool/"><u>Movavi MPEG-4 Converter: The Ultimate MP4 to Video Format Translation Tool</u></a></li>
+<li><a href="https://win-tips.techidaily.com/online-gratuity-convert-your-videos-to-mov-or-wmv-format-with-ease/"><u>Online Gratuity: Convert Your Videos to MOV or WMV Format with Ease</u></a></li>
+<li><a href="https://win-tips.techidaily.com/transformar-archivos-avi-en-discos-de-dvd-top-5-metodos-libres-y-efectivos/"><u>Transformar Archivos AVI en Discos De DVD: Top 5 Métodos Libres Y Efectivos</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/unlock-your-honor-magic-6-pros-potential-the-top-20-lock-screen-apps-you-need-to-try-by-drfone-android/"><u>Unlock Your Honor Magic 6 Pros Potential The Top 20 Lock Screen Apps You Need to Try</u></a></li>
+</ul></div>
+

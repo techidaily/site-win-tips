@@ -1,7 +1,7 @@
 ---
 title: "Microsoft Cybersecurity Conference: Can We Avoid a Worldwide Tech Crisis?"
-date: 2024-09-18 12:14:48
-updated: 2024-09-20 10:37:37
+date: 2024-09-22T16:18:21.522Z
+updated: 2024-09-23T16:39:17.238Z
 tags:
   - windows
 categories:
@@ -43,6 +43,13 @@ There is at least one exception to this cutoff date, which applies to PCs runnin
 
 Confusingly, Windows 10 Enterprise LTSC 2021 has only a five-year support lifecycle, which means it ends support on January 12, 2027.
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134244/18498" target="_top" id="2134244">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134244" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134244/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How many PCs are running Windows 10 today?
 
 If anyone tells you they know the answer to this one, maybe stop listening to them?
@@ -77,6 +84,13 @@ That purple line at the top of the chart is Windows 10, and the blue line far be
 
 The current installed base of Windows PCs consists of about twice as many PCs running Windows 10 compared to its successor. (That's an improvement over last year's number, at least, where the ratio was more than three to one.)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2043639/7443" target="_top" id="2043639">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043639" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043639/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How many PCs will still be running Windows 10 at the end of 2025?
 
 That's the real question, isn't it?
@@ -90,6 +104,13 @@ That best-case scenario still leaves hundreds of millions of people running Wind
 * **Those who don't qualify for an automatic upgrade.** Some people own older hardware that doesn't meet the minimum hardware compatibility standards for Windows 11\. Basically, that means any PC that was designed in 2018 or earlier. Note that this category includes many budget PCs that used older designs and unsupported CPUs but were sold as new in 2019 and 2020.
 * **Corporate PCs that are standardized on Windows 10.** A nontrivial number of enterprise IT managers have just finished their Windows 10 migrations in the last year or two and probably aren't anxious to do it again.
 * **Windows 10 diehards.** From my time spent reading support forums, I know there's a large population of longtime Windows users who are unhappy about the changes in Windows 11\. Some of them will reluctantly upgrade, but others won't.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135360/19272" target="_top" id="2135360">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135360" border="0" alt="https://techidaily.com" width="468" height="60"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135360/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Will Microsoft extend the support deadline for Windows 10?
 
@@ -151,11 +172,29 @@ _This article was originally published in July 2023\. The most recent update was
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://eaxpv-info.techidaily.com/new-free-youtube-earning-predictors-for-2024/"><u>[New] Free YouTube Earning Predictors for 2024</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-in-2024-ballot-box-bonanza-prime-politic-strategy-games/"><u>[New] In 2024, Ballot Box Bonanza Prime Politic Strategy Games</u></a></li>
+<li><a href="https://article-posts.techidaily.com/2024-approved-the-best-10-elements-that-enthrall-filmora-users/"><u>2024 Approved The Best 10 Elements That Enthrall Filmora Users</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-top-30-tones-where-to-find-classical-callouts/"><u>2024 Approved Top 30 Tones Where to Find Classical Callouts</u></a></li>
+<li><a href="https://win-tips.techidaily.com/jp2-jpeg-movavi/"><u>無縫通道的 JP2 到 JPEG 自由下載 - 使用 Movavi 優化過的變更工具</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/a-quick-guide-to-samsung-galaxy-a05s-frp-bypass-instantly-by-drfone-android/"><u>A Quick Guide to Samsung Galaxy A05s FRP Bypass Instantly</u></a></li>
+<li><a href="https://win-tips.techidaily.com/discovering-roxana-falascos-artistic-journey-and-achievements/"><u>Discovering Roxana Falasco's Artistic Journey and Achievements</u></a></li>
+<li><a href="https://win-tips.techidaily.com/diviser-une-video-sur-mac-avec-movavi-guide-complet-pour-le-decoupage-de-films/"><u>Diviser Une Vidéo Sur Mac Avec Movavi: Guide Complet Pour Le Découpage De Films</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-unlock-iphone-14-pro-without-passcode-or-face-id-drfone-by-drfone-ios/"><u>In 2024, How to Unlock iPhone 14 Pro without Passcode or Face ID | Dr.fone</u></a></li>
+<li><a href="https://win-tips.techidaily.com/kostenloze-omzetting-van-dpx-naar-jpg-formaten-online-efficientheid-met-movavi-konvertor/"><u>Kostenloze Omzetting Van DPX Naar JPG-Formaten Online: Efficiëntheid Met Movavi Konvertor</u></a></li>
+<li><a href="https://win-tips.techidaily.com/1726227087631-mp4mov/"><u>MP4からMOVへ：高画質ファイル変換手順のガイド</u></a></li>
+<li><a href="https://win-tips.techidaily.com/mpegif-movavi/"><u>MPEファイルからGIFへの無料オンライン変換 - Movavi</u></a></li>
+<li><a href="https://win-tips.techidaily.com/transformacion-gratuita-de-archivos-mxf-a-formatos-mkv-online-con-movavi/"><u>Transformación Gratuita De Archivos MXF a Formatos MKV Online Con Movavi</u></a></li>
+<li><a href="https://win-blog.techidaily.com/valorant-gaming-enhancements-top-2024-tactics-to-eliminate-fps-lags-and-drops/"><u>Valorant Gaming Enhancements: Top 2024 Tactics to Eliminate FPS Lags and Drops</u></a></li>
+<li><a href="https://fake-location.techidaily.com/what-is-geo-blocking-and-how-to-bypass-it-on-apple-iphone-6-drfone-by-drfone-virtual-ios/"><u>What is Geo-Blocking and How to Bypass it On Apple iPhone 6? | Dr.fone</u></a></li>
+</ul></div>
+

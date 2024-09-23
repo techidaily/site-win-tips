@@ -1,7 +1,7 @@
 ---
 title: "Honoring History in Silicon Valley: A Look at Major Tech Firms' Plans for Juneteenth Observance"
-date: 2024-09-17 18:12:13
-updated: 2024-09-20 10:46:26
+date: 2024-09-18T16:39:15.809Z
+updated: 2024-09-23T16:04:59.615Z
 tags:
   - microsoft
 categories:
@@ -52,6 +52,13 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
  Subscribe
 
 [See all](https://www.zdnet.com/newsletters/)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075462/7443" target="_top" id="2075462">
+  <img src="//a.impactradius-go.com/display-ad/7443-2075462" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075462/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## **2\. Install Linux**
 
@@ -115,15 +122,36 @@ In summary, commercial organizations will pay $61 to $244 per device over three 
 
 I'd only go with an ESU, myself, if I _really_ had no other choice.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135418/19272" target="_top" id="2135418">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135418" border="0" alt="https://techidaily.com" width="468" height="60"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135418/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## **5\. Try alternative security patching**
 
 Finally, a company called [0Patch](https://0patch.com/#link=%7B%22role%22:%22standard%22,%22href%22:%22https://0patch.com/%22,%22target%22:%22%5Fblank%22,%22absolute%22:%22%22,%22linkText%22:%220Patch%22%7D) offers customized patches for out-of-service operating systems. For example, [0Patch](https://www.zdnet.de/88411127/0patch-verspricht-sicherheitsupdates-fuer-windows-server-2012-bis-2026/#link=%7B%22role%22:%22standard%22,%22href%22:%22https://www.zdnet.de/88411127/0patch-verspricht-sicherheitsupdates-fuer-windows-server-2012-bis-2026/%22,%22target%22:%22%22,%22absolute%22:%22%22,%22linkText%22:%220Patch%20offers%20%22%7D)supported Windows Server 2012 until 2026\. Now, it supports [Windows 10 for about $25 a year](https://0patch.com/pricing.html).
 
 **Also: [Linux might be your best bet for heightening your desktop computer security](https://www.zdnet.com/article/linux-might-be-your-best-bet-for-heightening-your-desktop-computer-security/)**
 
+<!-- affiliate ads begin -->
+<a href="https://aidotcom.pxf.io/c/5597632/2129043/19576" target="_top" id="2129043">
+  <img src="//a.impactradius-go.com/display-ad/19576-2129043" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2129043/19576" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## **Ignore it and keep running Windows 10** 
 
 Do you have a death wish!? No, just no! Unless your Windows 10 PC is never, ever connected to the internet, this is just asking for trouble.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082541/7443" target="_top" id="2082541">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082541" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082541/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## **Conclusion**
 
@@ -159,11 +187,30 @@ Don't trash your old Windows 10 PCs! There are many ways to give them a long, us
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://some-techniques.techidaily.com/new-evolving-scripts-in-cinema-today/"><u>[New] Evolving Scripts in Cinema Today</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-precision-and-power-choosing-best-kung-fu-games-ranked/"><u>[Updated] Precision & Power Choosing Best Kung Fu Games Ranked</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-premier-solutions-for-virtual-team-interactions-for-2024/"><u>[Updated] Premier Solutions For Virtual Team Interactions for 2024</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-record-speech-review-content-for-2024/"><u>[Updated] Record Speech, Review Content for 2024</u></a></li>
+<li><a href="https://win-tips.techidaily.com/opuswav-movavi/"><u>網路無限制自由轉換 OPUS到WAV - 利用 Movavi 革命性工具</u></a></li>
+<li><a href="https://win-tips.techidaily.com/pgmtiff-movavi/"><u>無成本網上PGM至TIFF備選工具 - 利用Movavi 快速變換</u></a></li>
+<li><a href="https://win-tips.techidaily.com/alternative-13-platforms-to-imovie-for-enthusiastic-filmmakers/"><u>Alternative 13 Platforms to iMovie for Enthusiastic Filmmakers</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/g-into-the-world-of-youtube-search-engine-rankings/"><u>Diving Into the World of YouTube Search Engine Rankings</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-to-get-the-dragon-scale-and-evolution-enabled-pokemon-on-xiaomi-redmi-a2plus-drfone-by-drfone-virtual-android/"><u>How to get the dragon scale and evolution-enabled pokemon On Xiaomi Redmi A2+? | Dr.fone</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-optimal-and-economical-selecting-the-top-free-webm-playback-options/"><u>In 2024, Optimal and Economical Selecting the Top Free WebM Playback Options</u></a></li>
+<li><a href="https://win-tips.techidaily.com/movavi-mpeg-4-converter-the-ultimate-mp4-to-video-format-translation-tool/"><u>Movavi MPEG-4 Converter: The Ultimate MP4 to Video Format Translation Tool</u></a></li>
+<li><a href="https://win-tips.techidaily.com/online-gratuity-convert-your-videos-to-mov-or-wmv-format-with-ease/"><u>Online Gratuity: Convert Your Videos to MOV or WMV Format with Ease</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/quick-ig-post-featuring-podcast-insight-for-2024/"><u>Quick IG Post Featuring Podcast Insight for 2024</u></a></li>
+<li><a href="https://win-tips.techidaily.com/transformar-archivos-avi-en-discos-de-dvd-top-5-metodos-libres-y-efectivos/"><u>Transformar Archivos AVI en Discos De DVD: Top 5 Métodos Libres Y Efectivos</u></a></li>
+<li><a href="https://win-tips.techidaily.com/transformez-facilement-vos-photos-arw-au-format-jpeg-sans-frais-a-laide-de-movavi-en-ligne/"><u>Transformez Facilement Vos Photos ARW Au Format JPEG Sans Frais À L'aide De Movavi en Ligne</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/updated-in-2024-flip-and-rotate-avi-videos-for-free-best-tools/"><u>Updated In 2024, Flip and Rotate AVI Videos for Free Best Tools</u></a></li>
+</ul></div>
+

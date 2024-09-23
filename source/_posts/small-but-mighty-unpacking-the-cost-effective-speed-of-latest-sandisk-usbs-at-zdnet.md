@@ -1,7 +1,7 @@
 ---
 title: "Small but Mighty: Unpacking the Cost-Effective Speed of Latest SanDisk USBs at ZDNet"
-date: 2024-09-17 19:33:46
-updated: 2024-09-20 11:55:21
+date: 2024-09-22T16:46:29.495Z
+updated: 2024-09-23T16:35:57.682Z
 tags:
   - windows
 categories:
@@ -33,11 +33,25 @@ First, make sure you're signed into your Windows 11 PC with an account that has 
 
 Screenshot by Lance Whitney/ZDNET
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2115916/19272" target="_top" id="2115916">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115916" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115916/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 2\. Create a new folder
 
 Next, right-click on any empty area of the Desktop. In the popup menu, move to New and select the command for Folder**.**
 
 Screenshot by Lance Whitney/ZDNET
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1915825/19272" target="_top" id="1915825">
+  <img src="//a.impactradius-go.com/display-ad/19272-1915825" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915825/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 3\. Rename the new folder
 
@@ -53,6 +67,13 @@ Screenshot by Lance Whitney/ZDNET
 Double-click the icon, and a window opens with all the available settings. The commands are organized by Control Panel applet, so you can browse through the various categories, including Backup and Restore, Devices and Printers, File History, Mouse, Programs and Features, Security and Maintenance, Troubleshooting, and User Accounts.
 
 Screenshot by Lance Whitney/ZDNET
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1997662/19272" target="_top" id="1997662">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997662" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997662/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 5\. Search for a command
 
@@ -82,6 +103,13 @@ Screenshot by Lance Whitney/ZDNET
 At the next screen, you can now enter any name you wish for the shortcut. Click Finish.
 
 Screenshot by Lance Whitney/ZDNET
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/1062447/7443" target="_top" id="1062447">
+  <img src="//a.impactradius-go.com/display-ad/7443-1062447" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/1062447/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 9\. Change the icon
 
@@ -119,11 +147,25 @@ Screenshot by Lance Whitney/ZDNET
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-helps.techidaily.com/new-2024-approved-underwater-cinematography-avoiding-blur-and-grain-with-a-gopro/"><u>[New] 2024 Approved Underwater Cinematography Avoiding Blur and Grain with a GoPro</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-2024-approved-advanced-techniques-for-the-steam-switch-pro-controller/"><u>[Updated] 2024 Approved Advanced Techniques for the Steam Switch Pro Controller</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-in-2024-beginners-guide-capturing-youtube-videos-as-screencasts-without-payment/"><u>[Updated] In 2024, Beginner's Guide Capturing YouTube Videos as Screencasts Without Payment</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-top-affordable-camcorders-with-full-rotational-coverage/"><u>[Updated] Top Affordable Camcorders with Full Rotational Coverage</u></a></li>
+<li><a href="https://win-tips.techidaily.com/discover-the-top-8-descriptor-options-designed-for-fulfilling-diverse-personal-needs-effectively/"><u>Discover the Top 8 Descriptor Options Designed for Fulfilling Diverse Personal Needs Effectively</u></a></li>
+<li><a href="https://win-tips.techidaily.com/free-online-converter-easily-change-png-images-into-jpeg-format-with-movavi/"><u>Free Online Converter: Easily Change PNG Images Into JPEG Format with Movavi</u></a></li>
+<li><a href="https://win-tips.techidaily.com/gratuita-conversao-de-videos-mov-online-com-moovavi-facil-e-sem-custo/"><u>Gratuita Conversão De Vídeos MOV Online Com Moovavi - Fácil E Sem Custo</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/how-to-easily-convert-your-favorite-youtube-content-to-high-quality-mp4-files/"><u>How To Easily Convert Your Favorite YouTube Content to High-Quality MP4 Files</u></a></li>
+<li><a href="https://facebook.techidaily.com/navigating-networks-to-impactful-status/"><u>Navigating Networks to Impactful Status</u></a></li>
+<li><a href="https://win-able.techidaily.com/understanding-and-fixing-input-delay-in-cyberpunk-2077/"><u>Understanding and Fixing Input Delay in Cyberpunk 2077</u></a></li>
+<li><a href="https://win-tips.techidaily.com/web-ts-wav/"><u>Web으로 TS 음성 파일을 WAV로 자리바꾸기: 무료 해제</u></a></li>
+</ul></div>
+

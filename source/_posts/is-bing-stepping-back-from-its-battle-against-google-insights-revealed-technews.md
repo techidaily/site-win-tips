@@ -1,7 +1,7 @@
 ---
 title: Is Bing Stepping Back From Its Battle Against Google? Insights Revealed | TechNews
-date: 2024-09-17 21:40:45
-updated: 2024-09-20 10:51:27
+date: 2024-09-18T16:21:07.929Z
+updated: 2024-09-23T16:17:22.766Z
 tags:
   - microsoft
 categories:
@@ -53,6 +53,13 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 
 [See all](https://www.zdnet.com/newsletters/)
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137218/26400" target="_top" id="2137218">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137218" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137218/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## **2\. Install Linux**
 
 Then, there's my default suggestion: [Move from your soon-to-be-outdated Windows 10 to Linux](https://www.zdnet.com/article/how-to-replace-windows-with-linux-mint-on-your-pc/#link=%7B%22role%22:%22standard%22,%22href%22:%22https://www.zdnet.com/article/how-to-replace-windows-with-linux-mint-on-your-pc/%22,%22target%22:%22%22,%22absolute%22:%22%22,%22linkText%22:%22Move%20from%20your%20soon-to-be-outdated%20Windows%2010%20to%20Linux%22%7D). Yes, I know you've been told that Linux is hard to use and install. It's not. 
@@ -62,6 +69,13 @@ Sure, back in the 2000s, you needed to be a Linux shell command wizard to instal
 **Also: [5 reasons why Linux will overtake Windows and MacOS on the desktop](https://www.zdnet.com/article/5-reasons-why-linux-will-eventually-overtake-windows-and-macos-on-the-desktop/)**
 
 Another advantage of running Linux is that your PC will never be left behind. I have computers more than a decade old that came with Windows XP, and they're still running up-to-date Linux. 
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1997695/19272" target="_top" id="1997695">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997695" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997695/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## **3\. Switch to ChromeOS**
 
@@ -115,11 +129,25 @@ In summary, commercial organizations will pay $61 to $244 per device over three 
 
 I'd only go with an ESU, myself, if I _really_ had no other choice.
 
+<!-- affiliate ads begin -->
+<a href="https://oneplusfr.sjv.io/c/5597632/1622438/14044" target="_top" id="1622438">
+  <img src="//a.impactradius-go.com/display-ad/14044-1622438" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://oneplusfr.sjv.io/i/5597632/1622438/14044" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## **5\. Try alternative security patching**
 
 Finally, a company called [0Patch](https://0patch.com/#link=%7B%22role%22:%22standard%22,%22href%22:%22https://0patch.com/%22,%22target%22:%22%5Fblank%22,%22absolute%22:%22%22,%22linkText%22:%220Patch%22%7D) offers customized patches for out-of-service operating systems. For example, [0Patch](https://www.zdnet.de/88411127/0patch-verspricht-sicherheitsupdates-fuer-windows-server-2012-bis-2026/#link=%7B%22role%22:%22standard%22,%22href%22:%22https://www.zdnet.de/88411127/0patch-verspricht-sicherheitsupdates-fuer-windows-server-2012-bis-2026/%22,%22target%22:%22%22,%22absolute%22:%22%22,%22linkText%22:%220Patch%20offers%20%22%7D)supported Windows Server 2012 until 2026\. Now, it supports [Windows 10 for about $25 a year](https://0patch.com/pricing.html).
 
 **Also: [Linux might be your best bet for heightening your desktop computer security](https://www.zdnet.com/article/linux-might-be-your-best-bet-for-heightening-your-desktop-computer-security/)**
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2052063/7443" target="_top" id="2052063">
+  <img src="//a.impactradius-go.com/display-ad/7443-2052063" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2052063/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## **Ignore it and keep running Windows 10** 
 
@@ -159,11 +187,27 @@ Don't trash your old Windows 10 PCs! There are many ways to give them a long, us
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-docs.techidaily.com/n-2024-lasting-eradication-strategy-for-youtube-shorts-feature/"><u>[New] In 2024, Lasting Eradication Strategy for YouTube Shorts Feature</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/2024-approved-compreranly-assessing-ustream-with-equivalent-sites/"><u>2024 Approved Compreranly Assessing Ustream with Equivalent Sites</u></a></li>
+<li><a href="https://win-tips.techidaily.com/jp2-jpeg-movavi/"><u>無縫通道的 JP2 到 JPEG 自由下載 - 使用 Movavi 優化過的變更工具</u></a></li>
+<li><a href="https://fake-location.techidaily.com/complete-tutorial-to-use-gps-joystick-to-fake-gps-location-on-oppo-reno-10-5g-drfone-by-drfone-virtual-android/"><u>Complete Tutorial to Use GPS Joystick to Fake GPS Location On Oppo Reno 10 5G | Dr.fone</u></a></li>
+<li><a href="https://win-tips.techidaily.com/compreendendo-mp4-ts-files-estrategias-simples-para-reproduzir-videos-em-todas-as-plataformas/"><u>Compreendendo MP4 TS Files - Estratégias Simples Para Reproduzir Vídeos Em Todas as Plataformas</u></a></li>
+<li><a href="https://win-tips.techidaily.com/discovering-roxana-falascos-artistic-journey-and-achievements/"><u>Discovering Roxana Falasco's Artistic Journey and Achievements</u></a></li>
+<li><a href="https://win-tips.techidaily.com/diviser-une-video-sur-mac-avec-movavi-guide-complet-pour-le-decoupage-de-films/"><u>Diviser Une Vidéo Sur Mac Avec Movavi: Guide Complet Pour Le Découpage De Films</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/expert-insights-into-latest-hardware-from-toms-technology-hub/"><u>Expert Insights Into Latest Hardware From Tom's Technology Hub</u></a></li>
+<li><a href="https://win-tips.techidaily.com/movavi-mpeg-4-converter-the-ultimate-mp4-to-video-format-translation-tool/"><u>Movavi MPEG-4 Converter: The Ultimate MP4 to Video Format Translation Tool</u></a></li>
+<li><a href="https://win-tips.techidaily.com/1726227087631-mp4mov/"><u>MP4からMOVへ：高画質ファイル変換手順のガイド</u></a></li>
+<li><a href="https://techidaily.com/simple-ways-to-get-lost-files-back-from-y100i-power-5g-by-fonelab-android-recover-data/"><u>Simple ways to get lost files back from Y100i Power 5G</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/upside-down-up-in-popularity-the-instagram-way/"><u>Upside Down, Up in Popularity The Instagram Way</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/your-guide-to-ps4-controller-indicator-lights-interpretations-for-bluish-whitish-crimson-and-amber-flashes/"><u>Your Guide to PS4 Controller Indicator Lights - Interpretations for Bluish, Whitish, Crimson, and Amber Flashes</u></a></li>
+</ul></div>
+

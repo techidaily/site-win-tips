@@ -1,7 +1,7 @@
 ---
 title: "Unveiling the Microsoft Surface Duo 2: An Ongoing Review with a Mix of Curiosity and Puzzlement at Week Two | ZDNet"
-date: 2024-09-18 20:23:39
-updated: 2024-09-20 10:32:26
+date: 2024-09-20T16:32:01.016Z
+updated: 2024-09-23T16:20:19.207Z
 tags:
   - microsoft
 categories:
@@ -53,6 +53,13 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 
 [See all](https://www.zdnet.com/newsletters/)
 
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/1030129/11832" target="_top" id="1030129">
+  <img src="//a.impactradius-go.com/display-ad/11832-1030129" border="0" alt="https://techidaily.com" width="720" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1030129/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## **2\. Install Linux**
 
 Then, there's my default suggestion: [Move from your soon-to-be-outdated Windows 10 to Linux](https://www.zdnet.com/article/how-to-replace-windows-with-linux-mint-on-your-pc/#link=%7B%22role%22:%22standard%22,%22href%22:%22https://www.zdnet.com/article/how-to-replace-windows-with-linux-mint-on-your-pc/%22,%22target%22:%22%22,%22absolute%22:%22%22,%22linkText%22:%22Move%20from%20your%20soon-to-be-outdated%20Windows%2010%20to%20Linux%22%7D). Yes, I know you've been told that Linux is hard to use and install. It's not. 
@@ -62,6 +69,13 @@ Sure, back in the 2000s, you needed to be a Linux shell command wizard to instal
 **Also: [5 reasons why Linux will overtake Windows and MacOS on the desktop](https://www.zdnet.com/article/5-reasons-why-linux-will-eventually-overtake-windows-and-macos-on-the-desktop/)**
 
 Another advantage of running Linux is that your PC will never be left behind. I have computers more than a decade old that came with Windows XP, and they're still running up-to-date Linux. 
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137216/26400" target="_top" id="2137216">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137216" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137216/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## **3\. Switch to ChromeOS**
 
@@ -115,11 +129,25 @@ In summary, commercial organizations will pay $61 to $244 per device over three 
 
 I'd only go with an ESU, myself, if I _really_ had no other choice.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2049387/7443" target="_top" id="2049387">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049387" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049387/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## **5\. Try alternative security patching**
 
 Finally, a company called [0Patch](https://0patch.com/#link=%7B%22role%22:%22standard%22,%22href%22:%22https://0patch.com/%22,%22target%22:%22%5Fblank%22,%22absolute%22:%22%22,%22linkText%22:%220Patch%22%7D) offers customized patches for out-of-service operating systems. For example, [0Patch](https://www.zdnet.de/88411127/0patch-verspricht-sicherheitsupdates-fuer-windows-server-2012-bis-2026/#link=%7B%22role%22:%22standard%22,%22href%22:%22https://www.zdnet.de/88411127/0patch-verspricht-sicherheitsupdates-fuer-windows-server-2012-bis-2026/%22,%22target%22:%22%22,%22absolute%22:%22%22,%22linkText%22:%220Patch%20offers%20%22%7D)supported Windows Server 2012 until 2026\. Now, it supports [Windows 10 for about $25 a year](https://0patch.com/pricing.html).
 
 **Also: [Linux might be your best bet for heightening your desktop computer security](https://www.zdnet.com/article/linux-might-be-your-best-bet-for-heightening-your-desktop-computer-security/)**
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1885999/19272" target="_top" id="1885999">
+  <img src="//a.impactradius-go.com/display-ad/19272-1885999" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1885999/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## **Ignore it and keep running Windows 10** 
 
@@ -159,11 +187,28 @@ Don't trash your old Windows 10 PCs! There are many ways to give them a long, us
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-share.techidaily.com/new-in-2024-android-and-ios-leaders-in-asmr-content/"><u>[New] In 2024, Android & iOS Leaders in ASMR Content</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-top-10-wedding-clock-apps-for-android-and-ios-to-keep-your-day-on-track/"><u>[Updated] Top 10 Wedding Clock Apps for Android & iOS to Keep Your Day on Track</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/alienware-aurora-r11-review/"><u>Alienware Aurora R11 Review</u></a></li>
+<li><a href="https://win-tips.techidaily.com/discover-the-top-8-descriptor-options-designed-for-fulfilling-diverse-personal-needs-effectively/"><u>Discover the Top 8 Descriptor Options Designed for Fulfilling Diverse Personal Needs Effectively</u></a></li>
+<li><a href="https://win-tips.techidaily.com/free-online-converter-easily-change-png-images-into-jpeg-format-with-movavi/"><u>Free Online Converter: Easily Change PNG Images Into JPEG Format with Movavi</u></a></li>
+<li><a href="https://win-tips.techidaily.com/gratuita-conversao-de-videos-mov-online-com-moovavi-facil-e-sem-custo/"><u>Gratuita Conversão De Vídeos MOV Online Com Moovavi - Fácil E Sem Custo</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/how-to-cut-video-length-for-instagram-on-mac-for-2024/"><u>How To Cut Video Length For Instagram On Mac for 2024</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-track-imei-number-of-realme-c33-2023-through-google-earth-by-drfone-android/"><u>In 2024, How To Track IMEI Number Of Realme C33 2023 Through Google Earth?</u></a></li>
+<li><a href="https://article-posts.techidaily.com/in-2024-revolutionize-post-production-the-best-11-tutorials-on-color-workflow/"><u>In 2024, Revolutionize Post-Production The Best 11 Tutorials on Color Workflow</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/in-2024-your-complete-insiders-handbook-on-instagram-reels/"><u>In 2024, Your Complete Insider's Handbook on Instagram Reels</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/successfully-running-tiny-tinas-wonderlands-on-pc-with-bug-fixes/"><u>Successfully Running Tiny Tina's Wonderlands on PC with Bug Fixes</u></a></li>
+<li><a href="https://win-tips.techidaily.com/top-15-most-popular-presentation-software-apps-compatible-with-ios-and-android-devices/"><u>Top 15 Most Popular Presentation Software Apps Compatible with iOS & Android Devices</u></a></li>
+<li><a href="https://win-answers.techidaily.com/troubleshooting-tips-resolve-the-fall-guys-pc-freezing-glitch-effectively/"><u>Troubleshooting Tips: Resolve the Fall Guys PC Freezing Glitch Effectively</u></a></li>
+<li><a href="https://win-tips.techidaily.com/web-ts-wav/"><u>Web으로 TS 음성 파일을 WAV로 자리바꾸기: 무료 해제</u></a></li>
+</ul></div>
+

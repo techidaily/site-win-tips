@@ -1,7 +1,7 @@
 ---
 title: "Microsoft Surface: AI-Powered Computing Dominance Threatens Apple's Traditional Approach - An Insightful Analysis by ZDNet"
-date: 2024-09-17 18:31:14
-updated: 2024-09-20 10:33:20
+date: 2024-09-19T16:08:51.356Z
+updated: 2024-09-23T16:35:17.669Z
 tags:
   - microsoft
 categories:
@@ -53,6 +53,13 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 
 [See all](https://www.zdnet.com/newsletters/)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2016170/19272" target="_top" id="2016170">
+  <img src="//a.impactradius-go.com/display-ad/19272-2016170" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016170/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## **2\. Install Linux**
 
 Then, there's my default suggestion: [Move from your soon-to-be-outdated Windows 10 to Linux](https://www.zdnet.com/article/how-to-replace-windows-with-linux-mint-on-your-pc/#link=%7B%22role%22:%22standard%22,%22href%22:%22https://www.zdnet.com/article/how-to-replace-windows-with-linux-mint-on-your-pc/%22,%22target%22:%22%22,%22absolute%22:%22%22,%22linkText%22:%22Move%20from%20your%20soon-to-be-outdated%20Windows%2010%20to%20Linux%22%7D). Yes, I know you've been told that Linux is hard to use and install. It's not. 
@@ -82,6 +89,13 @@ By the way, neither Linux nor ChromeOS Flex will cost you a dime. They're free n
 **Also: [Google might abandon ChromeOS Flex. Here's why - and what you can do about it](https://www.zdnet.com/article/google-might-abandon-chromeos-flex-next-heres-why/)**
 
 If you want to replace your Windows machines in a business, Google can help you. For organizations using ChromeOS Flex under [Chrome Enterprise Upgrade](https://chromeos.google/products/device-management/) or [Chrome Education Upgrade](https://services.google.com/fh/files/misc/chrome%5Feducation%5Fupgrade%5Fonepager.pdf), Google offers dedicated support. You can access support via the Google Admin console. There, you'll find help with device enrollment, connectivity issues, and software-related problems. The price starts at $50 per machine per year. 
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1925468/19272" target="_top" id="1925468">
+  <img src="//a.impactradius-go.com/display-ad/19272-1925468" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925468/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## **4\. Pay for Windows 10 Extended Support**
 
@@ -115,11 +129,25 @@ In summary, commercial organizations will pay $61 to $244 per device over three 
 
 I'd only go with an ESU, myself, if I _really_ had no other choice.
 
+<!-- affiliate ads begin -->
+<a href="https://homestyler.sjv.io/c/5597632/1943647/22993" target="_top" id="1943647">
+  <img src="//a.impactradius-go.com/display-ad/22993-1943647" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://homestyler.sjv.io/i/5597632/1943647/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## **5\. Try alternative security patching**
 
 Finally, a company called [0Patch](https://0patch.com/#link=%7B%22role%22:%22standard%22,%22href%22:%22https://0patch.com/%22,%22target%22:%22%5Fblank%22,%22absolute%22:%22%22,%22linkText%22:%220Patch%22%7D) offers customized patches for out-of-service operating systems. For example, [0Patch](https://www.zdnet.de/88411127/0patch-verspricht-sicherheitsupdates-fuer-windows-server-2012-bis-2026/#link=%7B%22role%22:%22standard%22,%22href%22:%22https://www.zdnet.de/88411127/0patch-verspricht-sicherheitsupdates-fuer-windows-server-2012-bis-2026/%22,%22target%22:%22%22,%22absolute%22:%22%22,%22linkText%22:%220Patch%20offers%20%22%7D)supported Windows Server 2012 until 2026\. Now, it supports [Windows 10 for about $25 a year](https://0patch.com/pricing.html).
 
 **Also: [Linux might be your best bet for heightening your desktop computer security](https://www.zdnet.com/article/linux-might-be-your-best-bet-for-heightening-your-desktop-computer-security/)**
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136623/26400" target="_top" id="2136623">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136623" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136623/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## **Ignore it and keep running Windows 10** 
 
@@ -159,11 +187,30 @@ Don't trash your old Windows 10 PCs! There are many ways to give them a long, us
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-record-videos.techidaily.com/new-in-2024-break-even-on-youtube-monetizing-with-a-minimum-of-500-viewers/"><u>[New] In 2024, Break Even on Youtube Monetizing with a Minimum of 500 Viewers</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-2024-approved-pioneering-patterns-screen-cast-with-loom-pro/"><u>[Updated] 2024 Approved Pioneering Patterns Screen Cast with Loom Pro</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/updated-boosting-your-yt-subs-a-complete-strategy-guide/"><u>[Updated] Boosting Your YT Subs A Complete Strategy Guide</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-iconic-trailer-highlight-assortment/"><u>2024 Approved Iconic Trailer Highlight Assortment</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/2024-approved-which-gopro-to-buy-the-complete-gopro-comparison-guide/"><u>2024 Approved Which GoPro to Buy The Complete Gopro Comparison Guide</u></a></li>
+<li><a href="https://win-tips.techidaily.com/conversion-de-formatos-multimedia-sin-coste-guia-para-transformar-archivos-wmv-en-archivos-musicales-libres-flac-con-onlineconvert/"><u>Conversión De Formatos Multimedia Sin Coste: Guía Para Transformar Archivos WMV en Archivos Musicales Libres Flac Con OnlineConvert</u></a></li>
+<li><a href="https://win-tips.techidaily.com/conversione-gratuita-di-gif-in-mpeg-tramite-movavi-guida-passo-passo-sul-web/"><u>Conversione Gratuita Di GIF in MPEG Tramite Movavi: Guida Passo-Passo Sul Web</u></a></li>
+<li><a href="https://win-tips.techidaily.com/convert-video-files-to-mp4-and-audio-format-for-free-using-the-movavi-toolbar/"><u>Convert Video Files to MP4 and Audio Format for Free Using the Movavi Toolbar</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/forgot-pattern-lock-heres-how-you-can-unlock-oppo-a78-pattern-lock-screen-by-drfone-android/"><u>Forgot Pattern Lock? Heres How You Can Unlock Oppo A78 Pattern Lock Screen</u></a></li>
+<li><a href="https://win-tips.techidaily.com/gratuita-conversao-de-videos-mov-online-com-moovavi-facil-e-sem-custo/"><u>Gratuita Conversão De Vídeos MOV Online Com Moovavi - Fácil E Sem Custo</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/how-to-modify-picture-scales-on-your-desktop-computer-and-laptop/"><u>How to Modify Picture Scales on Your Desktop Computer & Laptop</u></a></li>
+<li><a href="https://win-tips.techidaily.com/la-selection-parfaite-les-12-principaux-programmes-mac-screen-recorder-en-2024-comparatif-des-logiciels-denregistrement-decran-de-movavi/"><u>La Sélection Parfaite: Les 12 Principaux Programmes Mac Screen Recorder En 2024 – Comparatif Des Logiciels D'enregistrement D'Écran De Movavi</u></a></li>
+<li><a href="https://program-issues.techidaily.com/optimize-call-of-duty-warzone-for-a-lag-free-experience-on-your-pc-latest-tricks/"><u>Optimize Call of Duty Warzone for a Lag-Free Experience on Your PC - Latest Tricks</u></a></li>
+<li><a href="https://extra-information.techidaily.com/unleash-potential-our-picks-for-the-most-inspiring-films/"><u>Unleash Potential Our Picks for the Most Inspiring Films</u></a></li>
+<li><a href="https://win-tips.techidaily.com/web-ts-wav/"><u>Web으로 TS 음성 파일을 WAV로 자리바꾸기: 무료 해제</u></a></li>
+<li><a href="https://win-tips.techidaily.com/wifi-wmv-f4v/"><u>무료 앱 사용 WiFi로 WMV 및 F4V 파일 구조 교체 - 모데비비</u></a></li>
+</ul></div>
+

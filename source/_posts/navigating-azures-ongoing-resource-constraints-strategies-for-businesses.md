@@ -1,7 +1,7 @@
 ---
 title: Navigating Azure's Ongoing Resource Constraints - Strategies for Businesses
-date: 2024-09-16T16:21:42.535Z
-updated: 2024-09-23T16:26:29.855Z
+date: 2024-09-22T23:21:24.578Z
+updated: 2024-09-27T18:17:51.187Z
 tags:
   - microsoft
 categories:
@@ -53,19 +53,6 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 
 [See all](https://www.zdnet.com/newsletters/)
 
-<!-- affiliate ads begin -->
-<span id="1770544">
-					<video width="240" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1770544.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/20702-1770544">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1770544.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftokenmetrics.sjv.io%2Fc%2F5597632%2F1770544%2F20702'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1770544/20702" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## **2\. Install Linux**
 
 Then, there's my default suggestion: [Move from your soon-to-be-outdated Windows 10 to Linux](https://www.zdnet.com/article/how-to-replace-windows-with-linux-mint-on-your-pc/#link=%7B%22role%22:%22standard%22,%22href%22:%22https://www.zdnet.com/article/how-to-replace-windows-with-linux-mint-on-your-pc/%22,%22target%22:%22%22,%22absolute%22:%22%22,%22linkText%22:%22Move%20from%20your%20soon-to-be-outdated%20Windows%2010%20to%20Linux%22%7D). Yes, I know you've been told that Linux is hard to use and install. It's not. 
@@ -97,10 +84,10 @@ By the way, neither Linux nor ChromeOS Flex will cost you a dime. They're free n
 If you want to replace your Windows machines in a business, Google can help you. For organizations using ChromeOS Flex under [Chrome Enterprise Upgrade](https://chromeos.google/products/device-management/) or [Chrome Education Upgrade](https://services.google.com/fh/files/misc/chrome%5Feducation%5Fupgrade%5Fonepager.pdf), Google offers dedicated support. You can access support via the Google Admin console. There, you'll find help with device enrollment, connectivity issues, and software-related problems. The price starts at $50 per machine per year. 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1915805/19272" target="_top" id="1915805">
-  <img src="//a.impactradius-go.com/display-ad/19272-1915805" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1886003/19272" target="_top" id="1886003">
+  <img src="//a.impactradius-go.com/display-ad/19272-1886003" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915805/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886003/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **4\. Pay for Windows 10 Extended Support**
@@ -135,6 +122,13 @@ In summary, commercial organizations will pay $61 to $244 per device over three 
 
 I'd only go with an ESU, myself, if I _really_ had no other choice.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1997643/19272" target="_top" id="1997643">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997643" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997643/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## **5\. Try alternative security patching**
 
 Finally, a company called [0Patch](https://0patch.com/#link=%7B%22role%22:%22standard%22,%22href%22:%22https://0patch.com/%22,%22target%22:%22%5Fblank%22,%22absolute%22:%22%22,%22linkText%22:%220Patch%22%7D) offers customized patches for out-of-service operating systems. For example, [0Patch](https://www.zdnet.de/88411127/0patch-verspricht-sicherheitsupdates-fuer-windows-server-2012-bis-2026/#link=%7B%22role%22:%22standard%22,%22href%22:%22https://www.zdnet.de/88411127/0patch-verspricht-sicherheitsupdates-fuer-windows-server-2012-bis-2026/%22,%22target%22:%22%22,%22absolute%22:%22%22,%22linkText%22:%220Patch%20offers%20%22%7D)supported Windows Server 2012 until 2026\. Now, it supports [Windows 10 for about $25 a year](https://0patch.com/pricing.html).
@@ -142,10 +136,10 @@ Finally, a company called [0Patch](https://0patch.com/#link=%7B%22role%22:%22sta
 **Also: [Linux might be your best bet for heightening your desktop computer security](https://www.zdnet.com/article/linux-might-be-your-best-bet-for-heightening-your-desktop-computer-security/)**
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094419/7443" target="_top" id="2094419">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094419" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136621/26400" target="_top" id="2136621">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136621" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094419/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136621/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **Ignore it and keep running Windows 10** 
@@ -153,10 +147,16 @@ Finally, a company called [0Patch](https://0patch.com/#link=%7B%22role%22:%22sta
 Do you have a death wish!? No, just no! Unless your Windows 10 PC is never, ever connected to the internet, this is just asking for trouble.
 
 <!-- affiliate ads begin -->
-<a href="https://oneplusfr.sjv.io/c/5597632/1622438/14044" target="_top" id="1622438">
-  <img src="//a.impactradius-go.com/display-ad/14044-1622438" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://oneplusfr.sjv.io/i/5597632/1622438/14044" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1993645">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993645.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993645">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993645.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993645%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993645/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **Conclusion**
@@ -200,5 +200,24 @@ Don't trash your old Windows 10 PCs! There are many ways to give them a long, us
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-helps.techidaily.com/updated-essential-choice-top-11-beginner-friendly-kids-camera-options-for-2024/"><u>[Updated] Essential Choice Top 11 Beginner-Friendly Kids' Camera Options for 2024</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/updated-sharing-youtube-content-on-facebook-a-step-by-step-guide/"><u>[Updated] Sharing YouTube Content on Facebook A Step-by-Step Guide</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-unveiling-immersion-the-lg-360-virtual-reality-experience/"><u>[Updated] Unveiling Immersion The LG 360 Virtual Reality Experience</u></a></li>
+<li><a href="https://ai-video-translation.techidaily.com/2024-approved-best-toolbox-to-translate-youtube-videos-to-english-subtitles/"><u>2024 Approved Best Toolbox to Translate YouTube Videos to English Subtitles</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/2024-approved-expert-tips-for-seamless-integration-of-pip-in-microsoft-edge/"><u>2024 Approved Expert Tips for Seamless Integration of PIP in Microsoft Edge</u></a></li>
+<li><a href="https://win-tips.techidaily.com/advantages-of-switching-from-windows-home-to-pro-comprehensive-tutorial-on-easy-transition-and-feature-boosts-techexpertguide/"><u>Advantages of Switching From Windows Home to Pro – Comprehensive Tutorial on Easy Transition and Feature Boosts | TechExpertGuide</u></a></li>
+<li><a href="https://win-tips.techidaily.com/azure-unveils-radius-revolutionizing-open-source-tools-for-hybrid-cloud-environments-technews/"><u>Azure Unveils Radius - Revolutionizing Open Source Tools for Hybrid Cloud Environments | TechNews</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-can-i-use-a-fake-gps-without-mock-location-on-poco-c50-drfone-by-drfone-virtual-android/"><u>How Can I Use a Fake GPS Without Mock Location On Poco C50? | Dr.fone</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-motorola-edge-40-pro-mirror-screen-to-pc-drfone-by-drfone-android/"><u>How Motorola Edge 40 Pro Mirror Screen to PC? | Dr.fone</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-unlock-oppo-a18-bootloader-easily-by-drfone-android/"><u>In 2024, How to Unlock Oppo A18 Bootloader Easily</u></a></li>
+<li><a href="https://win-tips.techidaily.com/microsoft-surface-ai-powered-computing-dominance-threatens-apples-traditional-approach-an-insightful-analysis-by-zdnet/"><u>Microsoft Surface: AI-Powered Computing Dominance Threatens Apple's Traditional Approach - An Insightful Analysis by ZDNet</u></a></li>
+<li><a href="https://win-tips.techidaily.com/overcoming-azure-capacity-constraints-strategies-for-businesses-insights-and-solutions/"><u>Overcoming Azure Capacity Constraints: Strategies for Businesses - Insights and Solutions</u></a></li>
+<li><a href="https://win-blog.techidaily.com/resolved-eliminating-persistent-noxplayer-pc-shutdowns-and-glitches/"><u>Resolved: Eliminating Persistent NoxPlayer PC Shutdowns and Glitches</u></a></li>
+<li><a href="https://win-tips.techidaily.com/the-ultimate-decision-makers-checklist-choosing-your-windows-11-user-account-type-wisely-insights-by-zdnet/"><u>The Ultimate Decision-Maker's Checklist: Choosing Your Windows 11 User Account Type Wisely | Insights by ZDNET</u></a></li>
+<li><a href="https://win-tips.techidaily.com/understanding-the-legality-of-your-windows-product-key-is-it-compliant-with-microsofts-policies/"><u>Understanding the Legality of Your Windows Product Key: Is It Compliant with Microsoft's Policies?</u></a></li>
+<li><a href="https://win-tips.techidaily.com/unveiling-the-chaotic-digitalization-of-personal-computing-a-deep-dive-into-googlefication-zdnet/"><u>Unveiling the Chaotic Digitalization of Personal Computing: A Deep Dive Into 'Googlefication' - ZDNet</u></a></li>
+<li><a href="https://win-tips.techidaily.com/widespread-disruption-as-microsoft-asterisk-365-suffers-major-service-interruption-a-comprehensive-breakdown-by-zdnet/"><u>Widespread Disruption as Microsoft Asterisk 365 Suffers Major Service Interruption - A Comprehensive Breakdown by ZDNET</u></a></li>
+</ul></div>
 

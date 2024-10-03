@@ -1,7 +1,7 @@
 ---
 title: Soil Structure and Porosity
-date: 2024-09-24T16:50:56.215Z
-updated: 2024-09-27T18:19:37.285Z
+date: 2024-09-26T16:25:29.920Z
+updated: 2024-10-02T18:22:52.840Z
 tags:
   - windows
 categories:
@@ -44,10 +44,10 @@ There is at least one exception to this cutoff date, which applies to PCs runnin
 Confusingly, Windows 10 Enterprise LTSC 2021 has only a five-year support lifecycle, which means it ends support on January 12, 2027.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2016165/19272" target="_top" id="2016165">
-  <img src="//a.impactradius-go.com/display-ad/19272-2016165" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2094421/7443" target="_top" id="2094421">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094421" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016165/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094421/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How many PCs are running Windows 10 today?
@@ -85,10 +85,10 @@ That purple line at the top of the chart is Windows 10, and the blue line far be
 The current installed base of Windows PCs consists of about twice as many PCs running Windows 10 compared to its successor. (That's an improvement over last year's number, at least, where the ratio was more than three to one.)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105876/7443" target="_top" id="2105876">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105876" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://review-au.sjv.io/c/5597632/2135316/14409" target="_top" id="2135316">
+  <img src="//a.impactradius-go.com/display-ad/14409-2135316" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105876/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2135316/14409" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How many PCs will still be running Windows 10 at the end of 2025?
@@ -181,19 +181,20 @@ _This article was originally published in July 2023\. The most recent update was
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-guidance.techidaily.com/updated-mastering-youtube-settings-to-eliminate-video-skips/"><u>[Updated] Mastering YouTube Settings to Eliminate Video Skips</u></a></li>
-<li><a href="https://win-tips.techidaily.com/1-ultimate-video-extractor-get-your-favorite-shows-from-ondemandkorea-with-ease/"><u>1. Ultimate Video Extractor: Get Your Favorite Shows From OnDemandKorea with Ease!</u></a></li>
-<li><a href="https://win-tips.techidaily.com/1-att-technology-streamline-media-extractor-secure-your-favorite-videos-from-techchannelatt/"><u>1) Att Technology Streamline Media Extractor: Secure Your Favorite Videos From TechChannel.Att</u></a></li>
-<li><a href="https://techtrends.techidaily.com/1722868703242-apple-teases-the-future-with-touchscreen-macbook-upcoming-prices-release-dates-and-specs-unveiled/"><u>Apple Teases the Future with Touchscreen MacBook – Upcoming Prices, Release Dates & Specs Unveiled</u></a></li>
-<li><a href="https://fox-info.techidaily.com/beating-the-heat-substitutes-for-xsplit-for-2024/"><u>Beating the Heat Substitutes for XSplit for 2024</u></a></li>
-<li><a href="https://common-error.techidaily.com/how-to-restore-microsoft-print-to-pdf-capabilities-on-your-windows-10-or-11-device/"><u>How to Restore Microsoft Print to PDF Capabilities on Your Windows 10 or 11 Device</u></a></li>
-<li><a href="https://iphone-transfer.techidaily.com/how-to-transfer-from-apple-iphone-xs-to-iphone-81111-pro-drfone-by-drfone-transfer-from-ios/"><u>How to Transfer from Apple iPhone XS to iPhone 8/11/11 Pro | Dr.fone</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/in-2024-complete-guide-on-unlocking-iphone-14-pro-max-with-a-broken-screen-drfone-by-drfone-ios/"><u>In 2024, Complete Guide on Unlocking iPhone 14 Pro Max with a Broken Screen? | Dr.fone</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/in-2024-proven-steps-to-distance-friendly-podcasting-excellence/"><u>In 2024, Proven Steps to Distance-Friendly Podcasting Excellence</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/strategic-health-planning-leveraging-chatgpt-for-personalized-wellbeing-targets/"><u>Strategic Health Planning: Leveraging ChatGPT for Personalized Wellbeing Targets</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/mline-your-youtube-short-experience/"><u>Streamline Your YouTube Short Experience</u></a></li>
-<li><a href="https://win-tips.techidaily.com/text-alignment-techniques-in-flipbuilder-mastering-right-and-left-positioning/"><u>Text Alignment Techniques in FlipBuilder - Mastering Right and Left Positioning</u></a></li>
-<li><a href="https://win-tips.techidaily.com/transferring-powerpoint-links-into-flipbook-format-with-ease-a-step-by-step-guide/"><u>Transferring PowerPoint Links Into FlipBook Format with Ease - A Step-by-Step Guide</u></a></li>
-<li><a href="https://win-tips.techidaily.com/ultimate-resource-for-flip-powerpoint-tutorials-and-techniques-discover-new-skills-on-flipbuildercom/"><u>Ultimate Resource for Flip PowerPoint Tutorials & Techniques - Discover New Skills on FlipBuilder.com</u></a></li>
+<li><a href="https://video-capture.techidaily.com/decoding-audio-quality-a-detailed-comparison-between-flac-and-mp3-file-types/"><u>Decoding Audio Quality: A Detailed Comparison Between FLAC and MP3 File Types</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/flawless-fast-windows-picture-sight/"><u>Flawless Fast Windows Picture Sight</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/how-to-get-100k-view-on-youtube-video-for-2024/"><u>How to Get 100K View on YouTube Video for 2024</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/how-to-transfer-photos-from-xiaomi-redmi-note-13-5g-to-samsung-galaxy-s21-ultra-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Photos From Xiaomi Redmi Note 13 5G to Samsung Galaxy S21 Ultra | Dr.fone</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-to-unlock-samsung-galaxy-f54-5g-phone-without-password-by-drfone-android/"><u>How To Unlock Samsung Galaxy F54 5G Phone Without Password?</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-mirror-vivo-s17-to-mac-drfone-by-drfone-android/"><u>In 2024, How to Mirror Vivo S17 to Mac? | Dr.fone</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-wondering-the-best-alternative-to-hola-on-realme-c67-4g-here-is-the-answer-drfone-by-drfone-virtual-android/"><u>In 2024, Wondering the Best Alternative to Hola On Realme C67 4G? Here Is the Answer | Dr.fone</u></a></li>
+<li><a href="https://win-tips.techidaily.com/mac-mastery-adjusting-and-changing-the-function-of-command-keys-tips-from-zdnet/"><u>Mac Mastery: Adjusting and Changing the Function of Command Keys (Tips From ZDNet)</u></a></li>
+<li><a href="https://win-tips.techidaily.com/navigating-through-the-chaotic-transformation-the-rise-of-google-in-personal-computing-a-deep-dive/"><u>Navigating Through the Chaotic Transformation: The Rise of Google in Personal Computing - A Deep Dive</u></a></li>
+<li><a href="https://win-tips.techidaily.com/now-taking-reservations-microsofts-updated-surface-laptop-go-2-starting-from-599-exclusive-preview-by-zdnet/"><u>Now Taking Reservations: Microsoft's Updated Surface Laptop Go 2, Starting From $599 – Exclusive Preview by ZDNET!</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/transform-your-watching-experience-adding-captions-to-windows-media-player/"><u>Transform Your Watching Experience Adding Captions to Windows Media Player</u></a></li>
+<li><a href="https://win-tips.techidaily.com/transitioning-from-microsoft-accounts-to-local-accounts-on-your-pc-tips-and-tricks/"><u>Transitioning From Microsoft Accounts to Local Accounts on Your PC - Tips & Tricks</u></a></li>
+<li><a href="https://win-tips.techidaily.com/ultimate-showdown-evaluating-top-ai-assistants-chatgpt-microsofts-copilot-and-gmx-vs-gemini/"><u>Ultimate Showdown: Evaluating Top AI Assistants – ChatGPT, Microsoft's Copilot and GMX Vs. Gemini</u></a></li>
+<li><a href="https://win-tips.techidaily.com/unlocking-potential-the-impact-of-ga-on-increasing-software-team-outputs-according-to-recent-research-zdnet/"><u>Unlocking Potential: The Impact of GA on Increasing Software Team Outputs, According to Recent Research | ZDNet</u></a></li>
+<li><a href="https://win-tips.techidaily.com/unveiling-the-microsoft-surface-duo-2-an-ongoing-review-with-a-mix-of-curiosity-and-puzzlement-at-week-two-zdnet/"><u>Unveiling the Microsoft Surface Duo 2: An Ongoing Review with a Mix of Curiosity and Puzzlement at Week Two | ZDNet</u></a></li>
 </ul></div>
 

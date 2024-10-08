@@ -1,7 +1,7 @@
 ---
 title: "Multi-Cloud Innovation Unleashed: Microsoft Azure Launches Radius, a Cutting-Edge Open-Source Architecture | TechVibes"
-date: 2024-09-26T07:38:01.595Z
-updated: 2024-10-03T06:02:24.913Z
+date: 2024-10-06T16:51:40.147Z
+updated: 2024-10-08T16:11:03.927Z
 tags:
   - microsoft
 categories:
@@ -54,10 +54,10 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 [See all](https://www.zdnet.com/newsletters/)
 
 <!-- affiliate ads begin -->
-<a href="https://review-au.sjv.io/c/5597632/2098705/14409" target="_top" id="2098705">
-  <img src="//a.impactradius-go.com/display-ad/14409-2098705" border="0" alt="https://techidaily.com" width="250" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2130532/26400" target="_top" id="2130532">
+  <img src="//a.impactradius-go.com/display-ad/26400-2130532" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098705/14409" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130532/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **2\. Install Linux**
@@ -69,6 +69,13 @@ Sure, back in the 2000s, you needed to be a Linux shell command wizard to instal
 **Also: [5 reasons why Linux will overtake Windows and MacOS on the desktop](https://www.zdnet.com/article/5-reasons-why-linux-will-eventually-overtake-windows-and-macos-on-the-desktop/)**
 
 Another advantage of running Linux is that your PC will never be left behind. I have computers more than a decade old that came with Windows XP, and they're still running up-to-date Linux. 
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087409/7443" target="_top" id="2087409">
+  <img src="//a.impactradius-go.com/display-ad/7443-2087409" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087409/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## **3\. Switch to ChromeOS**
 
@@ -89,13 +96,6 @@ By the way, neither Linux nor ChromeOS Flex will cost you a dime. They're free n
 **Also: [Google might abandon ChromeOS Flex. Here's why - and what you can do about it](https://www.zdnet.com/article/google-might-abandon-chromeos-flex-next-heres-why/)**
 
 If you want to replace your Windows machines in a business, Google can help you. For organizations using ChromeOS Flex under [Chrome Enterprise Upgrade](https://chromeos.google/products/device-management/) or [Chrome Education Upgrade](https://services.google.com/fh/files/misc/chrome%5Feducation%5Fupgrade%5Fonepager.pdf), Google offers dedicated support. You can access support via the Google Admin console. There, you'll find help with device enrollment, connectivity issues, and software-related problems. The price starts at $50 per machine per year. 
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087390/7443" target="_top" id="2087390">
-  <img src="//a.impactradius-go.com/display-ad/7443-2087390" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087390/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## **4\. Pay for Windows 10 Extended Support**
 
@@ -129,28 +129,28 @@ In summary, commercial organizations will pay $61 to $244 per device over three 
 
 I'd only go with an ESU, myself, if I _really_ had no other choice.
 
+<!-- affiliate ads begin -->
+<a href="https://homestyler.sjv.io/c/5597632/1943648/22993" target="_top" id="1943648">
+  <img src="//a.impactradius-go.com/display-ad/22993-1943648" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://homestyler.sjv.io/i/5597632/1943648/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## **5\. Try alternative security patching**
 
 Finally, a company called [0Patch](https://0patch.com/#link=%7B%22role%22:%22standard%22,%22href%22:%22https://0patch.com/%22,%22target%22:%22%5Fblank%22,%22absolute%22:%22%22,%22linkText%22:%220Patch%22%7D) offers customized patches for out-of-service operating systems. For example, [0Patch](https://www.zdnet.de/88411127/0patch-verspricht-sicherheitsupdates-fuer-windows-server-2012-bis-2026/#link=%7B%22role%22:%22standard%22,%22href%22:%22https://www.zdnet.de/88411127/0patch-verspricht-sicherheitsupdates-fuer-windows-server-2012-bis-2026/%22,%22target%22:%22%22,%22absolute%22:%22%22,%22linkText%22:%220Patch%20offers%20%22%7D)supported Windows Server 2012 until 2026\. Now, it supports [Windows 10 for about $25 a year](https://0patch.com/pricing.html).
 
 **Also: [Linux might be your best bet for heightening your desktop computer security](https://www.zdnet.com/article/linux-might-be-your-best-bet-for-heightening-your-desktop-computer-security/)**
 
-<!-- affiliate ads begin -->
-<a href="https://homestyler.sjv.io/c/5597632/1943647/22993" target="_top" id="1943647">
-  <img src="//a.impactradius-go.com/display-ad/22993-1943647" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://homestyler.sjv.io/i/5597632/1943647/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## **Ignore it and keep running Windows 10** 
 
 Do you have a death wish!? No, just no! Unless your Windows 10 PC is never, ever connected to the internet, this is just asking for trouble.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136621/26400" target="_top" id="2136621">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136621" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2100538/7443" target="_top" id="2100538">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100538" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136621/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100538/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **Conclusion**
@@ -196,19 +196,20 @@ Don't trash your old Windows 10 PCs! There are many ways to give them a long, us
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-video-recordings.techidaily.com/new-next-gen-editors-the-ultimate-selection-of-instagram-tools-for-2024/"><u>[New] Next-Gen Editors The Ultimate Selection of Instagram Tools for 2024</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/new-urban-adventure-top-games-similar-to-gta-v/"><u>[New] Urban Adventure Top Games Similar to GTA V</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/updated-expert-tips-streaming-youtube-and-fb-videos-seamlessly-with-apple-tv-for-2024/"><u>[Updated] Expert Tips Streaming YouTube & FB Videos Seamlessly with Apple TV for 2024</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-exclusive-lineup-top-10-sources-for-vector-imagery/"><u>2024 Approved Exclusive Lineup Top 10 Sources for Vector Imagery</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/affordable-advanced-technology-sapphire-releases-new-mini-itx-am5-motherboards-with-cost-efficient-pcie-gen-4-in-chinese-market/"><u>Affordable Advanced Technology: Sapphire Releases New Mini ITX AM5 Motherboards with Cost-Efficient PCIe Gen 4 in Chinese Market</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/discover-the-premier-choices-for-smart-spectacles-this-year/"><u>Discover the Premier Choices for Smart Spectacles This Year</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/how-to-show-wi-fi-password-on-vivo-y78t-by-drfone-android/"><u>How to Show Wi-Fi Password on Vivo Y78t</u></a></li>
-<li><a href="https://win-tips.techidaily.com/is-bing-stepping-back-from-its-battle-against-google-insights-revealed-technews/"><u>Is Bing Stepping Back From Its Battle Against Google? Insights Revealed | TechNews</u></a></li>
-<li><a href="https://win-tips.techidaily.com/mac-mastery-adjusting-and-changing-the-function-of-command-keys-tips-from-zdnet/"><u>Mac Mastery: Adjusting and Changing the Function of Command Keys (Tips From ZDNet)</u></a></li>
-<li><a href="https://win-tips.techidaily.com/master-your-email-game-effortlessly-a-no-hassle-trick-to-tidy-up-without-complicated-rules/"><u>Master Your Email Game Effortlessly: A No-Hassle Trick to Tidy Up Without Complicated Rules!</u></a></li>
-<li><a href="https://win-tips.techidaily.com/navigating-through-the-chaotic-transformation-the-rise-of-google-in-personal-computing-a-deep-dive/"><u>Navigating Through the Chaotic Transformation: The Rise of Google in Personal Computing - A Deep Dive</u></a></li>
-<li><a href="https://driver-install.techidaily.com/new-horizons-in-gpu-maintenance-via-ddu-techniques/"><u>New Horizons in GPU Maintenance via DDU Techniques</u></a></li>
-<li><a href="https://win-tips.techidaily.com/now-taking-reservations-microsofts-updated-surface-laptop-go-2-starting-from-599-exclusive-preview-by-zdnet/"><u>Now Taking Reservations: Microsoft's Updated Surface Laptop Go 2, Starting From $599 – Exclusive Preview by ZDNET!</u></a></li>
-<li><a href="https://win-tips.techidaily.com/ultimate-showdown-evaluating-top-ai-assistants-chatgpt-microsofts-copilot-and-gmx-vs-gemini/"><u>Ultimate Showdown: Evaluating Top AI Assistants – ChatGPT, Microsoft's Copilot and GMX Vs. Gemini</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-in-2024-essential-guide-to-forming-powerful-content-partnerships-on-youtube/"><u>[New] In 2024, Essential Guide to Forming Powerful Content Partnerships on YouTube</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-leading-windows-call-platforms-7-1-ranked/"><u>[Updated] Leading Windows Call Platforms #7-#1 Ranked</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/2024-approved-perfecting-your-vocal-harmony-in-canva-projects/"><u>2024 Approved Perfecting Your Vocal Harmony in Canva Projects</u></a></li>
+<li><a href="https://win-tips.techidaily.com/access-hilarious-smosh-skits-as-high-quality-video-files-mp4-mov-avi-on-windowsmac-devices/"><u>Access Hilarious Smosh Skits as High-Quality Video Files (MP4, MOV, AVI) on Windows/Mac Devices</u></a></li>
+<li><a href="https://win-tips.techidaily.com/access-premium-porn-on-sunporno-safe-and-private-video-downloads-available-now/"><u>Access Premium Porn on SunPorno: Safe and Private Video Downloads Available Now!</u></a></li>
+<li><a href="https://article-helps.techidaily.com/advanced-3d-media-player-for-android-users-for-2024/"><u>Advanced 3D Media Player for Android Users for 2024</u></a></li>
+<li><a href="https://win-tips.techidaily.com/convert-and-save-instagram-footage-in-various-formats-mp4-wmv-etc-pc-and-mac-compatible/"><u>Convert and Save Instagram Footage in Various Formats (MP4, WMV, Etc.) - PC & Mac Compatible</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/discover-the-ultimate-7-ai-resources-for-tackling-complex-math-equations/"><u>Discover the Ultimate 7 AI Resources for Tackling Complex Math Equations</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-change-apple-iphone-14-pro-location-on-skout-drfone-by-drfone-virtual-ios/"><u>How to Change Apple iPhone 14 Pro Location on Skout | Dr.fone</u></a></li>
+<li><a href="https://win-tips.techidaily.com/how-to-save-and-enjoy-slutload-episodes-with-ease/"><u>How to Save and Enjoy SlutLoad Episodes with Ease</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-complete-tutorial-to-use-vpna-to-fake-gps-location-on-sony-xperia-10-v-drfone-by-drfone-virtual-android/"><u>In 2024, Complete Tutorial to Use VPNa to Fake GPS Location On Sony Xperia 10 V | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-can-i-use-a-fake-gps-without-mock-location-on-honor-magic-vs-2-drfone-by-drfone-virtual-android/"><u>In 2024, How Can I Use a Fake GPS Without Mock Location On Honor Magic Vs 2? | Dr.fone</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/latest-epson-xp-330-support-software-available-now/"><u>Latest Epson XP-330 Support Software Available Now</u></a></li>
+<li><a href="https://win-tips.techidaily.com/smh-downloads-made-easy-a-step-by-step-guide-for-saving-articles-and-videos-in-mp4-format-from-smhcomau/"><u>SMH Downloads Made Easy: A Step-by-Step Guide for Saving Articles and Videos in MP4 Format From smh.com.au</u></a></li>
+<li><a href="https://win-tips.techidaily.com/streamline-your-research-with-jove-video-extractor-for-pcmac-users/"><u>Streamline Your Research with JoVE Video Extractor for PC/Mac Users</u></a></li>
 </ul></div>
 

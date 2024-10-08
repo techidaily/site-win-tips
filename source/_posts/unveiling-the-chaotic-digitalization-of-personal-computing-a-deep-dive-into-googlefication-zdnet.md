@@ -1,7 +1,7 @@
 ---
 title: "Unveiling the Chaotic Digitalization of Personal Computing: A Deep Dive Into 'Googlefication' - ZDNet"
-date: 2024-10-02T04:11:16.016Z
-updated: 2024-10-02T18:17:20.667Z
+date: 2024-10-06T16:57:00.444Z
+updated: 2024-10-08T16:39:12.273Z
 tags:
   - microsoft
 categories:
@@ -54,10 +54,10 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 [See all](https://www.zdnet.com/newsletters/)
 
 <!-- affiliate ads begin -->
-<a href="https://homestyler.sjv.io/c/5597632/1943648/22993" target="_top" id="1943648">
-  <img src="//a.impactradius-go.com/display-ad/22993-1943648" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://electronicx.pxf.io/c/5597632/1167086/14483" target="_top" id="1167086">
+  <img src="//a.impactradius-go.com/display-ad/14483-1167086" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://homestyler.sjv.io/i/5597632/1943648/22993" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://electronicx.pxf.io/i/5597632/1167086/14483" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **2\. Install Linux**
@@ -69,13 +69,6 @@ Sure, back in the 2000s, you needed to be a Linux shell command wizard to instal
 **Also: [5 reasons why Linux will overtake Windows and MacOS on the desktop](https://www.zdnet.com/article/5-reasons-why-linux-will-eventually-overtake-windows-and-macos-on-the-desktop/)**
 
 Another advantage of running Linux is that your PC will never be left behind. I have computers more than a decade old that came with Windows XP, and they're still running up-to-date Linux. 
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2012415/19272" target="_top" id="2012415">
-  <img src="//a.impactradius-go.com/display-ad/19272-2012415" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012415/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## **3\. Switch to ChromeOS**
 
@@ -96,6 +89,13 @@ By the way, neither Linux nor ChromeOS Flex will cost you a dime. They're free n
 **Also: [Google might abandon ChromeOS Flex. Here's why - and what you can do about it](https://www.zdnet.com/article/google-might-abandon-chromeos-flex-next-heres-why/)**
 
 If you want to replace your Windows machines in a business, Google can help you. For organizations using ChromeOS Flex under [Chrome Enterprise Upgrade](https://chromeos.google/products/device-management/) or [Chrome Education Upgrade](https://services.google.com/fh/files/misc/chrome%5Feducation%5Fupgrade%5Fonepager.pdf), Google offers dedicated support. You can access support via the Google Admin console. There, you'll find help with device enrollment, connectivity issues, and software-related problems. The price starts at $50 per machine per year. 
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144272/7443" target="_top" id="2144272">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144272" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144272/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## **4\. Pay for Windows 10 Extended Support**
 
@@ -130,10 +130,10 @@ In summary, commercial organizations will pay $61 to $244 per device over three 
 I'd only go with an ESU, myself, if I _really_ had no other choice.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135349/19272" target="_top" id="2135349">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135349" border="0" alt="https://techidaily.com" width="120" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2118320/7443" target="_top" id="2118320">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118320" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135349/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118320/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **5\. Try alternative security patching**
@@ -143,10 +143,10 @@ Finally, a company called [0Patch](https://0patch.com/#link=%7B%22role%22:%22sta
 **Also: [Linux might be your best bet for heightening your desktop computer security](https://www.zdnet.com/article/linux-might-be-your-best-bet-for-heightening-your-desktop-computer-security/)**
 
 <!-- affiliate ads begin -->
-<a href="https://review-au.sjv.io/c/5597632/2098701/14409" target="_top" id="2098701">
-  <img src="//a.impactradius-go.com/display-ad/14409-2098701" border="0" alt="https://techidaily.com" width="120" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1884002/19272" target="_top" id="1884002">
+  <img src="//a.impactradius-go.com/display-ad/19272-1884002" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098701/14409" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1884002/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **Ignore it and keep running Windows 10** 
@@ -196,24 +196,19 @@ Don't trash your old Windows 10 PCs! There are many ways to give them a long, us
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-webster.techidaily.com/o-delays-you-can-now-see-your-shorts-for-2024/"><u>[New] No Delays! You Can Now See Your Shorts for 2024</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/new-revamped-look-at-sonys-s6500-bdp/"><u>[New] Revamped Look at Sony's S6500 BDP</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/updated-top-montages-made-easy-androidios-apps-for-creative-minds-for-2024/"><u>[Updated] Top Montages Made Easy Android/iOS Apps for Creative Minds for 2024</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/approved-premium-7-video-gear-ideas-for-captivating-vloggers/"><u>2024 Approved Premium 7 Video Gear Ideas for Captivating Vloggers</u></a></li>
-<li><a href="https://fox-links.techidaily.com/2024-approved-the-prime-collection-of-no-cost-passport-photo-making-software/"><u>2024 Approved The Prime Collection of No-Cost Passport Photo Making Software</u></a></li>
-<li><a href="https://win-tips.techidaily.com/aprende-a-aprovechar-la-tecnologia-de-camaras-virtuais-obs-en-el-2024-guia-detallada/"><u>Aprende a Aprovechar La Tecnología De Camaras Virtuais OBS en El 2024 - Guia Detallada</u></a></li>
-<li><a href="https://win-tips.techidaily.com/bulk-swf-to-avi-conversion-without-cost-using-internet-or-computer-tools/"><u>Bulk SWF-to-AVI Conversion Without Cost Using Internet or Computer Tools</u></a></li>
-<li><a href="https://win-tips.techidaily.com/descubra-como-transformar-fotos-raw-en-formatos-jpg-facilmente/"><u>Descubra Como Transformar Fotos RAW en Formatos JPG Fácilmente</u></a></li>
-<li><a href="https://win-tips.techidaily.com/discover-the-top-8-descriptor-options-designed-for-fulfilling-diverse-personal-needs-effectively/"><u>Discover the Top 8 Descriptor Options Designed for Fulfilling Diverse Personal Needs Effectively</u></a></li>
-<li><a href="https://win-tips.techidaily.com/free-online-converter-easily-change-png-images-into-jpeg-format-with-movavi/"><u>Free Online Converter: Easily Change PNG Images Into JPEG Format with Movavi</u></a></li>
-<li><a href="https://win-tips.techidaily.com/gratuit-gebaseerd-swf-toevoegen-naar-mp3-professionele-lijst-van-bewerken-movavi/"><u>Gratuit Gebaseerd SWF-Toevoegen Naar MP3: Professionele Lijst Van Bewerken - Movavi</u></a></li>
-<li><a href="https://win-tips.techidaily.com/gratuita-conversao-de-videos-mov-online-com-moovavi-facil-e-sem-custo/"><u>Gratuita Conversão De Vídeos MOV Online Com Moovavi - Fácil E Sem Custo</u></a></li>
-<li><a href="https://android-frp.techidaily.com/hassle-free-ways-to-remove-frp-lock-from-oneplus-11r-phones-withwithout-a-pc-by-drfone-android/"><u>Hassle-Free Ways to Remove FRP Lock from OnePlus 11R Phones with/without a PC</u></a></li>
-<li><a href="https://extra-support.techidaily.com/sharing-the-spotlight-involving-viewers-in-your-journey-for-2024/"><u>Sharing the Spotlight Involving Viewers in Your Journey for 2024</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/streammine-group-video-downloads-for-2024/"><u>StreamMine Group Video Downloads for 2024</u></a></li>
-<li><a href="https://win-tips.techidaily.com/top-15-most-popular-presentation-software-apps-compatible-with-ios-and-android-devices/"><u>Top 15 Most Popular Presentation Software Apps Compatible with iOS & Android Devices</u></a></li>
-<li><a href="https://youtube-video-recordings.techidaily.com/turning-beauty-blogging-into-cash/"><u>Turning Beauty Blogging Into Cash</u></a></li>
-<li><a href="https://win-tips.techidaily.com/web-ts-wav/"><u>Web으로 TS 음성 파일을 WAV로 자리바꾸기: 무료 해제</u></a></li>
-<li><a href="https://howto.techidaily.com/why-your-xiaomi-14-ultra-screen-might-be-unresponsive-and-how-to-fix-it-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Why Your Xiaomi 14 Ultra Screen Might be Unresponsive and How to Fix It | Dr.fone</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-elevate-engagement-todays-must-use-instagram-hashtags/"><u>[Updated] Elevate Engagement Today's Must-Use Instagram Hashtags</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/5-top-action-cameras-with-full-hd-in-your-pocket-for-2024/"><u>5 Top Action Cameras with Full HD in Your Pocket for 2024</u></a></li>
+<li><a href="https://howto.techidaily.com/9-solutions-to-fix-process-system-isnt-responding-error-on-samsung-galaxy-s24-ultra-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>9 Solutions to Fix Process System Isnt Responding Error on Samsung Galaxy S24 Ultra | Dr.fone</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/expert-insights-efficiently-attaching-subtitles-to-mp4s-for-2024/"><u>Expert Insights Efficiently Attaching Subtitles to MP4s for 2024</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/facile-et-gratuit-transformez-vos-fichiers-audio-ape-en-aiff-en-ligne-chez-movavi/"><u>Facile Et Gratuit : Transformez Vos Fichiers Audio APE en AIFF en Ligne Chez Movavi!</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-ultimate-guide-from-apple-iphone-6-icloud-activation-lock-bypass-by-drfone-ios/"><u>In 2024, Ultimate Guide from Apple iPhone 6 iCloud Activation Lock Bypass</u></a></li>
+<li><a href="https://win-tips.techidaily.com/is-bing-stepping-back-from-its-battle-against-google-insights-revealed-technews/"><u>Is Bing Stepping Back From Its Battle Against Google? Insights Revealed | TechNews</u></a></li>
+<li><a href="https://win-tips.techidaily.com/mac-mastery-adjusting-and-changing-the-function-of-command-keys-tips-from-zdnet/"><u>Mac Mastery: Adjusting and Changing the Function of Command Keys (Tips From ZDNet)</u></a></li>
+<li><a href="https://win-tips.techidaily.com/master-your-email-game-effortlessly-a-no-hassle-trick-to-tidy-up-without-complicated-rules/"><u>Master Your Email Game Effortlessly: A No-Hassle Trick to Tidy Up Without Complicated Rules!</u></a></li>
+<li><a href="https://win-tips.techidaily.com/multi-cloud-innovation-unleashed-microsoft-azure-launches-radius-a-cutting-edge-open-source-architecture-techvibes/"><u>Multi-Cloud Innovation Unleashed: Microsoft Azure Launches Radius, a Cutting-Edge Open-Source Architecture | TechVibes</u></a></li>
+<li><a href="https://win-tips.techidaily.com/navigating-through-the-chaotic-transformation-the-rise-of-google-in-personal-computing-a-deep-dive/"><u>Navigating Through the Chaotic Transformation: The Rise of Google in Personal Computing - A Deep Dive</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/new-final-cut-pro-x-for-filmmakers-creating-visually-stunning-videos/"><u>New Final Cut Pro X for Filmmakers Creating Visually Stunning Videos</u></a></li>
+<li><a href="https://fake-location.techidaily.com/the-best-8-vpn-hardware-devices-reviewed-on-sony-xperia-5-v-drfone-by-drfone-virtual-android/"><u>The Best 8 VPN Hardware Devices Reviewed On Sony Xperia 5 V | Dr.fone</u></a></li>
+<li><a href="https://win-tips.techidaily.com/ultimate-showdown-evaluating-top-ai-assistants-chatgpt-microsofts-copilot-and-gmx-vs-gemini/"><u>Ultimate Showdown: Evaluating Top AI Assistants – ChatGPT, Microsoft's Copilot and GMX Vs. Gemini</u></a></li>
 </ul></div>
 

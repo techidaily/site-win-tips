@@ -1,7 +1,7 @@
 ---
 title: "Unveiling the Microsoft Surface Duo 2: An Ongoing Review with a Mix of Curiosity and Puzzlement at Week Two | ZDNet"
-date: 2024-09-28T10:09:34.518Z
-updated: 2024-10-02T17:33:16.368Z
+date: 2024-10-07T17:11:30.648Z
+updated: 2024-10-08T16:41:10.072Z
 tags:
   - microsoft
 categories:
@@ -53,13 +53,6 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 
 [See all](https://www.zdnet.com/newsletters/)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075471/7443" target="_top" id="2075471">
-  <img src="//a.impactradius-go.com/display-ad/7443-2075471" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075471/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## **2\. Install Linux**
 
 Then, there's my default suggestion: [Move from your soon-to-be-outdated Windows 10 to Linux](https://www.zdnet.com/article/how-to-replace-windows-with-linux-mint-on-your-pc/#link=%7B%22role%22:%22standard%22,%22href%22:%22https://www.zdnet.com/article/how-to-replace-windows-with-linux-mint-on-your-pc/%22,%22target%22:%22%22,%22absolute%22:%22%22,%22linkText%22:%22Move%20from%20your%20soon-to-be-outdated%20Windows%2010%20to%20Linux%22%7D). Yes, I know you've been told that Linux is hard to use and install. It's not. 
@@ -69,6 +62,13 @@ Sure, back in the 2000s, you needed to be a Linux shell command wizard to instal
 **Also: [5 reasons why Linux will overtake Windows and MacOS on the desktop](https://www.zdnet.com/article/5-reasons-why-linux-will-eventually-overtake-windows-and-macos-on-the-desktop/)**
 
 Another advantage of running Linux is that your PC will never be left behind. I have computers more than a decade old that came with Windows XP, and they're still running up-to-date Linux. 
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134227/18498" target="_top" id="2134227">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134227" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134227/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## **3\. Switch to ChromeOS**
 
@@ -123,10 +123,10 @@ In summary, commercial organizations will pay $61 to $244 per device over three 
 I'd only go with an ESU, myself, if I _really_ had no other choice.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1934288/19272" target="_top" id="1934288">
-  <img src="//a.impactradius-go.com/display-ad/19272-1934288" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1868586/19272" target="_top" id="1868586">
+  <img src="//a.impactradius-go.com/display-ad/19272-1868586" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934288/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868586/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **5\. Try alternative security patching**
@@ -136,10 +136,10 @@ Finally, a company called [0Patch](https://0patch.com/#link=%7B%22role%22:%22sta
 **Also: [Linux might be your best bet for heightening your desktop computer security](https://www.zdnet.com/article/linux-might-be-your-best-bet-for-heightening-your-desktop-computer-security/)**
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137413/7443" target="_top" id="2137413">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137413" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1997680/19272" target="_top" id="1997680">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997680" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137413/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997680/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **Ignore it and keep running Windows 10** 
@@ -147,10 +147,10 @@ Finally, a company called [0Patch](https://0patch.com/#link=%7B%22role%22:%22sta
 Do you have a death wish!? No, just no! Unless your Windows 10 PC is never, ever connected to the internet, this is just asking for trouble.
 
 <!-- affiliate ads begin -->
-<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137974/21526" target="_top" id="2137974">
-  <img src="//a.impactradius-go.com/display-ad/21526-2137974" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2144276/7443" target="_top" id="2144276">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144276" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137974/21526" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144276/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **Conclusion**
@@ -196,16 +196,18 @@ Don't trash your old Windows 10 PCs! There are many ways to give them a long, us
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-record-videos.techidaily.com/new-2024-approved-boosting-channel-success-scaling-for-a-million-viewers/"><u>[New] 2024 Approved Boosting Channel Success Scaling for a Million Viewers</u></a></li>
-<li><a href="https://win-tips.techidaily.com/how-to-fix-broken-hyperlinks-post-conversion-to-page-turner-ebooks-using-flipbuilder/"><u>How To Fix Broken Hyperlinks Post-Conversion To Page-Turner Ebooks Using FlipBuilder</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/how-to-fix-oem-unlock-missing-on-oneplus-ace-2-pro-by-drfone-android/"><u>How To Fix OEM Unlock Missing on OnePlus Ace 2 Pro?</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/how-to-update-or-install-hp-universal-printing-applications-ufd/"><u>How to Update or Install HP Universal Printing Applications (UFD)</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/in-2024-things-you-should-know-when-unlocking-total-wireless-of-iphone-12-pro-max-drfone-by-drfone-ios/"><u>In 2024, Things You Should Know When Unlocking Total Wireless Of iPhone 12 Pro Max | Dr.fone</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/in-2024-why-are-status-emojis-blue-understanding-fbs-visual-language/"><u>In 2024, Why Are Status Emojis Blue? Understanding FB's Visual Language</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-why-is-ipogo-not-working-on-samsung-galaxy-xcover-7-fixed-drfone-by-drfone-virtual-android/"><u>In 2024, Why is iPogo not working On Samsung Galaxy XCover 7? Fixed | Dr.fone</u></a></li>
-<li><a href="https://win-tips.techidaily.com/is-video-playback-supported-in-flash-format-on-flipbuilder-platform/"><u>Is Video Playback Supported in Flash Format on FlipBuilder Platform?</u></a></li>
-<li><a href="https://win-tips.techidaily.com/navigating-to-specific-content-on-flipbuildercom-a-comprehensive-guide/"><u>Navigating to Specific Content on FlipBuilder.com - A Comprehensive Guide</u></a></li>
-<li><a href="https://win-tips.techidaily.com/seamless-navigation-tutorial-mastering-pagination-with-flipbuilder/"><u>Seamless Navigation Tutorial: Mastering Pagination with FlipBuilder</u></a></li>
-<li><a href="https://win-tips.techidaily.com/seamless-page-replacement-tips-using-flipbuilder-avoid-full-project-reworks/"><u>Seamless Page Replacement Tips Using FlipBuilder: Avoid Full Project Reworks</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-embed-webcam-footage-seamlessly-via-vlc-capture-feature-for-2024/"><u>[New] Embed Webcam Footage Seamlessly via VLC Capture Feature for 2024</u></a></li>
+<li><a href="https://win-tips.techidaily.com/essential-back-to-school-shopping-list-top-supplies-your-child-needs/"><u>Essential Back to School Shopping List: Top Supplies Your Child Needs</u></a></li>
+<li><a href="https://fox-info.techidaily.com/from-novice-to-pro-periscope-stream-mastery/"><u>From Novice to Pro Periscope Stream Mastery</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-fix-unfortunately-contacts-has-stopped-error-on-realme-c51-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Fix Unfortunately, Contacts Has Stopped Error on Realme C51 | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-getting-the-pokemon-go-gps-signal-not-found-11-error-in-vivo-y100i-power-5g-drfone-by-drfone-virtual/"><u>In 2024, Getting the Pokemon Go GPS Signal Not Found 11 Error in Vivo Y100i Power 5G | Dr.fone</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/install-logitech-k400-plus-software-and-drivers-now/"><u>Install Logitech K400 Plus Software and Drivers Now</u></a></li>
+<li><a href="https://win-tips.techidaily.com/leading-ai-singularizer-for-optimal-sound-engineering-boost-your-mixes-with-ease/"><u>Leading AI Singularizer for Optimal Sound Engineering: Boost Your Mixes with Ease</u></a></li>
+<li><a href="https://win-tips.techidaily.com/professional-pdf-esignature-maker-generate-secure-digital-signatures-easily/"><u>Professional PDF eSignature Maker - Generate Secure Digital Signatures Easily</u></a></li>
+<li><a href="https://win-tips.techidaily.com/simple-techniques-for-combining-different-sound-tracks-together/"><u>Simple Techniques for Combining Different Sound Tracks Together</u></a></li>
+<li><a href="https://win-tips.techidaily.com/simple-tricks-how-to-change-your-youtube-videos-into-3gp-format-with-ease/"><u>Simple Tricks: How to Change Your YouTube Videos Into 3GP Format with Ease</u></a></li>
+<li><a href="https://techtrends.techidaily.com/tracking-social-proof-how-to-see-whose-lips-youve-spilled-on-shares-of-your-facebook-content/"><u>Tracking Social Proof: How to See Whose Lips You've Spilled On - Shares of Your Facebook Content</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/transform-and-triumph-advanced-techniques-in-youtube-edits/"><u>Trim, Transform, and Triumph Advanced Techniques in Youtube Edits</u></a></li>
+<li><a href="https://win-forum.techidaily.com/understanding-the-role-of-bios-in-system-configuration-with-revo-uninstaller/"><u>Understanding the Role of BIOS in System Configuration with Revo Uninstaller</u></a></li>
 </ul></div>
 

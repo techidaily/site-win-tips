@@ -1,7 +1,7 @@
 ---
 title: "How to Download Microsoft Office at No Cost: Expert Tips From ZDNet"
-date: 2024-09-26T02:06:40.369Z
-updated: 2024-10-03T01:38:41.283Z
+date: 2024-10-05T16:47:54.854Z
+updated: 2024-10-08T16:37:39.116Z
 tags:
   - microsoft
 categories:
@@ -53,13 +53,6 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 
 [See all](https://www.zdnet.com/newsletters/)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1880940/19272" target="_top" id="1880940">
-  <img src="//a.impactradius-go.com/display-ad/19272-1880940" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880940/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## **2\. Install Linux**
 
 Then, there's my default suggestion: [Move from your soon-to-be-outdated Windows 10 to Linux](https://www.zdnet.com/article/how-to-replace-windows-with-linux-mint-on-your-pc/#link=%7B%22role%22:%22standard%22,%22href%22:%22https://www.zdnet.com/article/how-to-replace-windows-with-linux-mint-on-your-pc/%22,%22target%22:%22%22,%22absolute%22:%22%22,%22linkText%22:%22Move%20from%20your%20soon-to-be-outdated%20Windows%2010%20to%20Linux%22%7D). Yes, I know you've been told that Linux is hard to use and install. It's not. 
@@ -69,6 +62,13 @@ Sure, back in the 2000s, you needed to be a Linux shell command wizard to instal
 **Also: [5 reasons why Linux will overtake Windows and MacOS on the desktop](https://www.zdnet.com/article/5-reasons-why-linux-will-eventually-overtake-windows-and-macos-on-the-desktop/)**
 
 Another advantage of running Linux is that your PC will never be left behind. I have computers more than a decade old that came with Windows XP, and they're still running up-to-date Linux. 
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134239/18498" target="_top" id="2134239">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134239" border="0" alt="https://techidaily.com" width="721" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134239/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## **3\. Switch to ChromeOS**
 
@@ -91,10 +91,10 @@ By the way, neither Linux nor ChromeOS Flex will cost you a dime. They're free n
 If you want to replace your Windows machines in a business, Google can help you. For organizations using ChromeOS Flex under [Chrome Enterprise Upgrade](https://chromeos.google/products/device-management/) or [Chrome Education Upgrade](https://services.google.com/fh/files/misc/chrome%5Feducation%5Fupgrade%5Fonepager.pdf), Google offers dedicated support. You can access support via the Google Admin console. There, you'll find help with device enrollment, connectivity issues, and software-related problems. The price starts at $50 per machine per year. 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1938682/19272" target="_top" id="1938682">
-  <img src="//a.impactradius-go.com/display-ad/19272-1938682" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1997635/19272" target="_top" id="1997635">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997635" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938682/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997635/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **4\. Pay for Windows 10 Extended Support**
@@ -129,28 +129,28 @@ In summary, commercial organizations will pay $61 to $244 per device over three 
 
 I'd only go with an ESU, myself, if I _really_ had no other choice.
 
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148642/16836" target="_top" id="2148642">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148642" border="0" alt="https://techidaily.com" width="300" height="50"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148642/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## **5\. Try alternative security patching**
 
 Finally, a company called [0Patch](https://0patch.com/#link=%7B%22role%22:%22standard%22,%22href%22:%22https://0patch.com/%22,%22target%22:%22%5Fblank%22,%22absolute%22:%22%22,%22linkText%22:%220Patch%22%7D) offers customized patches for out-of-service operating systems. For example, [0Patch](https://www.zdnet.de/88411127/0patch-verspricht-sicherheitsupdates-fuer-windows-server-2012-bis-2026/#link=%7B%22role%22:%22standard%22,%22href%22:%22https://www.zdnet.de/88411127/0patch-verspricht-sicherheitsupdates-fuer-windows-server-2012-bis-2026/%22,%22target%22:%22%22,%22absolute%22:%22%22,%22linkText%22:%220Patch%20offers%20%22%7D)supported Windows Server 2012 until 2026\. Now, it supports [Windows 10 for about $25 a year](https://0patch.com/pricing.html).
 
 **Also: [Linux might be your best bet for heightening your desktop computer security](https://www.zdnet.com/article/linux-might-be-your-best-bet-for-heightening-your-desktop-computer-security/)**
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123738/7443" target="_top" id="2123738">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123738" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123738/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## **Ignore it and keep running Windows 10** 
 
 Do you have a death wish!? No, just no! Unless your Windows 10 PC is never, ever connected to the internet, this is just asking for trouble.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1886069/19272" target="_top" id="1886069">
-  <img src="//a.impactradius-go.com/display-ad/19272-1886069" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2043603/7443" target="_top" id="2043603">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043603" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886069/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043603/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **Conclusion**
@@ -196,20 +196,24 @@ Don't trash your old Windows 10 PCs! There are many ways to give them a long, us
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-docs.techidaily.com/024-approved-elite-streaming-sensations-worlds-most-popular-video-content-makers/"><u>[New] 2024 Approved Elite Streaming Sensations World's Most Popular Video Content Makers</u></a></li>
-<li><a href="https://fox-access.techidaily.com/new-2024-approved-techniques-to-increase-periscope-stream-velocity/"><u>[New] 2024 Approved Techniques to Increase Periscope Stream Velocity</u></a></li>
-<li><a href="https://fox-info.techidaily.com/updated-2024-approved-conjuring-chrono-displacement-with-digital-magic/"><u>[Updated] 2024 Approved Conjuring Chrono-Displacement with Digital Magic</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/2024-approved-beijings-frigid-triumph-in-winter-sports-2022/"><u>2024 Approved Beijing's Frigid Triumph in Winter Sports, 2022</u></a></li>
-<li><a href="https://win-tips.techidaily.com/affordable-access-obtain-your-microsoft-project-and-visio-professional-licenses-today-just-20-on-zdnet/"><u>Affordable Access: Obtain Your Microsoft Project & Visio Professional Licenses Today - Just $20 on ZDNet!</u></a></li>
-<li><a href="https://win-tips.techidaily.com/get-your-hands-on-high-quality-ms-project-and-visio-pro-licenses-for-a-steal-only-20-through-this-limited-time-deal-zdnet-shop/"><u>Get Your Hands On High-Quality MS Project and Visio Pro Licenses for a Steal – Only $20 Through This Limited Time Deal | ZDNET Shop</u></a></li>
-<li><a href="https://win-tips.techidaily.com/honoring-history-in-silicon-valley-a-look-at-major-tech-firms-plans-for-juneteenth-observance/"><u>Honoring History in Silicon Valley: A Look at Major Tech Firms' Plans for Juneteenth Observance</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/how-do-i-sim-unlock-my-iphone-se-2022-by-drfone-ios/"><u>How Do I SIM Unlock My iPhone SE (2022)?</u></a></li>
-<li><a href="https://win-tips.techidaily.com/how-recent-improvements-elevate-your-experience-with-ai-compositions-in-github-copilat-innovativetechnews/"><u>How Recent Improvements Elevate Your Experience with AI Compositions in GitHub Copilat | InnovativeTechNews</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-how-can-i-use-a-fake-gps-without-mock-location-on-oppo-reno-10-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How Can I Use a Fake GPS Without Mock Location On Oppo Reno 10 5G? | Dr.fone</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/in-2024-rise-above-the-noise-nine-strategies-for-instagram-prominence/"><u>In 2024, Rise Above the Noise Nine Strategies for Instagram Prominence</u></a></li>
-<li><a href="https://win-tips.techidaily.com/mastering-color-selection-using-powertoys-color-picker-tool-insights-from-zdnet/"><u>Mastering Color Selection: Using PowerToys' Color Picker Tool - Insights From ZDNet</u></a></li>
-<li><a href="https://win-tips.techidaily.com/microsoft-debuts-budget-friendly-surface-laptop-se-at-250-to-revolutionize-learning-with-windows-amoled-se-insights-from-zdnet/"><u>Microsoft Debuts Budget-Friendly Surface Laptop SE at $250 to Revolutionize Learning with Windows Amoled SE | Insights From ZDNET</u></a></li>
-<li><a href="https://win-tips.techidaily.com/securing-top-tier-coding-talent-on-a-budget-with-microsofts-innovative-solutions/"><u>Securing Top-Tier Coding Talent on a Budget with Microsoft's Innovative Solutions</u></a></li>
-<li><a href="https://fox-that.techidaily.com/troubleshooting-guide-solving-airplay-connectivity-issues/"><u>Troubleshooting Guide: Solving AirPlay Connectivity Issues</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-simplified-guide-to-high-fidelity-console-recordings-for-2024/"><u>[New] Simplified Guide to High-Fidelity Console Recordings for 2024</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/updated-2024-approved-steps-to-become-a-live-spectator-on-tiktok/"><u>[Updated] 2024 Approved Steps to Become a Live Spectator on TikTok</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-swift-techniques-mastering-effective-double-exposure/"><u>[Updated] Swift Techniques Mastering Effective Double Exposure</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/updated-the-ultimate-tutorial-on-winning-spotify-advertising/"><u>[Updated] The Ultimate Tutorial on Winning Spotify Advertising</u></a></li>
+<li><a href="https://win-tips.techidaily.com/1-trouble-downloading-from-flipbuilder-heres-why-and-how-to-fix-it/"><u>1) Trouble Downloading From FlipBuilder? Here's Why and How to Fix It</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/2024-approved-visionary-visual-effects-the-best-text-ideas-for-video-artistry/"><u>2024 Approved Visionary Visual Effects The Best Text Ideas for Video Artistry</u></a></li>
+<li><a href="https://win-tips.techidaily.com/adjusting-flipbook-timing-settings-on-flipbuilder-for-optimal-user-experience/"><u>Adjusting Flipbook Timing Settings on FlipBuilder for Optimal User Experience</u></a></li>
+<li><a href="https://win-tips.techidaily.com/are-you-looking-for-the-macos-compatible-flipbuilder-alternative/"><u>Are You Looking for the macOS Compatible FlipBuilder Alternative?</u></a></li>
+<li><a href="https://howto.techidaily.com/authentication-error-occurred-on-lava-blaze-2-here-are-10-proven-fixes-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Authentication Error Occurred on Lava Blaze 2? Here Are 10 Proven Fixes | Dr.fone</u></a></li>
+<li><a href="https://win-tips.techidaily.com/comprehensive-faq-resource-flipbuilders-centralized-knowledge-hub/"><u>Comprehensive FAQ Resource - FlipBuilder's Centralized Knowledge Hub</u></a></li>
+<li><a href="https://win-tips.techidaily.com/craft-dynamic-picture-galleries-in-minutes-experience-next-level-presentations-with-flipbuilders-image-flipping-feature/"><u>Craft Dynamic Picture Galleries in Minutes - Experience Next-Level Presentations With FlipBuilder's Image Flipping Feature</u></a></li>
+<li><a href="https://win-tips.techidaily.com/create-eye-catching-page-turning-books-using-alpha-templates-start-now-on-flipbuildercom/"><u>Create Eye-Catching Page Turning Books Using Alpha Templates - Start Now on FlipBuilder.com</u></a></li>
+<li><a href="https://win-tips.techidaily.com/create-professional-zip-flipbooks-with-flipbuilder-simplify-your-email-marketing/"><u>Create Professional Zip Flipbooks with FlipBuilder: Simplify Your Email Marketing!</u></a></li>
+<li><a href="https://win-tips.techidaily.com/direct-run-exe-output-for-your-flipbooks-made-easy-using-flipbuilders-features/"><u>Direct-Run EXE Output for Your Flipbooks Made Easy Using FlipBuilder's Features</u></a></li>
+<li><a href="https://win-tips.techidaily.com/diy-flip-books-made-easy-craft-your-own-word-ebooks-with-captivating-page-turn-animation-flipbuildercom/"><u>DIY Flip Books Made Easy! Craft Your Own Word Ebooks with Captivating Page Turn Animation [FlipBuilder.com]</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/how-to-unlock-motorola-g24-power-phone-without-pin-by-drfone-android/"><u>How to Unlock Motorola G24 Power Phone without PIN</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-lock-apps-on-tecno-spark-20c-to-protect-your-individual-information-by-drfone-android/"><u>In 2024, How to Lock Apps on Tecno Spark 20C to Protect Your Individual Information</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/navigating-virtual-spaces-easily-with-this-list-of-free-online-tools-for-2024/"><u>Navigating Virtual Spaces Easily With This List of Free Online Tools for 2024</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/transforming-raw-footage-into-youtube-gold-via-sony-vegas-for-2024/"><u>Transforming Raw Footage Into YouTube Gold via Sony Vegas for 2024</u></a></li>
 </ul></div>
 

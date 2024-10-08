@@ -1,7 +1,7 @@
 ---
 title: How to Access Google Chrome'er Energy Efficient Updates - A Step by Step Guide
-date: 2024-09-29T16:18:18.992Z
-updated: 2024-10-03T09:53:18.658Z
+date: 2024-10-02T16:25:50.810Z
+updated: 2024-10-08T16:11:42.682Z
 tags:
   - windows
 categories:
@@ -39,6 +39,13 @@ Next, right-click on any empty area of the Desktop. In the popup menu, move to N
 
 Screenshot by Lance Whitney/ZDNET
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136613/26400" target="_top" id="2136613">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136613" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136613/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 3\. Rename the new folder
 
 Right-click on the new folder and rename it to the following string:  
@@ -48,31 +55,11 @@ When done, press Enter.
 
 Screenshot by Lance Whitney/ZDNET
 
-<!-- affiliate ads begin -->
-<span id="1983473">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983473.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983473">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983473.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983473%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983473/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 4\. Launch the icon
 
 Double-click the icon, and a window opens with all the available settings. The commands are organized by Control Panel applet, so you can browse through the various categories, including Backup and Restore, Devices and Printers, File History, Mouse, Programs and Features, Security and Maintenance, Troubleshooting, and User Accounts.
 
 Screenshot by Lance Whitney/ZDNET
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137205/26400" target="_top" id="2137205">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137205" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137205/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 5\. Search for a command
 
@@ -81,10 +68,10 @@ Alternatively, you can search for a specific command or applet in the God Mode w
 Screenshot by Lance Whitney/ZDNET
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1948954/19272" target="_top" id="1948954">
-  <img src="//a.impactradius-go.com/display-ad/19272-1948954" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2123735/7443" target="_top" id="2123735">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123735" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948954/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123735/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 6\. Double-click the command to launch it
@@ -105,10 +92,10 @@ When done, click Next.
 Screenshot by Lance Whitney/ZDNET
 
 <!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014859/22899" target="_top" id="2014859">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014859" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2094429/7443" target="_top" id="2094429">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094429" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014859/22899" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094429/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 8\. Name the shortcut
@@ -116,6 +103,13 @@ Screenshot by Lance Whitney/ZDNET
 At the next screen, you can now enter any name you wish for the shortcut. Click Finish.
 
 Screenshot by Lance Whitney/ZDNET
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2129739/7443" target="_top" id="2129739">
+  <img src="//a.impactradius-go.com/display-ad/7443-2129739" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129739/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 9\. Change the icon
 
@@ -162,24 +156,19 @@ Screenshot by Lance Whitney/ZDNET
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://snapchat-videos.techidaily.com/new-2024-approved-pop-culture-reflections-latest-snapchat-augments-and-filters/"><u>[New] 2024 Approved Pop Culture Reflections Latest Snapchat Augments & Filters</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/new-samsung-outdone-top-cameras-eclipsing-the-gear-360/"><u>[New] Samsung Outdone Top Cameras Eclipsing the Gear 360</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/updated-subtitle-tips-for-instagram-tv-storytelling/"><u>[Updated] Subtitle Tips for Instagram TV Storytelling</u></a></li>
-<li><a href="https://win-tips.techidaily.com/1-quick-and-easy-methods-for-converting-cda-audio-files-into-mp3-format/"><u>1. Quick & Easy Methods for Converting CDA Audio Files Into MP3 Format</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/8-best-apps-for-screen-mirroring-xiaomi-redmi-k70-pc-drfone-by-drfone-android/"><u>8 Best Apps for Screen Mirroring Xiaomi Redmi K70 PC | Dr.fone</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/adobe-photostability-effective-or-fanciful-for-2024/"><u>Adobe PhotoStability Effective or Fanciful for 2024</u></a></li>
-<li><a href="https://win-tips.techidaily.com/effortless-mp4-slicing-guide-avoiding-re-encoding-for-pristine-results/"><u>Effortless MP4 Slicing Guide - Avoiding Re-Encoding for Pristine Results</u></a></li>
-<li><a href="https://win-tips.techidaily.com/essential-back-to-school-shopping-list-top-supplies-your-child-needs/"><u>Essential Back to School Shopping List: Top Supplies Your Child Needs</u></a></li>
-<li><a href="https://win-tips.techidaily.com/guide-capturing-your-zoom-sessions-with-ease-pc-and-mobile-device-tutorial/"><u>Guide: Capturing Your Zoom Sessions with Ease - PC & Mobile Device Tutorial</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/horizon-hurdlers-celebrating-the-most-staying-power-drones/"><u>Horizon Hurdlers Celebrating the Most Staying Power Drones</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-restore-missing-pictures-files-from-infinix-note-30-by-fonelab-android-recover-pictures/"><u>How To Restore Missing Pictures Files from Infinix Note 30.</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/in-2024-how-many-attempts-to-unlock-apple-iphone-14-by-drfone-ios/"><u>In 2024, How Many Attempts To Unlock Apple iPhone 14</u></a></li>
-<li><a href="https://win-tips.techidaily.com/leading-ai-singularizer-for-optimal-sound-engineering-boost-your-mixes-with-ease/"><u>Leading AI Singularizer for Optimal Sound Engineering: Boost Your Mixes with Ease</u></a></li>
-<li><a href="https://win-tips.techidaily.com/professional-pdf-esignature-maker-generate-secure-digital-signatures-easily/"><u>Professional PDF eSignature Maker - Generate Secure Digital Signatures Easily</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/simple-steps-for-a-quick-fix-how-to-refresh-graphics-drivers-in-win-10/"><u>Simple Steps for a Quick Fix: How to Refresh Graphics Drivers in Win 10</u></a></li>
-<li><a href="https://win-tips.techidaily.com/simple-techniques-for-combining-different-sound-tracks-together/"><u>Simple Techniques for Combining Different Sound Tracks Together</u></a></li>
-<li><a href="https://win-tips.techidaily.com/simple-tricks-how-to-change-your-youtube-videos-into-3gp-format-with-ease/"><u>Simple Tricks: How to Change Your YouTube Videos Into 3GP Format with Ease</u></a></li>
-<li><a href="https://win-tips.techidaily.com/smartphone-compatible-video-transformer-effortless-mobile-video-format-conversion/"><u>Smartphone Compatible Video Transformer: Effortless Mobile Video Format Conversion</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/ultimate-gimbals-for-smooth-filming-experience/"><u>Ultimate Gimbals for Smooth Filming Experience</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-bold-transitions-a-beginners-guide-to-fades/"><u>[New] Bold Transitions A Beginner's Guide to Fades</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-2024-approved-firefoxs-finest-leading-video-downloads-and-addons-for-facebook/"><u>[Updated] 2024 Approved Firefox's Finest Leading Video Downloads & Addons for Facebook</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-decoding-youtubes-algorithm-behind-prominent-comments-for-2024/"><u>[Updated] Decoding YouTube's Algorithm Behind Prominent Comments for 2024</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-the-compact-guide-to-joining-and-scheduling-zoom-on-your-android-phone/"><u>2024 Approved The Compact Guide to Joining & Scheduling Zoom on Your Android Phone</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/2024-approved-transform-avi-files-into-gifs-with-filmora-on-windowsmacos/"><u>2024 Approved Transform AVI Files Into GIFs with Filmora on Windows/MacOS</u></a></li>
+<li><a href="https://win-tips.techidaily.com/affordable-access-obtain-your-microsoft-project-and-visio-professional-licenses-today-just-20-on-zdnet/"><u>Affordable Access: Obtain Your Microsoft Project & Visio Professional Licenses Today - Just $20 on ZDNet!</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/apple-iphone-13-pro-max-backup-password-never-set-but-still-asking-heres-the-fix-drfone-by-drfone-ios/"><u>Apple iPhone 13 Pro Max Backup Password Never Set But Still Asking? Heres the Fix | Dr.fone</u></a></li>
+<li><a href="https://win-tips.techidaily.com/honoring-history-in-silicon-valley-a-look-at-major-tech-firms-plans-for-juneteenth-observance/"><u>Honoring History in Silicon Valley: A Look at Major Tech Firms' Plans for Juneteenth Observance</u></a></li>
+<li><a href="https://win-tips.techidaily.com/how-recent-improvements-elevate-your-experience-with-ai-compositions-in-github-copilat-innovativetechnews/"><u>How Recent Improvements Elevate Your Experience with AI Compositions in GitHub Copilat | InnovativeTechNews</u></a></li>
+<li><a href="https://ios-pokemon-go.techidaily.com/in-2024-11-best-pokemon-go-spoofers-for-gps-spoofing-on-apple-iphone-11-drfone-by-drfone-virtual-ios/"><u>In 2024, 11 Best Pokemon Go Spoofers for GPS Spoofing on Apple iPhone 11 | Dr.fone</u></a></li>
+<li><a href="https://win-tips.techidaily.com/mastering-color-selection-using-powertoys-color-picker-tool-insights-from-zdnet/"><u>Mastering Color Selection: Using PowerToys' Color Picker Tool - Insights From ZDNet</u></a></li>
+<li><a href="https://win-tips.techidaily.com/microsoft-debuts-budget-friendly-surface-laptop-se-at-250-to-revolutionize-learning-with-windows-amoled-se-insights-from-zdnet/"><u>Microsoft Debuts Budget-Friendly Surface Laptop SE at $250 to Revolutionize Learning with Windows Amoled SE | Insights From ZDNET</u></a></li>
+<li><a href="https://win-tips.techidaily.com/securing-top-tier-coding-talent-on-a-budget-with-microsofts-innovative-solutions/"><u>Securing Top-Tier Coding Talent on a Budget with Microsoft's Innovative Solutions</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/yakuza-3-reimagined-fixed-pc-version-now-running-smoothly/"><u>Yakuza 3 Reimagined: Fixed PC Version Now Running Smoothly</u></a></li>
 </ul></div>
 

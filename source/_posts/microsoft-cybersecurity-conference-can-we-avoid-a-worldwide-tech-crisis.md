@@ -1,7 +1,7 @@
 ---
 title: "Microsoft Cybersecurity Conference: Can We Avoid a Worldwide Tech Crisis?"
-date: 2024-09-27T22:06:06.767Z
-updated: 2024-10-02T19:47:41.330Z
+date: 2024-10-02T16:01:33.355Z
+updated: 2024-10-08T17:05:11.305Z
 tags:
   - windows
 categories:
@@ -44,10 +44,10 @@ There is at least one exception to this cutoff date, which applies to PCs runnin
 Confusingly, Windows 10 Enterprise LTSC 2021 has only a five-year support lifecycle, which means it ends support on January 12, 2027.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1886044/19272" target="_top" id="1886044">
-  <img src="//a.impactradius-go.com/display-ad/19272-1886044" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2006919/19272" target="_top" id="2006919">
+  <img src="//a.impactradius-go.com/display-ad/19272-2006919" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886044/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006919/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How many PCs are running Windows 10 today?
@@ -85,10 +85,10 @@ That purple line at the top of the chart is Windows 10, and the blue line far be
 The current installed base of Windows PCs consists of about twice as many PCs running Windows 10 compared to its successor. (That's an improvement over last year's number, at least, where the ratio was more than three to one.)
 
 <!-- affiliate ads begin -->
-<a href="https://jalbum-affiliate-program.sjv.io/c/5597632/1838960/17916" target="_top" id="1838960">
-  <img src="//a.impactradius-go.com/display-ad/17916-1838960" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1902319/19272" target="_top" id="1902319">
+  <img src="//a.impactradius-go.com/display-ad/19272-1902319" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://jalbum-affiliate-program.sjv.io/i/5597632/1838960/17916" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902319/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How many PCs will still be running Windows 10 at the end of 2025?
@@ -106,10 +106,10 @@ That best-case scenario still leaves hundreds of millions of people running Wind
 * **Windows 10 diehards.** From my time spent reading support forums, I know there's a large population of longtime Windows users who are unhappy about the changes in Windows 11\. Some of them will reluctantly upgrade, but others won't.
 
 <!-- affiliate ads begin -->
-<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137973/21526" target="_top" id="2137973">
-  <img src="//a.impactradius-go.com/display-ad/21526-2137973" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://imp.i357552.net/c/5597632/857865/11832" target="_top" id="857865">
+  <img src="//a.impactradius-go.com/display-ad/11832-857865" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137973/21526" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/857865/11832" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Will Microsoft extend the support deadline for Windows 10?
@@ -181,21 +181,20 @@ _This article was originally published in July 2023\. The most recent update was
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-record-videos.techidaily.com/new-in-2024-a-deep-dive-into-youtube-content-ownership-laws/"><u>[New] In 2024, A Deep Dive Into YouTube Content Ownership Laws</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/new-in-2024-downloading-audio-made-simple-with-these-19-top-quality-free-rippers-from-youtube/"><u>[New] In 2024, Downloading Audio Made Simple with These 19 Top-Quality Free Rippers From YouTube</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/updated-in-2024-the-ultimate-guide-to-window-recording-on-spring-screens/"><u>[Updated] In 2024, The Ultimate Guide to Window Recording on Spring Screens</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/androids-ultimate-guide-to-photo-editors-is-pickup-a-contender-in-2024/"><u>Android’s Ultimate Guide to Photo Editors Is PickUp a Contender, In 2024</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/boost-your-ai-experience-discover-10-superior-custom-gpt-innovations-over-chatgpt/"><u>Boost Your AI Experience: Discover 10 Superior Custom GPT Innovations Over ChatGPT</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/in-2024-amplifying-your-social-media-reach-with-zoom-plus-fb-live/"><u>In 2024, Amplifying Your Social Media Reach with ZOOM + FB Live</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/next-gen-gaming-logitech-g-pro-x-and-surround-sound/"><u>Next-Gen Gaming: Logitech G Pro X & Surround Sound</u></a></li>
-<li><a href="https://techidaily.com/samsung-data-recovery-recover-lost-data-from-samsung-galaxy-m34-5g-by-fonelab-android-recover-data/"><u>Samsung Data Recovery – recover lost data from Samsung Galaxy M34 5G</u></a></li>
-<li><a href="https://win-tips.techidaily.com/step-by-step-guide-converting-and-saving-ifeng-streaming-content-in-multiple-video-formats/"><u>Step-by-Step Guide: Converting and Saving Ifeng Streaming Content in Multiple Video Formats</u></a></li>
-<li><a href="https://win-tips.techidaily.com/step-by-step-guide-downloading-videos-from-vodpod/"><u>Step-by-Step Guide: Downloading Videos From VodPod</u></a></li>
-<li><a href="https://win-tips.techidaily.com/step-by-step-tips-on-downloading-and-saving-studioveenas-best-pole-dance-lessons-as-mp4-files/"><u>Step-by-Step Tips on Downloading and Saving StudioVeena's Best Pole Dance Lessons as MP4 Files</u></a></li>
-<li><a href="https://win-tips.techidaily.com/step-by-step-tutorial-converting-charlie-rose-shows-into-mp4mov-format-on-macos-and-windows-systems/"><u>Step-by-Step Tutorial: Converting Charlie Rose Shows Into MP4/MOV Format on macOS and Windows Systems</u></a></li>
-<li><a href="https://meme-emoji.techidaily.com/top-10-storyboarding-software/"><u>Top 10 Storyboarding Software</u></a></li>
-<li><a href="https://win-tips.techidaily.com/transferring-audiobooks-from-audible-to-mp3-a-step-by-step-guide-for-mac-and-pc-users/"><u>Transferring Audiobooks From Audible to MP3: A Step-by-Step Guide for Mac & PC Users</u></a></li>
-<li><a href="https://win-tips.techidaily.com/tutorial-accessing-downloads-of-popular-discovery-channel-series-and-episodes-for-free/"><u>Tutorial: Accessing Downloads of Popular Discovery Channel Series & Episodes for Free</u></a></li>
-<li><a href="https://win-tips.techidaily.com/unleash-your-imagination-with-free-downloads-videogames-films-shows-and-comics-for-the-ultimate-escape-experience/"><u>Unleash Your Imagination with FREE Downloads: Videogames, Films, Shows & Comics for the Ultimate Escape Experience!</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/new-navigating-the-nuances-of-social-cues-status-update-for-2024/"><u>[New] Navigating the Nuances of Social Cues Status Update for 2024</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-the-beginners-guide-to-efficient-zoom-meeting-recordings/"><u>[New] The Beginner's Guide to Efficient Zoom Meeting Recordings</u></a></li>
+<li><a href="https://fox-http.techidaily.com/updated-elevate-and-explore-top-wins11-apps-and-games-guide/"><u>[Updated] Elevate and Explore Top Wins11 Apps & Games Guide</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-in-2024-engaging-presentations-tips-for-uploading-youtube-videos-into-slides/"><u>[Updated] In 2024, Engaging Presentations Tips for Uploading YouTube Videos Into Slides</u></a></li>
+<li><a href="https://win-tips.techidaily.com/opuswav-movavi/"><u>網路無限制自由轉換 OPUS到WAV - 利用 Movavi 革命性工具</u></a></li>
+<li><a href="https://win-tips.techidaily.com/pgmtiff-movavi/"><u>無成本網上PGM至TIFF備選工具 - 利用Movavi 快速變換</u></a></li>
+<li><a href="https://win-tips.techidaily.com/alternative-13-platforms-to-imovie-for-enthusiastic-filmmakers/"><u>Alternative 13 Platforms to iMovie for Enthusiastic Filmmakers</u></a></li>
+<li><a href="https://windows11.techidaily.com/breaking-through-file-download-blockades-on-windows-11/"><u>Breaking Through File Download Blockades on Windows 11</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-complete-tutorial-to-use-vpna-to-fake-gps-location-on-oneplus-11r-drfone-by-drfone-virtual-android/"><u>In 2024, Complete Tutorial to Use VPNa to Fake GPS Location On OnePlus 11R | Dr.fone</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/in-2024-discover-the-top-free-android-video-editing-apps-plus-paid-options/"><u>In 2024, Discover the Top Free Android Video Editing Apps Plus Paid Options</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/in-2024-how-to-create-podcast-rss-feeds/"><u>In 2024, How To Create Podcast RSS Feeds</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/in-2024-youtubes-financial-frontier-achieving-video-monetization-mastery/"><u>In 2024, YouTube's Financial Frontier Achieving Video Monetization Mastery</u></a></li>
+<li><a href="https://win-tips.techidaily.com/online-gratuity-convert-your-videos-to-mov-or-wmv-format-with-ease/"><u>Online Gratuity: Convert Your Videos to MOV or WMV Format with Ease</u></a></li>
+<li><a href="https://win-tips.techidaily.com/os-maiores-20-transcodificadores-de-video-livres-perfeitos-para-sistemas-operacionais-windows-10-8-e-e7/"><u>Os Maiores 20 Transcodificadores De Vídeo Livres Perfeitos Para Sistemas Operacionais Windows 10, 8 E E7</u></a></li>
+<li><a href="https://win-tips.techidaily.com/transformez-facilement-vos-photos-arw-au-format-jpeg-sans-frais-a-laide-de-movavi-en-ligne/"><u>Transformez Facilement Vos Photos ARW Au Format JPEG Sans Frais À L'aide De Movavi en Ligne</u></a></li>
 </ul></div>
 

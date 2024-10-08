@@ -1,7 +1,7 @@
 ---
 title: Transitioning From Microsoft Accounts to Local Accounts on Your PC - Tips & Tricks
-date: 2024-10-02T01:29:26.296Z
-updated: 2024-10-02T21:41:13.618Z
+date: 2024-10-04T17:05:53.069Z
+updated: 2024-10-08T16:33:39.678Z
 tags:
   - microsoft
 categories:
@@ -53,6 +53,13 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 
 [See all](https://www.zdnet.com/newsletters/)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1948891/19272" target="_top" id="1948891">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948891" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948891/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## **2\. Install Linux**
 
 Then, there's my default suggestion: [Move from your soon-to-be-outdated Windows 10 to Linux](https://www.zdnet.com/article/how-to-replace-windows-with-linux-mint-on-your-pc/#link=%7B%22role%22:%22standard%22,%22href%22:%22https://www.zdnet.com/article/how-to-replace-windows-with-linux-mint-on-your-pc/%22,%22target%22:%22%22,%22absolute%22:%22%22,%22linkText%22:%22Move%20from%20your%20soon-to-be-outdated%20Windows%2010%20to%20Linux%22%7D). Yes, I know you've been told that Linux is hard to use and install. It's not. 
@@ -64,10 +71,10 @@ Sure, back in the 2000s, you needed to be a Linux shell command wizard to instal
 Another advantage of running Linux is that your PC will never be left behind. I have computers more than a decade old that came with Windows XP, and they're still running up-to-date Linux. 
 
 <!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/2139557/4704" target="_top" id="2139557">
-  <img src="//a.impactradius-go.com/display-ad/4704-2139557" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1885932/19272" target="_top" id="1885932">
+  <img src="//a.impactradius-go.com/display-ad/19272-1885932" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://united.elfm.net/i/5597632/2139557/4704" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1885932/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **3\. Switch to ChromeOS**
@@ -89,19 +96,6 @@ By the way, neither Linux nor ChromeOS Flex will cost you a dime. They're free n
 **Also: [Google might abandon ChromeOS Flex. Here's why - and what you can do about it](https://www.zdnet.com/article/google-might-abandon-chromeos-flex-next-heres-why/)**
 
 If you want to replace your Windows machines in a business, Google can help you. For organizations using ChromeOS Flex under [Chrome Enterprise Upgrade](https://chromeos.google/products/device-management/) or [Chrome Education Upgrade](https://services.google.com/fh/files/misc/chrome%5Feducation%5Fupgrade%5Fonepager.pdf), Google offers dedicated support. You can access support via the Google Admin console. There, you'll find help with device enrollment, connectivity issues, and software-related problems. The price starts at $50 per machine per year. 
-
-<!-- affiliate ads begin -->
-<span id="1484963">
-					<video width="864" height="864" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1484963.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1484963">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1484963.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1484963%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1484963/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## **4\. Pay for Windows 10 Extended Support**
 
@@ -135,28 +129,28 @@ In summary, commercial organizations will pay $61 to $244 per device over three 
 
 I'd only go with an ESU, myself, if I _really_ had no other choice.
 
-<!-- affiliate ads begin -->
-<a href="https://homestyler.sjv.io/c/5597632/1943648/22993" target="_top" id="1943648">
-  <img src="//a.impactradius-go.com/display-ad/22993-1943648" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://homestyler.sjv.io/i/5597632/1943648/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## **5\. Try alternative security patching**
 
 Finally, a company called [0Patch](https://0patch.com/#link=%7B%22role%22:%22standard%22,%22href%22:%22https://0patch.com/%22,%22target%22:%22%5Fblank%22,%22absolute%22:%22%22,%22linkText%22:%220Patch%22%7D) offers customized patches for out-of-service operating systems. For example, [0Patch](https://www.zdnet.de/88411127/0patch-verspricht-sicherheitsupdates-fuer-windows-server-2012-bis-2026/#link=%7B%22role%22:%22standard%22,%22href%22:%22https://www.zdnet.de/88411127/0patch-verspricht-sicherheitsupdates-fuer-windows-server-2012-bis-2026/%22,%22target%22:%22%22,%22absolute%22:%22%22,%22linkText%22:%220Patch%20offers%20%22%7D)supported Windows Server 2012 until 2026\. Now, it supports [Windows 10 for about $25 a year](https://0patch.com/pricing.html).
 
 **Also: [Linux might be your best bet for heightening your desktop computer security](https://www.zdnet.com/article/linux-might-be-your-best-bet-for-heightening-your-desktop-computer-security/)**
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1934292/19272" target="_top" id="1934292">
+  <img src="//a.impactradius-go.com/display-ad/19272-1934292" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934292/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## **Ignore it and keep running Windows 10** 
 
 Do you have a death wish!? No, just no! Unless your Windows 10 PC is never, ever connected to the internet, this is just asking for trouble.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137226/26400" target="_top" id="2137226">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137226" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1886015/19272" target="_top" id="1886015">
+  <img src="//a.impactradius-go.com/display-ad/19272-1886015" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137226/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886015/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **Conclusion**
@@ -202,22 +196,16 @@ Don't trash your old Windows 10 PCs! There are many ways to give them a long, us
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-mirroring-recording.techidaily.com/new-ultimate-guide-recording-your-youtube-livestreams/"><u>[New] Ultimate Guide Recording Your YouTube Livestreams</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/updated-2024-approved-recording-your-live-feed-without-spending-a-dime/"><u>[Updated] 2024 Approved Recording Your Live Feed without Spending a Dime</u></a></li>
-<li><a href="https://fox-links.techidaily.com/updated-in-2024-a-drone-transformed-with-yuneecs-typhoon-q500/"><u>[Updated] In 2024, A Drone Transformed with Yuneec's Typhoon Q500</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-in-2024-channel-control-center-creator-studio-essentials/"><u>[Updated] In 2024, Channel Control Center Creator Studio Essentials</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/updated-in-2024-mastering-ez-grabber-a-comprehensive-guide/"><u>[Updated] In 2024, Mastering EZ Grabber A Comprehensive Guide</u></a></li>
-<li><a href="https://win-tips.techidaily.com/1-trouble-downloading-from-flipbuilder-heres-why-and-how-to-fix-it/"><u>1) Trouble Downloading From FlipBuilder? Here's Why and How to Fix It</u></a></li>
-<li><a href="https://win-tips.techidaily.com/adjusting-flipbook-timing-settings-on-flipbuilder-for-optimal-user-experience/"><u>Adjusting Flipbook Timing Settings on FlipBuilder for Optimal User Experience</u></a></li>
-<li><a href="https://win-tips.techidaily.com/are-you-looking-for-the-macos-compatible-flipbuilder-alternative/"><u>Are You Looking for the macOS Compatible FlipBuilder Alternative?</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/1721959713861-chatgpt-desktop-on-hold-discover-this-top-quality-open-source-chat-app-as-your-go-to-solution/"><u>ChatGPT Desktop on Hold? Discover This Top-Quality Open Source Chat App as Your Go-To Solution!</u></a></li>
-<li><a href="https://win-tips.techidaily.com/comprehensive-faq-resource-flipbuilders-centralized-knowledge-hub/"><u>Comprehensive FAQ Resource - FlipBuilder's Centralized Knowledge Hub</u></a></li>
-<li><a href="https://win-tips.techidaily.com/craft-dynamic-picture-galleries-in-minutes-experience-next-level-presentations-with-flipbuilders-image-flipping-feature/"><u>Craft Dynamic Picture Galleries in Minutes - Experience Next-Level Presentations With FlipBuilder's Image Flipping Feature</u></a></li>
-<li><a href="https://win-tips.techidaily.com/create-eye-catching-page-turning-books-using-alpha-templates-start-now-on-flipbuildercom/"><u>Create Eye-Catching Page Turning Books Using Alpha Templates - Start Now on FlipBuilder.com</u></a></li>
-<li><a href="https://win-tips.techidaily.com/create-professional-zip-flipbooks-with-flipbuilder-simplify-your-email-marketing/"><u>Create Professional Zip Flipbooks with FlipBuilder: Simplify Your Email Marketing!</u></a></li>
-<li><a href="https://win-tips.techidaily.com/direct-run-exe-output-for-your-flipbooks-made-easy-using-flipbuilders-features/"><u>Direct-Run EXE Output for Your Flipbooks Made Easy Using FlipBuilder's Features</u></a></li>
-<li><a href="https://youtube-clips.techidaily.com/in-2024-elevate-your-gaming-experience-on-youtube/"><u>In 2024, Elevate Your Gaming Experience on YouTube</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/navigating-through-2024-a-guide-to-selecting-top-tier-gaming-machines/"><u>Navigating Through 2024: A Guide to Selecting Top-Tier Gaming Machines</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/windows-11-iso-burning-guide-how-to-write-iso-images-onto-dvd-efficiently/"><u>Windows 11 ISO Burning Guide: How to Write ISO Images Onto DVD Efficiently</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/new-the-art-of-slow-motion-a-guide-for-instagrams-next-viral-reels-for-2024/"><u>[New] The Art of Slow-Motion A Guide for Instagram's Next Viral Reels for 2024</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-unveiling-this-years-most-engaging-storytelling-youtubers-for-2024/"><u>[Updated] Unveiling This Year's Most Engaging Storytelling YouTubers for 2024</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/2024-approved-from-stills-to-movies-a-pixiz-tutorial-for-photo-animators/"><u>2024 Approved From Stills to Movies A Pixiz Tutorial for Photo Animators</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/2024-approved-unveiling-5-leading-photo-experts-who-sync-music-perfectly/"><u>2024 Approved Unveiling 5 Leading Photo Experts Who Sync Music Perfectly</u></a></li>
+<li><a href="https://win-tips.techidaily.com/discover-the-most-popular-and-effective-christmas-photo-making-apps-in-202n-your-guide-to-a-festive-season-greeting-masterpiece/"><u>Discover the Most Popular and Effective Christmas Photo Making Apps in 202N: Your Guide to a Festive Season Greeting Masterpiece</u></a></li>
+<li><a href="https://fox-access.techidaily.com/in-2024-3-techniques-to-fix-iphone-hdr-blunders-in-premiere-pro/"><u>In 2024, 3 Techniques to Fix iPhone HDR Blunders in Premiere Pro</u></a></li>
+<li><a href="https://win-tips.techidaily.com/mac-users-guide-to-quickly-converting-and-watching-mkv-content-with-ease/"><u>Mac User's Guide to Quickly Converting & Watching MKV Content with Ease</u></a></li>
+<li><a href="https://win-tips.techidaily.com/step-by-step-guide-how-to-effortlessly-transfer-htc-contact-list-to-samsung-s5/"><u>Step-by-Step Guide: How to Effortlessly Transfer HTC Contact List to Samsung S5</u></a></li>
+<li><a href="https://win-tips.techidaily.com/top-mp3-download-websites-similar-to-youtube-the-ultimate-guide/"><u>Top MP3 Download Websites Similar to YouTube: The Ultimate Guide</u></a></li>
+<li><a href="https://win-tips.techidaily.com/ultimate-guide-to-transforming-videos-into-stunning-169-widescreen-format/"><u>Ultimate Guide to Transforming Videos Into Stunning 16:9 Widescreen Format</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/be-masterclass-carving-out-your-digital-self-for-2024/"><u>YouTube Masterclass Carving Out Your Digital Self for 2024</u></a></li>
 </ul></div>
 

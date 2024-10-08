@@ -1,7 +1,7 @@
 ---
 title: Navigating Azure's Ongoing Resource Constraints - Strategies for Businesses
-date: 2024-10-02T10:01:55.265Z
-updated: 2024-10-02T21:39:08.242Z
+date: 2024-10-01T16:13:10.359Z
+updated: 2024-10-08T16:08:25.020Z
 tags:
   - microsoft
 categories:
@@ -53,6 +53,19 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 
 [See all](https://www.zdnet.com/newsletters/)
 
+<!-- affiliate ads begin -->
+<span id="1982485">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982485.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982485">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982485.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982485%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982485/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## **2\. Install Linux**
 
 Then, there's my default suggestion: [Move from your soon-to-be-outdated Windows 10 to Linux](https://www.zdnet.com/article/how-to-replace-windows-with-linux-mint-on-your-pc/#link=%7B%22role%22:%22standard%22,%22href%22:%22https://www.zdnet.com/article/how-to-replace-windows-with-linux-mint-on-your-pc/%22,%22target%22:%22%22,%22absolute%22:%22%22,%22linkText%22:%22Move%20from%20your%20soon-to-be-outdated%20Windows%2010%20to%20Linux%22%7D). Yes, I know you've been told that Linux is hard to use and install. It's not. 
@@ -64,10 +77,10 @@ Sure, back in the 2000s, you needed to be a Linux shell command wizard to instal
 Another advantage of running Linux is that your PC will never be left behind. I have computers more than a decade old that came with Windows XP, and they're still running up-to-date Linux. 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123731/7443" target="_top" id="2123731">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123731" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1925468/19272" target="_top" id="1925468">
+  <img src="//a.impactradius-go.com/display-ad/19272-1925468" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123731/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925468/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **3\. Switch to ChromeOS**
@@ -91,10 +104,10 @@ By the way, neither Linux nor ChromeOS Flex will cost you a dime. They're free n
 If you want to replace your Windows machines in a business, Google can help you. For organizations using ChromeOS Flex under [Chrome Enterprise Upgrade](https://chromeos.google/products/device-management/) or [Chrome Education Upgrade](https://services.google.com/fh/files/misc/chrome%5Feducation%5Fupgrade%5Fonepager.pdf), Google offers dedicated support. You can access support via the Google Admin console. There, you'll find help with device enrollment, connectivity issues, and software-related problems. The price starts at $50 per machine per year. 
 
 <!-- affiliate ads begin -->
-<a href="https://oneplusfr.sjv.io/c/5597632/1622438/14044" target="_top" id="1622438">
-  <img src="//a.impactradius-go.com/display-ad/14044-1622438" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2118323/7443" target="_top" id="2118323">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118323" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://oneplusfr.sjv.io/i/5597632/1622438/14044" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118323/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **4\. Pay for Windows 10 Extended Support**
@@ -129,13 +142,6 @@ In summary, commercial organizations will pay $61 to $244 per device over three 
 
 I'd only go with an ESU, myself, if I _really_ had no other choice.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130891/7443" target="_top" id="2130891">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130891" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130891/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## **5\. Try alternative security patching**
 
 Finally, a company called [0Patch](https://0patch.com/#link=%7B%22role%22:%22standard%22,%22href%22:%22https://0patch.com/%22,%22target%22:%22%5Fblank%22,%22absolute%22:%22%22,%22linkText%22:%220Patch%22%7D) offers customized patches for out-of-service operating systems. For example, [0Patch](https://www.zdnet.de/88411127/0patch-verspricht-sicherheitsupdates-fuer-windows-server-2012-bis-2026/#link=%7B%22role%22:%22standard%22,%22href%22:%22https://www.zdnet.de/88411127/0patch-verspricht-sicherheitsupdates-fuer-windows-server-2012-bis-2026/%22,%22target%22:%22%22,%22absolute%22:%22%22,%22linkText%22:%220Patch%20offers%20%22%7D)supported Windows Server 2012 until 2026\. Now, it supports [Windows 10 for about $25 a year](https://0patch.com/pricing.html).
@@ -147,10 +153,10 @@ Finally, a company called [0Patch](https://0patch.com/#link=%7B%22role%22:%22sta
 Do you have a death wish!? No, just no! Unless your Windows 10 PC is never, ever connected to the internet, this is just asking for trouble.
 
 <!-- affiliate ads begin -->
-<a href="https://review-au.sjv.io/c/5597632/2098700/14409" target="_top" id="2098700">
-  <img src="//a.impactradius-go.com/display-ad/14409-2098700" border="0" alt="https://techidaily.com" width="160" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2036481/19272" target="_top" id="2036481">
+  <img src="//a.impactradius-go.com/display-ad/19272-2036481" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098700/14409" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036481/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **Conclusion**
@@ -196,20 +202,21 @@ Don't trash your old Windows 10 PCs! There are many ways to give them a long, us
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-clips.techidaily.com/new-demystifying-the-process-of-submitting-videos-on-youtube/"><u>[New] Demystifying the Process of Submitting Videos on YouTube</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/updated-the-essential-guide-for-adding-depth-and-style-in-instagram-stories/"><u>[Updated] The Essential Guide for Adding Depth & Style in Instagram Stories</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/2024-approved-step-by-step-recording-games-on-xbox-one/"><u>2024 Approved Step-by-Step Recording Games on Xbox One</u></a></li>
-<li><a href="https://win-tips.techidaily.com/connecting-an-ipad-to-your-pc-comprehensive-tutorial-on-extending-windows-screens-with-apple-tablets/"><u>Connecting an iPad to Your PC: Comprehensive Tutorial on Extending Windows Screens with Apple Tablets</u></a></li>
-<li><a href="https://win-tips.techidaily.com/discover-the-most-popular-and-effective-christmas-photo-making-apps-in-202n-your-guide-to-a-festive-season-greeting-masterpiece/"><u>Discover the Most Popular and Effective Christmas Photo Making Apps in 202N: Your Guide to a Festive Season Greeting Masterpiece</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/efficient-workflows-await-4-insider-secrets-for-utilizing-chatgpt-in-time-management/"><u>Efficient Workflows Await: 4 Insider Secrets for Utilizing ChatGPT in Time Management</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-restore-wiped-music-on-oppo-reno-11f-5g-by-fonelab-android-recover-music/"><u>How to restore wiped music on Oppo Reno 11F 5G</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/how-to-unlock-stolen-iphone-6s-plus-in-different-conditionsin-drfone-by-drfone-ios/"><u>How To Unlock Stolen iPhone 6s Plus In Different Conditionsin | Dr.fone</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-track-samsung-galaxy-a25-5g-by-phone-number-drfone-by-drfone-virtual-android/"><u>In 2024, How to Track Samsung Galaxy A25 5G by Phone Number | Dr.fone</u></a></li>
-<li><a href="https://win-tips.techidaily.com/mac-users-guide-to-quickly-converting-and-watching-mkv-content-with-ease/"><u>Mac User's Guide to Quickly Converting & Watching MKV Content with Ease</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/master-tutorial-handling-and-preventing-photoshops-scratch-disk-full-warning/"><u>Master Tutorial: Handling and Preventing Photoshop's 'Scratch Disk Full' Warning</u></a></li>
-<li><a href="https://win-tips.techidaily.com/step-by-step-guide-how-to-effortlessly-transfer-htc-contact-list-to-samsung-s5/"><u>Step-by-Step Guide: How to Effortlessly Transfer HTC Contact List to Samsung S5</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/streamline-your-coding-process-with-chatgpt-in-vs-code/"><u>Streamline Your Coding Process with ChatGPT in VS Code</u></a></li>
-<li><a href="https://win-tips.techidaily.com/top-mp3-download-websites-similar-to-youtube-the-ultimate-guide/"><u>Top MP3 Download Websites Similar to YouTube: The Ultimate Guide</u></a></li>
-<li><a href="https://win-tips.techidaily.com/ultimate-guide-to-transforming-videos-into-stunning-169-widescreen-format/"><u>Ultimate Guide to Transforming Videos Into Stunning 16:9 Widescreen Format</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/024-approved-top-picks-7-royalty-free-audios-for-video-editing/"><u>[New] 2024 Approved Top Picks 7 Royalty-Free Audios for Video Editing</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-galaxy-s8s-ultra-hd-experience-unveiled-for-2024/"><u>[New] Galaxy S8's Ultra HD Experience Unveiled for 2024</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-a-comprehensive-list-of-mac-methods-to-record-minecraft-play-for-2024/"><u>[Updated] A Comprehensive List of Mac Methods to Record Minecraft Play for 2024</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-in-2024-elite-selection-of-steadicams-suitable-for-drones-in-cinematic-work/"><u>[Updated] In 2024, Elite Selection of Steadicams Suitable for Drones in Cinematic Work</u></a></li>
+<li><a href="https://win-tips.techidaily.com/ai-showdown-evaluating-chatgpt-microsofts-copilot-and-gemini-for-ultimate-chatbot-supremacy-zdnet/"><u>AI Showdown: Evaluating ChatGPT, Microsoft's Copilot, and Gemini for Ultimate Chatbot Supremacy | ZDNET</u></a></li>
+<li><a href="https://win-tips.techidaily.com/alert-upcoming-microsoft-patch-could-escalate-office-woes-at-night-techradar/"><u>Alert: Upcoming Microsoft Patch Could Escalate Office Woes at Night | TechRadar</u></a></li>
+<li><a href="https://win-tips.techidaily.com/complimentary-ai-companion-for-us-educators-microsoft-plus-khan-academys-collaborative-initiative-insights-from-zdnet/"><u>Complimentary AI Companion for U.S. Educators: Microsoft + Khan Academy's Collaborative Initiative - Insights From ZDNet</u></a></li>
+<li><a href="https://win-dash.techidaily.com/download-the-right-driver-for-your-bluetooth-gaming-equipment-today/"><u>Download the Right Driver for Your Bluetooth Gaming Equipment Today</u></a></li>
+<li><a href="https://win-tips.techidaily.com/honoring-history-in-silicon-valley-a-look-at-major-tech-firms-plans-for-juneteenth-observance/"><u>Honoring History in Silicon Valley: A Look at Major Tech Firms' Plans for Juneteenth Observance</u></a></li>
+<li><a href="https://win-tips.techidaily.com/how-recent-improvements-elevate-your-experience-with-ai-compositions-in-github-copilat-innovativetechnews/"><u>How Recent Improvements Elevate Your Experience with AI Compositions in GitHub Copilat | InnovativeTechNews</u></a></li>
+<li><a href="https://techidaily.com/how-to-transfer-whatsapp-from-apple-iphone-12-to-other-iphone-12-pro-max-devices-drfone-by-drfone-transfer-whatsapp-from-ios-transfer-whatsapp-from-ios/"><u>How To Transfer WhatsApp From Apple iPhone 12 to other iPhone 12 Pro Max devices? | Dr.fone</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/iphone-tips-free-techniques-to-incorporate-music-in-video-projects-for-2024/"><u>IPhone Tips Free Techniques to Incorporate Music in Video Projects for 2024</u></a></li>
+<li><a href="https://win-tips.techidaily.com/mastering-color-selection-using-powertoys-color-picker-tool-insights-from-zdnet/"><u>Mastering Color Selection: Using PowerToys' Color Picker Tool - Insights From ZDNet</u></a></li>
+<li><a href="https://win-tips.techidaily.com/microsoft-debuts-budget-friendly-surface-laptop-se-at-250-to-revolutionize-learning-with-windows-amoled-se-insights-from-zdnet/"><u>Microsoft Debuts Budget-Friendly Surface Laptop SE at $250 to Revolutionize Learning with Windows Amoled SE | Insights From ZDNET</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/the-comprequad-video-captioning-techniques-for-youtube-for-2024/"><u>The Comprequad Video Captioning Techniques for YouTube for 2024</u></a></li>
+<li><a href="https://solve-latest.techidaily.com/top-des-convertisseurs-video-4k-libres-pour-pcmac-une-selection-exclusive-pour-transformer-du-1080p-en-4k-avec-facilite/"><u>Top Des Convertisseurs Vidéo 4K Libres Pour PC/Mac: Une Sélection Exclusive Pour Transformer Du 1080P en 4K Avec Facilité</u></a></li>
 </ul></div>
 

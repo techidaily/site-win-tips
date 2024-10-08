@@ -1,7 +1,7 @@
 ---
 title: "Ultimate Showdown: Evaluating Top AI Assistants – ChatGPT, Microsoft's Copilot and GMX Vs. Gemini"
-date: 2024-09-28T17:44:49.737Z
-updated: 2024-10-02T23:39:07.180Z
+date: 2024-10-02T17:11:07.054Z
+updated: 2024-10-08T17:11:16.954Z
 tags:
   - microsoft
 categories:
@@ -53,19 +53,6 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 
 [See all](https://www.zdnet.com/newsletters/)
 
-<!-- affiliate ads begin -->
-<span id="1975562">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1975562.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1975562">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975562.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975562%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975562/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## **2\. Install Linux**
 
 Then, there's my default suggestion: [Move from your soon-to-be-outdated Windows 10 to Linux](https://www.zdnet.com/article/how-to-replace-windows-with-linux-mint-on-your-pc/#link=%7B%22role%22:%22standard%22,%22href%22:%22https://www.zdnet.com/article/how-to-replace-windows-with-linux-mint-on-your-pc/%22,%22target%22:%22%22,%22absolute%22:%22%22,%22linkText%22:%22Move%20from%20your%20soon-to-be-outdated%20Windows%2010%20to%20Linux%22%7D). Yes, I know you've been told that Linux is hard to use and install. It's not. 
@@ -75,6 +62,13 @@ Sure, back in the 2000s, you needed to be a Linux shell command wizard to instal
 **Also: [5 reasons why Linux will overtake Windows and MacOS on the desktop](https://www.zdnet.com/article/5-reasons-why-linux-will-eventually-overtake-windows-and-macos-on-the-desktop/)**
 
 Another advantage of running Linux is that your PC will never be left behind. I have computers more than a decade old that came with Windows XP, and they're still running up-to-date Linux. 
+
+<!-- affiliate ads begin -->
+<a href="https://imp.i110150.net/c/5597632/924297/11305" target="_top" id="924297">
+  <img src="//a.impactradius-go.com/display-ad/11305-924297" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i110150.net/i/5597632/924297/11305" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## **3\. Switch to ChromeOS**
 
@@ -97,10 +91,10 @@ By the way, neither Linux nor ChromeOS Flex will cost you a dime. They're free n
 If you want to replace your Windows machines in a business, Google can help you. For organizations using ChromeOS Flex under [Chrome Enterprise Upgrade](https://chromeos.google/products/device-management/) or [Chrome Education Upgrade](https://services.google.com/fh/files/misc/chrome%5Feducation%5Fupgrade%5Fonepager.pdf), Google offers dedicated support. You can access support via the Google Admin console. There, you'll find help with device enrollment, connectivity issues, and software-related problems. The price starts at $50 per machine per year. 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1948954/19272" target="_top" id="1948954">
-  <img src="//a.impactradius-go.com/display-ad/19272-1948954" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1896505/19272" target="_top" id="1896505">
+  <img src="//a.impactradius-go.com/display-ad/19272-1896505" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948954/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896505/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **4\. Pay for Windows 10 Extended Support**
@@ -136,10 +130,10 @@ In summary, commercial organizations will pay $61 to $244 per device over three 
 I'd only go with an ESU, myself, if I _really_ had no other choice.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2036496/19272" target="_top" id="2036496">
-  <img src="//a.impactradius-go.com/display-ad/19272-2036496" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://imp.i357552.net/c/5597632/1001453/11832" target="_top" id="1001453">
+  <img src="//a.impactradius-go.com/display-ad/11832-1001453" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036496/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1001453/11832" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **5\. Try alternative security patching**
@@ -149,10 +143,10 @@ Finally, a company called [0Patch](https://0patch.com/#link=%7B%22role%22:%22sta
 **Also: [Linux might be your best bet for heightening your desktop computer security](https://www.zdnet.com/article/linux-might-be-your-best-bet-for-heightening-your-desktop-computer-security/)**
 
 <!-- affiliate ads begin -->
-<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137975/21526" target="_top" id="2137975">
-  <img src="//a.impactradius-go.com/display-ad/21526-2137975" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://imp.i357552.net/c/5597632/1006793/11832" target="_top" id="1006793">
+  <img src="//a.impactradius-go.com/display-ad/11832-1006793" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137975/21526" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1006793/11832" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **Ignore it and keep running Windows 10** 
@@ -202,19 +196,15 @@ Don't trash your old Windows 10 PCs! There are many ways to give them a long, us
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://android-pokemon-go.techidaily.com/15-best-strongest-pokemon-to-use-in-pokemon-go-pvp-leagues-for-tecno-camon-20-pro-5g-drfone-by-drfone-virtual-android/"><u>15 Best Strongest Pokémon To Use in Pokémon GO PvP Leagues For Tecno Camon 20 Pro 5G | Dr.fone</u></a></li>
-<li><a href="https://article-posts.techidaily.com/35-hilarious-image-editing-software-for-smartphones-and-pcs/"><u>35 Hilarious Image Editing Software for Smartphones & PCs</u></a></li>
-<li><a href="https://ios-pokemon-go.techidaily.com/all-you-need-to-know-about-mega-greninja-for-apple-iphone-14-pro-max-drfone-by-drfone-virtual-ios/"><u>All You Need To Know About Mega Greninja For Apple iPhone 14 Pro Max | Dr.fone</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/in-2024-addrom-bypass-an-android-tool-to-unlock-frp-lock-screen-for-your-honor-x9a-by-drfone-android/"><u>In 2024, AddROM Bypass An Android Tool to Unlock FRP Lock Screen For your Honor X9a</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/in-2024-turn-any-surface-into-a-broadcasting-space-with-vlcs-webcam-feature/"><u>In 2024, Turn Any Surface Into a Broadcasting Space with VLC’s Webcam Feature</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/is-fake-gps-location-spoofer-a-good-choice-on-realme-narzo-n55-drfone-by-drfone-virtual-android/"><u>Is Fake GPS Location Spoofer a Good Choice On Realme Narzo N55? | Dr.fone</u></a></li>
-<li><a href="https://win-tips.techidaily.com/kaiser-3-andaseat-chair-analysis-and-features-insights-from-the-2022-tech-reviews/"><u>Kaiser 3 AndaSeat Chair Analysis & Features: Insights From the 2022 Tech Reviews</u></a></li>
-<li><a href="https://win-dash.techidaily.com/latest-qualcomm-atheros-ar3011-bluetooth-30-driver-get-it-here/"><u>Latest Qualcomm Atheros AR3011 Bluetooth 3.0 Driver - Get It Here</u></a></li>
-<li><a href="https://win-tips.techidaily.com/multi-cloud-innovation-unleashed-microsoft-azure-launches-radius-a-cutting-edge-open-source-architecture-techvibes/"><u>Multi-Cloud Innovation Unleashed: Microsoft Azure Launches Radius, a Cutting-Edge Open-Source Architecture | TechVibes</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/navigating-the-realm-of-localized-machine-intellect-an-analysis-of-its-functionality/"><u>Navigating the Realm of Localized Machine Intellect: An Analysis of Its Functionality</u></a></li>
-<li><a href="https://win-tips.techidaily.com/transitioning-from-microsoft-accounts-to-local-accounts-on-your-pc-tips-and-tricks/"><u>Transitioning From Microsoft Accounts to Local Accounts on Your PC - Tips & Tricks</u></a></li>
-<li><a href="https://win-tips.techidaily.com/unlocking-potential-the-impact-of-ga-on-increasing-software-team-outputs-according-to-recent-research-zdnet/"><u>Unlocking Potential: The Impact of GA on Increasing Software Team Outputs, According to Recent Research | ZDNet</u></a></li>
-<li><a href="https://win-tips.techidaily.com/unveiling-the-microsoft-surface-duo-2-an-ongoing-review-with-a-mix-of-curiosity-and-puzzlement-at-week-two-zdnet/"><u>Unveiling the Microsoft Surface Duo 2: An Ongoing Review with a Mix of Curiosity and Puzzlement at Week Two | ZDNet</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/vimeo-mastery-in-motion-building-high-impact-gifs/"><u>Vimeo Mastery in Motion Building High-Impact GIFs</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-installation-walkthrough-for-moviemaker-6-users/"><u>[New] Installation Walkthrough for Moviemaker 6 Users</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-favourites-revealed-top-20-anime-melodies/"><u>[Updated] Favourites Revealed Top 20 Anime Melodies</u></a></li>
+<li><a href="https://win-tips.techidaily.com/convert-and-save-nerdcubed-show-videos-as-mp4-avi-or-mov-for-offline-viewing/"><u>Convert and Save Nerdcubed Show Videos as MP4, AVI, or MOV for Offline Viewing</u></a></li>
+<li><a href="https://win-tips.techidaily.com/download-and-convert-usa-network-shows-for-any-device-available-in-multiple-video-file-types/"><u>Download & Convert USA Network Shows for Any Device - Available in Multiple Video File Types!</u></a></li>
+<li><a href="https://win-tips.techidaily.com/download-and-save-youtube-footage-as-mov-or-mp4-with-quicktime-compatibility-best-methods-explained/"><u>Download and Save YouTube Footage as Mov or Mp4 with QuickTime Compatibility: Best Methods Explained</u></a></li>
+<li><a href="https://win-tips.techidaily.com/download-howcast-videos-in-mp4-format-with-easy-guide/"><u>Download HowCast Videos in MP4 Format with Easy Guide</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-unlock-infinix-hot-40-pin-codepattern-lockpassword-by-drfone-android/"><u>In 2024, How to Unlock Infinix Hot 40 PIN Code/Pattern Lock/Password</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/in-2024-tips-for-using-google-meets-built-in-photo-functionality/"><u>In 2024, Tips for Using Google Meet's Built-In Photo Functionality</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/practical-methods-for-capturing-vimeo-media-for-2024/"><u>Practical Methods for Capturing Vimeo Media for 2024</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/top-7-metoderna-for-att-samma-samman-under-videogrupperinga-pa-windows-10/"><u>TOP 7 Metoderna För Att Samma Samman Under Videogrupperinga På Windows 10</u></a></li>
 </ul></div>
 

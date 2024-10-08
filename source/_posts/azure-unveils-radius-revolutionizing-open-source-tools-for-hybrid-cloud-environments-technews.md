@@ -1,7 +1,7 @@
 ---
 title: Azure Unveils Radius - Revolutionizing Open Source Tools for Hybrid Cloud Environments | TechNews
-date: 2024-10-02T07:14:31.054Z
-updated: 2024-10-02T16:12:24.078Z
+date: 2024-10-05T16:23:01.738Z
+updated: 2024-10-08T16:35:32.931Z
 tags:
   - microsoft
 categories:
@@ -53,6 +53,13 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 
 [See all](https://www.zdnet.com/newsletters/)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2130889/7443" target="_top" id="2130889">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130889" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130889/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## **2\. Install Linux**
 
 Then, there's my default suggestion: [Move from your soon-to-be-outdated Windows 10 to Linux](https://www.zdnet.com/article/how-to-replace-windows-with-linux-mint-on-your-pc/#link=%7B%22role%22:%22standard%22,%22href%22:%22https://www.zdnet.com/article/how-to-replace-windows-with-linux-mint-on-your-pc/%22,%22target%22:%22%22,%22absolute%22:%22%22,%22linkText%22:%22Move%20from%20your%20soon-to-be-outdated%20Windows%2010%20to%20Linux%22%7D). Yes, I know you've been told that Linux is hard to use and install. It's not. 
@@ -64,10 +71,10 @@ Sure, back in the 2000s, you needed to be a Linux shell command wizard to instal
 Another advantage of running Linux is that your PC will never be left behind. I have computers more than a decade old that came with Windows XP, and they're still running up-to-date Linux. 
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134236/18498" target="_top" id="2134236">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134236" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2037474/7443" target="_top" id="2037474">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037474" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134236/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037474/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **3\. Switch to ChromeOS**
@@ -91,10 +98,10 @@ By the way, neither Linux nor ChromeOS Flex will cost you a dime. They're free n
 If you want to replace your Windows machines in a business, Google can help you. For organizations using ChromeOS Flex under [Chrome Enterprise Upgrade](https://chromeos.google/products/device-management/) or [Chrome Education Upgrade](https://services.google.com/fh/files/misc/chrome%5Feducation%5Fupgrade%5Fonepager.pdf), Google offers dedicated support. You can access support via the Google Admin console. There, you'll find help with device enrollment, connectivity issues, and software-related problems. The price starts at $50 per machine per year. 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151856/7443" target="_top" id="2151856">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151856" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134229/18498" target="_top" id="2134229">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134229" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151856/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134229/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **4\. Pay for Windows 10 Extended Support**
@@ -129,13 +136,6 @@ In summary, commercial organizations will pay $61 to $244 per device over three 
 
 I'd only go with an ESU, myself, if I _really_ had no other choice.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2100526/7443" target="_top" id="2100526">
-  <img src="//a.impactradius-go.com/display-ad/7443-2100526" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100526/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## **5\. Try alternative security patching**
 
 Finally, a company called [0Patch](https://0patch.com/#link=%7B%22role%22:%22standard%22,%22href%22:%22https://0patch.com/%22,%22target%22:%22%5Fblank%22,%22absolute%22:%22%22,%22linkText%22:%220Patch%22%7D) offers customized patches for out-of-service operating systems. For example, [0Patch](https://www.zdnet.de/88411127/0patch-verspricht-sicherheitsupdates-fuer-windows-server-2012-bis-2026/#link=%7B%22role%22:%22standard%22,%22href%22:%22https://www.zdnet.de/88411127/0patch-verspricht-sicherheitsupdates-fuer-windows-server-2012-bis-2026/%22,%22target%22:%22%22,%22absolute%22:%22%22,%22linkText%22:%220Patch%20offers%20%22%7D)supported Windows Server 2012 until 2026\. Now, it supports [Windows 10 for about $25 a year](https://0patch.com/pricing.html).
@@ -147,10 +147,10 @@ Finally, a company called [0Patch](https://0patch.com/#link=%7B%22role%22:%22sta
 Do you have a death wish!? No, just no! Unless your Windows 10 PC is never, ever connected to the internet, this is just asking for trouble.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2027167/19272" target="_top" id="2027167">
-  <img src="//a.impactradius-go.com/display-ad/19272-2027167" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2126493/26400" target="_top" id="2126493">
+  <img src="//a.impactradius-go.com/display-ad/26400-2126493" border="0" alt="https://techidaily.com" width="640" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027167/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2126493/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **Conclusion**
@@ -196,22 +196,24 @@ Don't trash your old Windows 10 PCs! There are many ways to give them a long, us
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-video-capture.techidaily.com/new-2024-approved-mastering-stardew-key-highlights-from-ginger-isle/"><u>[New] 2024 Approved Mastering Stardew Key Highlights From Ginger Isle</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/new-simplified-transfer-tactics-from-iphone-to-computer-for-2024/"><u>[New] Simplified Transfer Tactics From iPhone to Computer for 2024</u></a></li>
-<li><a href="https://fox-access.techidaily.com/updated-2024-approved-which-pro-stream-software-reigns-supreme-vmix-vs-wirecast/"><u>[Updated] 2024 Approved Which Pro-Stream Software Reigns Supreme? VMix Vs. Wirecast</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/updated-in-2024-comparing-the-best-editors-for-professionals-filmora-vs-democreator/"><u>[Updated] In 2024, Comparing the Best Editors for Professionals Filmora Vs. Democreator</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/2024-approved-social-media-video-to-music-conversion-guide/"><u>2024 Approved Social Media Video to Music Conversion Guide</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/5-quick-methods-to-bypass-xiaomi-civi-3-disney-100th-anniversary-edition-frp-by-drfone-android/"><u>5 Quick Methods to Bypass Xiaomi Civi 3 Disney 100th Anniversary Edition FRP</u></a></li>
-<li><a href="https://win-tips.techidaily.com/download-howcast-videos-in-mp4-format-with-easy-guide/"><u>Download HowCast Videos in MP4 Format with Easy Guide</u></a></li>
-<li><a href="https://win-tips.techidaily.com/download-your-favorite-shows-convert-streamago-tv-content-into-high-quality-mp4-files-with-streamago-downloader/"><u>Download Your Favorite Shows: Convert Streamago TV Content Into High-Quality MP4 Files with Streamago Downloader</u></a></li>
-<li><a href="https://win-tips.techidaily.com/easy-guide-downloading-youtube-video-content-for-later-playback/"><u>Easy Guide: Downloading YouTube Video Content for Later Playback</u></a></li>
-<li><a href="https://win-tips.techidaily.com/easy-steps-to-convert-and-save-your-favorite-tv-episodes-from-tvcom-in-popular-video-formats-for-mac-and-pc-users/"><u>Easy Steps to Convert and Save Your Favorite TV Episodes From TV.com in Popular Video Formats for Mac & PC Users</u></a></li>
-<li><a href="https://win-tips.techidaily.com/easy-steps-to-save-your-favorite-plus7-content-for-offline-viewing/"><u>Easy Steps to Save Your Favorite PLUS7 Content for Offline Viewing</u></a></li>
-<li><a href="https://win-tips.techidaily.com/easy-techniques-for-downloading-asmr-whisper-audio-as-an-mp3-file-on-pc-or-mac/"><u>Easy Techniques for Downloading ASMR Whisper Audio as an MP3 File on PC or Mac</u></a></li>
-<li><a href="https://win-tips.techidaily.com/effortless-video-retrieval-from-nbc-sports-with-superior-downloader-app/"><u>Effortless Video Retrieval From NBC Sports with Superior Downloader App</u></a></li>
-<li><a href="https://win-tips.techidaily.com/get-your-favorite-films-and-show-interviews-on-demand-with-rotten-tomatoes-downloads/"><u>Get Your Favorite Films and Show Interviews on Demand with Rotten Tomatoes Downloads!</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/step-into-the-world-of-vrecorder-downloading-and-using-for-2024/"><u>Step Into the World of VRecorder Downloading and Using for 2024</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/straightforward-screen-capture-program/"><u>Straightforward Screen Capture Program</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/yt-story-excellence-a-must-follow-list-for-23-for-2024/"><u>YT Story Excellence A Must-Follow List for '23 for 2024</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-in-2024-best-free-youtube-intro-makers-to-create-awesome-intros/"><u>[New] In 2024, Best Free YouTube Intro Makers to Create Awesome Intros</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/updated-in-2024-dive-deep-into-vivacut-editor-review-and-tutorial/"><u>[Updated] In 2024, Dive Deep Into VivaCut Editor Review & Tutorial</u></a></li>
+<li><a href="https://win-tips.techidaily.com/jp2-jpeg-movavi/"><u>無縫通道的 JP2 到 JPEG 自由下載 - 使用 Movavi 優化過的變更工具</u></a></li>
+<li><a href="https://win-tips.techidaily.com/alternative-13-platforms-to-imovie-for-enthusiastic-filmmakers/"><u>Alternative 13 Platforms to iMovie for Enthusiastic Filmmakers</u></a></li>
+<li><a href="https://apple-account.techidaily.com/apple-id-locked-or-disabled-on-apple-iphone-13-7-mehtods-you-cant-miss-by-drfone-ios/"><u>Apple ID Locked or Disabled On Apple iPhone 13? 7 Mehtods You Cant-Miss</u></a></li>
+<li><a href="https://extra-information.techidaily.com/best-value-online-image-editors-leading-15-at-zero-cost/"><u>Best Value Online Image Editors - Leading 15 at Zero Cost</u></a></li>
+<li><a href="https://win-tips.techidaily.com/compreendendo-mp4-ts-files-estrategias-simples-para-reproduzir-videos-em-todas-as-plataformas/"><u>Compreendendo MP4 TS Files - Estratégias Simples Para Reproduzir Vídeos Em Todas as Plataformas</u></a></li>
+<li><a href="https://win-tips.techidaily.com/discovering-roxana-falascos-artistic-journey-and-achievements/"><u>Discovering Roxana Falasco's Artistic Journey and Achievements</u></a></li>
+<li><a href="https://win-tips.techidaily.com/diviser-une-video-sur-mac-avec-movavi-guide-complet-pour-le-decoupage-de-films/"><u>Diviser Une Vidéo Sur Mac Avec Movavi: Guide Complet Pour Le Découpage De Films</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-share-location-in-messenger-on-infinix-hot-40-drfone-by-drfone-virtual-android/"><u>In 2024, How to Share Location in Messenger On Infinix Hot 40? | Dr.fone</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-unlock-any-lava-storm-5g-phone-password-using-emergency-call-by-drfone-android/"><u>In 2024, How To Unlock Any Lava Storm 5G Phone Password Using Emergency Call</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-the-economic-blueprint-for-music-video-filming/"><u>In 2024, The Economic Blueprint for Music Video Filming</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-top-10-password-cracking-tools-for-oneplus-ace-2-pro-by-drfone-android/"><u>In 2024, Top 10 Password Cracking Tools For OnePlus Ace 2 Pro</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/mastering-social-connectivity-from-instagram-to-tiktoks-playground/"><u>Mastering Social Connectivity From Instagram to TikTok's Playground</u></a></li>
+<li><a href="https://win-tips.techidaily.com/movavi-mpeg-4-converter-the-ultimate-mp4-to-video-format-translation-tool/"><u>Movavi MPEG-4 Converter: The Ultimate MP4 to Video Format Translation Tool</u></a></li>
+<li><a href="https://win-tips.techidaily.com/1726227087631-mp4mov/"><u>MP4からMOVへ：高画質ファイル変換手順のガイド</u></a></li>
+<li><a href="https://win-tips.techidaily.com/mpegif-movavi/"><u>MPEファイルからGIFへの無料オンライン変換 - Movavi</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/solving-the-haldll-missing-file-issue-on-windows-xp-a-comprehensive-guide/"><u>Solving the Hal.dll Missing File Issue on Windows XP - A Comprehensive Guide</u></a></li>
+<li><a href="https://win-tips.techidaily.com/transformar-archivos-avi-en-discos-de-dvd-top-5-metodos-libres-y-efectivos/"><u>Transformar Archivos AVI en Discos De DVD: Top 5 Métodos Libres Y Efectivos</u></a></li>
 </ul></div>
 

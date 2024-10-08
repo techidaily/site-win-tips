@@ -1,7 +1,7 @@
 ---
 title: "Mac Mastery: Adjusting and Changing the Function of Command Keys (Tips From ZDNet)"
-date: 2024-10-01T04:05:56.601Z
-updated: 2024-10-02T19:40:11.300Z
+date: 2024-10-05T16:25:43.115Z
+updated: 2024-10-08T16:16:27.755Z
 tags:
   - microsoft
 categories:
@@ -54,10 +54,10 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 [See all](https://www.zdnet.com/newsletters/)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135415/19272" target="_top" id="2135415">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135415" border="0" alt="https://techidaily.com" width="320" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137228/26400" target="_top" id="2137228">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137228" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135415/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137228/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **2\. Install Linux**
@@ -71,10 +71,10 @@ Sure, back in the 2000s, you needed to be a Linux shell command wizard to instal
 Another advantage of running Linux is that your PC will never be left behind. I have computers more than a decade old that came with Windows XP, and they're still running up-to-date Linux. 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2100534/7443" target="_top" id="2100534">
-  <img src="//a.impactradius-go.com/display-ad/7443-2100534" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://wigfever.sjv.io/c/5597632/2014851/22899" target="_top" id="2014851">
+  <img src="//a.impactradius-go.com/display-ad/22899-2014851" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100534/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014851/22899" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **3\. Switch to ChromeOS**
@@ -96,13 +96,6 @@ By the way, neither Linux nor ChromeOS Flex will cost you a dime. They're free n
 **Also: [Google might abandon ChromeOS Flex. Here's why - and what you can do about it](https://www.zdnet.com/article/google-might-abandon-chromeos-flex-next-heres-why/)**
 
 If you want to replace your Windows machines in a business, Google can help you. For organizations using ChromeOS Flex under [Chrome Enterprise Upgrade](https://chromeos.google/products/device-management/) or [Chrome Education Upgrade](https://services.google.com/fh/files/misc/chrome%5Feducation%5Fupgrade%5Fonepager.pdf), Google offers dedicated support. You can access support via the Google Admin console. There, you'll find help with device enrollment, connectivity issues, and software-related problems. The price starts at $50 per machine per year. 
-
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148643/16836" target="_top" id="2148643">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148643" border="0" alt="https://techidaily.com" width="300" height="75"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148643/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## **4\. Pay for Windows 10 Extended Support**
 
@@ -137,10 +130,10 @@ In summary, commercial organizations will pay $61 to $244 per device over three 
 I'd only go with an ESU, myself, if I _really_ had no other choice.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136622/26400" target="_top" id="2136622">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136622" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2151854/7443" target="_top" id="2151854">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151854" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136622/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151854/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **5\. Try alternative security patching**
@@ -148,6 +141,13 @@ I'd only go with an ESU, myself, if I _really_ had no other choice.
 Finally, a company called [0Patch](https://0patch.com/#link=%7B%22role%22:%22standard%22,%22href%22:%22https://0patch.com/%22,%22target%22:%22%5Fblank%22,%22absolute%22:%22%22,%22linkText%22:%220Patch%22%7D) offers customized patches for out-of-service operating systems. For example, [0Patch](https://www.zdnet.de/88411127/0patch-verspricht-sicherheitsupdates-fuer-windows-server-2012-bis-2026/#link=%7B%22role%22:%22standard%22,%22href%22:%22https://www.zdnet.de/88411127/0patch-verspricht-sicherheitsupdates-fuer-windows-server-2012-bis-2026/%22,%22target%22:%22%22,%22absolute%22:%22%22,%22linkText%22:%220Patch%20offers%20%22%7D)supported Windows Server 2012 until 2026\. Now, it supports [Windows 10 for about $25 a year](https://0patch.com/pricing.html).
 
 **Also: [Linux might be your best bet for heightening your desktop computer security](https://www.zdnet.com/article/linux-might-be-your-best-bet-for-heightening-your-desktop-computer-security/)**
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134233/18498" target="_top" id="2134233">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134233" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134233/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## **Ignore it and keep running Windows 10** 
 
@@ -196,21 +196,21 @@ Don't trash your old Windows 10 PCs! There are many ways to give them a long, us
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-fresh-bgm-leading-lines-in-the-realm-of-yt-shorts/"><u>[New] In 2024, Fresh BGM Leading Lines in the Realm of YT Shorts</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/new-perfecting-igtv-video-production-on-smartphonesdslrs-for-2024/"><u>[New] Perfecting IGTV Video Production on Smartphones/DSLRs for 2024</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/new-social-savvy-essential-hashtags-that-work-today/"><u>[New] Social Savvy Essential Hashtags That Work Today</u></a></li>
-<li><a href="https://article-helps.techidaily.com/updated-a-professionals-handbook-to-blending-natural-and-artificial-backgrounds/"><u>[Updated] A Professional's Handbook to Blending Natural and Artificial Backgrounds</u></a></li>
-<li><a href="https://win-tips.techidaily.com/pgmtiff-movavi/"><u>無成本網上PGM至TIFF備選工具 - 利用Movavi 快速變換</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/enhance-your-pc-with-corsair-elite-6500-and-elite-nano-atx-motherboards-customizable-wood-or-aluminum-accent-panels-included/"><u>Enhance Your PC with Corsair Elite 6500 & Elite Nano ATX Motherboards: Customizable Wood or Aluminum Accent Panels Included!</u></a></li>
-<li><a href="https://win-tips.techidaily.com/free-online-guide-transforming-mkv-files-into-mp3-with-ease-using-the-movavi-tool/"><u>Free Online Guide: Transforming MKV Files Into MP3 with Ease - Using the Movavi Tool</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/from-novice-to-pro-harnessing-inshot-for-editing-for-2024/"><u>From Novice to Pro Harnessing Inshot for Editing for 2024</u></a></li>
-<li><a href="https://win-tips.techidaily.com/how-to-convert-m4v-file-format-instantly-at-no-cost/"><u>How to Convert M4V File Format Instantly at No Cost</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-does-nokia-xr21-have-find-my-friends-drfone-by-drfone-virtual-android/"><u>In 2024, Does Nokia XR21 Have Find My Friends? | Dr.fone</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/innovative-approaches-to-powerpoint-video-capture/"><u>Innovative Approaches to PowerPoint Video Capture</u></a></li>
-<li><a href="https://win-tips.techidaily.com/las-mejores-aplicaciones-libres-para-creacion-de-collages-de-video-guia-completa-del-top-12-en-2024-por-movavi/"><u>Las Mejores Aplicaciones Libres Para Creación De Collages De Video: Guía Completa Del Top 12 en 2024 Por Movavi</u></a></li>
-<li><a href="https://win-tips.techidaily.com/os-maiores-20-transcodificadores-de-video-livres-perfeitos-para-sistemas-operacionais-windows-10-8-e-e7/"><u>Os Maiores 20 Transcodificadores De Vídeo Livres Perfeitos Para Sistemas Operacionais Windows 10, 8 E E7</u></a></li>
-<li><a href="https://win-answers.techidaily.com/strategies-to-lower-elevated-cpu-usage-in-current-windows-editions/"><u>Strategies to Lower Elevated CPU Usage in Current Windows Editions</u></a></li>
-<li><a href="https://win-tips.techidaily.com/transformez-facilement-vos-photos-arw-au-format-jpeg-sans-frais-a-laide-de-movavi-en-ligne/"><u>Transformez Facilement Vos Photos ARW Au Format JPEG Sans Frais À L'aide De Movavi en Ligne</u></a></li>
-<li><a href="https://win-tips.techidaily.com/wifi-wmv-f4v/"><u>무료 앱 사용 WiFi로 WMV 및 F4V 파일 구조 교체 - 모데비비</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/bypass-activation-lock-on-apple-iphone-15-plus-4-easy-ways-by-drfone-ios/"><u>Bypass Activation Lock On Apple iPhone 15 Plus - 4 Easy Ways</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/discovering-8-prime-video-advancement-aids/"><u>Discovering 8 Prime Video Advancement Aids</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-8-solutions-to-fix-find-my-friends-location-not-available-on-honor-100-drfone-by-drfone-virtual-android/"><u>In 2024, 8 Solutions to Fix Find My Friends Location Not Available On Honor 100 | Dr.fone</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/in-2024-digital-paintbrushes-at-your-fingertips-explore-11-color-correction-essentials/"><u>In 2024, Digital Paintbrushes at Your Fingertips Explore 11 Color Correction Essentials</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-streamlining-your-workflow-with-zooms-pre-meeting-protocol/"><u>In 2024, Streamlining Your Workflow with Zoom's Pre-Meeting Protocol</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/in-depth-akasa-gecko-ssd-heatsink-evaluation-with-built-in-fan-technology/"><u>In-Depth Akasa Gecko SSD Heatsink Evaluation with Built-In Fan Technology</u></a></li>
+<li><a href="https://win-tips.techidaily.com/is-windows-12-on-the-horizon-unveiling-insights-and-unexpected-projections-techworld/"><u>Is Windows 12 on the Horizon? Unveiling Insights & Unexpected Projections | TechWorld</u></a></li>
+<li><a href="https://win-tips.techidaily.com/microsoft-cybersecurity-conference-can-we-avoid-a-worldwide-tech-crisis/"><u>Microsoft Cybersecurity Conference: Can We Avoid a Worldwide Tech Crisis?</u></a></li>
+<li><a href="https://win-tips.techidaily.com/next-years-big-change-for-windows-users-microsoft-to-charge-for-os-update-find-out-the-price-on-zdnet/"><u>Next Year’s Big Change for Windows Users: Microsoft to Charge for OS Update, Find Out the Price on ZDNET</u></a></li>
+<li><a href="https://fox-info.techidaily.com/pixel-perfection-for-those-just-starting-out/"><u>Pixel Perfection for Those Just Starting Out</u></a></li>
+<li><a href="https://win-tips.techidaily.com/power-up-your-productivity-discover-top-11-advanced-touchpad-techniques-for-windows-users-on-zdnet/"><u>Power Up Your Productivity: Discover Top 11 Advanced Touchpad Techniques for Windows Users on ZDNet</u></a></li>
+<li><a href="https://win-tips.techidaily.com/revamped-and-ready-unveiling-googles-new-quick-load-chrome-browser-for-windows-with-advanced-features-despite-a-hidden-twist-zdnet-exclusive/"><u>Revamped and Ready: Unveiling Google's New Quick-Load Chrome Browser for Windows with Advanced Features, Despite a Hidden Twist | ZDNet Exclusive</u></a></li>
+<li><a href="https://win-tips.techidaily.com/small-but-mighty-unpacking-the-cost-effective-speed-of-latest-sandisk-usbs-at-zdnet/"><u>Small but Mighty: Unpacking the Cost-Effective Speed of Latest SanDisk USBs at ZDNet</u></a></li>
+<li><a href="https://win-tips.techidaily.com/top-5-optimal-workstations-for-professionals-insights-from-zdnet/"><u>Top 5 Optimal Workstations for Professionals : Insights From ZDNet</u></a></li>
+<li><a href="https://solve-luxury.techidaily.com/transform-documents-into-professional-pdf-format-easily-with-top-rated-pdf-converter/"><u>Transform Documents Into Professional PDF Format Easily with Top-Rated PDF Converter</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/uncovering-the-latest-gadgets-with-toms-hardware-experts/"><u>Uncovering the Latest Gadgets with Tom’s Hardware Experts</u></a></li>
 </ul></div>
 

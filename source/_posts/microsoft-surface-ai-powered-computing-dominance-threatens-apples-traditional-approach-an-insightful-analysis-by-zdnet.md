@@ -1,7 +1,7 @@
 ---
 title: "Microsoft Surface: AI-Powered Computing Dominance Threatens Apple's Traditional Approach - An Insightful Analysis by ZDNet"
-date: 2024-09-25T20:40:20.104Z
-updated: 2024-10-02T22:38:03.459Z
+date: 2024-10-05T16:14:12.505Z
+updated: 2024-10-08T16:40:28.010Z
 tags:
   - microsoft
 categories:
@@ -53,6 +53,13 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 
 [See all](https://www.zdnet.com/newsletters/)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2112008/7443" target="_top" id="2112008">
+  <img src="//a.impactradius-go.com/display-ad/7443-2112008" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2112008/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## **2\. Install Linux**
 
 Then, there's my default suggestion: [Move from your soon-to-be-outdated Windows 10 to Linux](https://www.zdnet.com/article/how-to-replace-windows-with-linux-mint-on-your-pc/#link=%7B%22role%22:%22standard%22,%22href%22:%22https://www.zdnet.com/article/how-to-replace-windows-with-linux-mint-on-your-pc/%22,%22target%22:%22%22,%22absolute%22:%22%22,%22linkText%22:%22Move%20from%20your%20soon-to-be-outdated%20Windows%2010%20to%20Linux%22%7D). Yes, I know you've been told that Linux is hard to use and install. It's not. 
@@ -64,16 +71,10 @@ Sure, back in the 2000s, you needed to be a Linux shell command wizard to instal
 Another advantage of running Linux is that your PC will never be left behind. I have computers more than a decade old that came with Windows XP, and they're still running up-to-date Linux. 
 
 <!-- affiliate ads begin -->
-<span id="1424528">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1424528.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1424528">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424528.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424528%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424528/16446" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://imp.i357552.net/c/5597632/1013424/11832" target="_top" id="1013424">
+  <img src="//a.impactradius-go.com/display-ad/11832-1013424" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1013424/11832" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **3\. Switch to ChromeOS**
@@ -95,13 +96,6 @@ By the way, neither Linux nor ChromeOS Flex will cost you a dime. They're free n
 **Also: [Google might abandon ChromeOS Flex. Here's why - and what you can do about it](https://www.zdnet.com/article/google-might-abandon-chromeos-flex-next-heres-why/)**
 
 If you want to replace your Windows machines in a business, Google can help you. For organizations using ChromeOS Flex under [Chrome Enterprise Upgrade](https://chromeos.google/products/device-management/) or [Chrome Education Upgrade](https://services.google.com/fh/files/misc/chrome%5Feducation%5Fupgrade%5Fonepager.pdf), Google offers dedicated support. You can access support via the Google Admin console. There, you'll find help with device enrollment, connectivity issues, and software-related problems. The price starts at $50 per machine per year. 
-
-<!-- affiliate ads begin -->
-<a href="https://oneplusfr.sjv.io/c/5597632/1622438/14044" target="_top" id="1622438">
-  <img src="//a.impactradius-go.com/display-ad/14044-1622438" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://oneplusfr.sjv.io/i/5597632/1622438/14044" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## **4\. Pay for Windows 10 Extended Support**
 
@@ -142,10 +136,16 @@ Finally, a company called [0Patch](https://0patch.com/#link=%7B%22role%22:%22sta
 **Also: [Linux might be your best bet for heightening your desktop computer security](https://www.zdnet.com/article/linux-might-be-your-best-bet-for-heightening-your-desktop-computer-security/)**
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082527/7443" target="_top" id="2082527">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082527" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082527/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1424528">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1424528.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1424528">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424528.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424528%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424528/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **Ignore it and keep running Windows 10** 
@@ -153,10 +153,16 @@ Finally, a company called [0Patch](https://0patch.com/#link=%7B%22role%22:%22sta
 Do you have a death wish!? No, just no! Unless your Windows 10 PC is never, ever connected to the internet, this is just asking for trouble.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1880960/19272" target="_top" id="1880960">
-  <img src="//a.impactradius-go.com/display-ad/19272-1880960" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880960/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1983553">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983553.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983553">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983553.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983553%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983553/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **Conclusion**
@@ -202,19 +208,19 @@ Don't trash your old Windows 10 PCs! There are many ways to give them a long, us
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-helps.techidaily.com/2024-approved-the-ultimate-guide-to-crafting-exquisite-hdr-portraits/"><u>2024 Approved The Ultimate Guide to Crafting Exquisite HDR Portraits</u></a></li>
-<li><a href="https://win-tips.techidaily.com/comprehensive-step-by-step-tutorial-merging-and-editing-pages-between-different-pdf-documents/"><u>Comprehensive Step-by-Step Tutorial: Merging and Editing Pages Between Different PDF Documents</u></a></li>
-<li><a href="https://network-issues.techidaily.com/debugged-drivers-fixed-code-22/"><u>Debugged: Drivers' Fixed Code #22</u></a></li>
-<li><a href="https://win-tips.techidaily.com/iexplorer-substitutes-effortless-ios-file-management-solutions/"><u>IExplorer Substitutes: Effortless iOS File Management Solutions</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/in-2024-perfecting-gopro-cinematography-with-these-15-luts/"><u>In 2024, Perfecting GoPro Cinematography with These 15 LUTs</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/in-2024-streamlined-editing-of-your-tiktok-age/"><u>In 2024, Streamlined Editing of Your TikTok Age</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/in-2024-techniques-for-blurring-and-excising-picture-borders/"><u>In 2024, Techniques for Blurring and Excising Picture Borders</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/in-2024-top-7-fps-experiences-of-the-decade/"><u>In 2024, Top 7 FPS Experiences of the Decade</u></a></li>
-<li><a href="https://win-blog.techidaily.com/movavi-3gpp-gif/"><u>Movavi의 무료 제공을 통해 인터넷에서 3GPP GIF 교체 - 안내서</u></a></li>
-<li><a href="https://win-tips.techidaily.com/seamlessly-transfer-your-miui-experience-from-xiaomi-mi-9-to-pc/"><u>Seamlessly Transfer Your MIUI Experience From Xiaomi Mi 9 to PC</u></a></li>
-<li><a href="https://common-error.techidaily.com/1723210175884-solution-found-halting-error-in-32-bit-applications-print-driver-revived/"><u>Solution Found: Halting Error in 32-Bit Application's Print Driver Revived</u></a></li>
-<li><a href="https://common-error.techidaily.com/troubleshooting-guide-fixing-non-responsive-number-keys-on-your-keyboard/"><u>Troubleshooting Guide: Fixing Non-Responsive Number Keys on Your Keyboard</u></a></li>
-<li><a href="https://win-tips.techidaily.com/windows-10-update-alert-farewell-to-gratis-upgrades-by-microsoft-says-zdnet/"><u>Windows 10 Update Alert: Farewell to Gratis Upgrades by Microsoft, Says ZDNet</u></a></li>
-<li><a href="https://win-tips.techidaily.com/windows-11-updates-to-come-with-a-price-tag-from-microsoft-next-year-get-insight-into-potential-charges-now-zdnet/"><u>Windows 11 Updates to Come with a Price Tag From Microsoft Next Year - Get Insight Into Potential Charges Now | ZDNET</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/new-predicting-the-new-wave-of-social-media-infographic-style/"><u>[New] Predicting the New Wave of Social Media - Infographic Style</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-ultimate-guide-to-non-time-restricted-recorders/"><u>[Updated] Ultimate Guide to Non-Time Restricted Recorders</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/becoming-an-animoji-expert-on-your-iphone-x-device-for-2024/"><u>Becoming an Animoji Expert on Your iPhone X Device for 2024</u></a></li>
+<li><a href="https://win-tips.techidaily.com/boost-your-gpu-performance-utilizing-intel-quick-sync-technology-in-desktops/"><u>Boost Your GPU Performance: Utilizing Intel Quick Sync Technology in Desktops</u></a></li>
+<li><a href="https://win-tips.techidaily.com/capture-your-gaming-moments-action-screen-recording-and-live-gameplay-editor/"><u>Capture Your Gaming Moments: Action-Screen Recording & Live Gameplay Editor</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/download-free-spyware-protection-software-for-windows-pcs/"><u>Download Free Spyware Protection Software for Windows PCs</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/enhance-your-digital-habitat-steps-to-utilize-the-google-home-app-on-windows-and-mac-computers/"><u>Enhance Your Digital Habitat: Steps to Utilize the Google Home App on Windows & Mac Computers</u></a></li>
+<li><a href="https://techidaily.com/how-to-transfer-data-from-apple-iphone-se-2022-to-other-iphone-12-pro-max-devices-drfone-by-drfone-transfer-data-from-ios-transfer-data-from-ios/"><u>How To Transfer Data From Apple iPhone SE (2022) To Other iPhone 12 Pro Max devices? | Dr.fone</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-top-10-oppo-reno-10-pro-5g-android-sim-unlock-apk-by-drfone-android/"><u>In 2024, Top 10 Oppo Reno 10 Pro 5G Android SIM Unlock APK</u></a></li>
+<li><a href="https://games-able.techidaily.com/1719157080006-oled-monitor-my-secret-weapon-for-games/"><u>OLED Monitor - My Secret Weapon for Games!</u></a></li>
+<li><a href="https://win-tips.techidaily.com/online-shop-acquire-your-action-permit-from-mirillis-marketplace/"><u>Online Shop: Acquire Your Action! Permit From Mirillis Marketplace</u></a></li>
+<li><a href="https://win-tips.techidaily.com/tutorial-accessing-downloads-of-popular-discovery-channel-series-and-episodes-for-free/"><u>Tutorial: Accessing Downloads of Popular Discovery Channel Series & Episodes for Free</u></a></li>
+<li><a href="https://win-tips.techidaily.com/unleash-your-imagination-with-free-downloads-videogames-films-shows-and-comics-for-the-ultimate-escape-experience/"><u>Unleash Your Imagination with FREE Downloads: Videogames, Films, Shows & Comics for the Ultimate Escape Experience!</u></a></li>
+<li><a href="https://win-tips.techidaily.com/why-is-my-mirallis-keyboard-serial-number-blocked/"><u>Why Is My Mirallis Keyboard Serial Number Blocked?</u></a></li>
 </ul></div>
 

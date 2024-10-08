@@ -1,7 +1,7 @@
 ---
 title: "Honoring History in Silicon Valley: A Look at Major Tech Firms' Plans for Juneteenth Observance"
-date: 2024-09-28T17:37:46.642Z
-updated: 2024-10-03T06:47:43.048Z
+date: 2024-10-06T16:26:16.466Z
+updated: 2024-10-08T16:54:11.939Z
 tags:
   - microsoft
 categories:
@@ -54,10 +54,10 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 [See all](https://www.zdnet.com/newsletters/)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2016143/19272" target="_top" id="2016143">
-  <img src="//a.impactradius-go.com/display-ad/19272-2016143" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135351/19272" target="_top" id="2135351">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135351" border="0" alt="https://techidaily.com" width="125" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016143/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135351/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **2\. Install Linux**
@@ -71,10 +71,10 @@ Sure, back in the 2000s, you needed to be a Linux shell command wizard to instal
 Another advantage of running Linux is that your PC will never be left behind. I have computers more than a decade old that came with Windows XP, and they're still running up-to-date Linux. 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135362/19272" target="_top" id="2135362">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135362" border="0" alt="https://techidaily.com" width="120" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1885932/19272" target="_top" id="1885932">
+  <img src="//a.impactradius-go.com/display-ad/19272-1885932" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135362/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1885932/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **3\. Switch to ChromeOS**
@@ -98,10 +98,10 @@ By the way, neither Linux nor ChromeOS Flex will cost you a dime. They're free n
 If you want to replace your Windows machines in a business, Google can help you. For organizations using ChromeOS Flex under [Chrome Enterprise Upgrade](https://chromeos.google/products/device-management/) or [Chrome Education Upgrade](https://services.google.com/fh/files/misc/chrome%5Feducation%5Fupgrade%5Fonepager.pdf), Google offers dedicated support. You can access support via the Google Admin console. There, you'll find help with device enrollment, connectivity issues, and software-related problems. The price starts at $50 per machine per year. 
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137222/26400" target="_top" id="2137222">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137222" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://imp.i357552.net/c/5597632/857865/11832" target="_top" id="857865">
+  <img src="//a.impactradius-go.com/display-ad/11832-857865" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137222/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/857865/11832" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **4\. Pay for Windows 10 Extended Support**
@@ -142,16 +142,22 @@ Finally, a company called [0Patch](https://0patch.com/#link=%7B%22role%22:%22sta
 
 **Also: [Linux might be your best bet for heightening your desktop computer security](https://www.zdnet.com/article/linux-might-be-your-best-bet-for-heightening-your-desktop-computer-security/)**
 
+<!-- affiliate ads begin -->
+<span id="1304647">
+					<video width="240" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1304647.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/15852-1304647">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1304647.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1304647%2F15852'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1304647/15852" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## **Ignore it and keep running Windows 10** 
 
 Do you have a death wish!? No, just no! Unless your Windows 10 PC is never, ever connected to the internet, this is just asking for trouble.
-
-<!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/2139563/4704" target="_top" id="2139563">
-  <img src="//a.impactradius-go.com/display-ad/4704-2139563" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://united.elfm.net/i/5597632/2139563/4704" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## **Conclusion**
 
@@ -196,18 +202,22 @@ Don't trash your old Windows 10 PCs! There are many ways to give them a long, us
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://remote-screen-capture.techidaily.com/new-in-2024-unveiling-the-secrets-how-to-save-your-google-meet/"><u>[New] In 2024, Unveiling the Secrets How to Save Your Google Meet</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/new-unlocking-insta-stardom-15-effortless-steps-towards-rapid-and-sustained-fame/"><u>[New] Unlocking Insta Stardom 15 Effortless Steps Towards Rapid and Sustained Fame</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/ed-mastering-the-art-of-youtube-brand-creation-best-names-for-vloggers-and-filmmakers-limit-to-156-characters/"><u>[Updated] Mastering the Art of YouTube Brand Creation Best Names for Vloggers & Filmmakers (Limit to 156 Characters)</u></a></li>
-<li><a href="https://win-tips.techidaily.com/1-trouble-downloading-from-flipbuilder-heres-why-and-how-to-fix-it/"><u>1) Trouble Downloading From FlipBuilder? Here's Why and How to Fix It</u></a></li>
-<li><a href="https://win-tips.techidaily.com/adjusting-flipbook-timing-settings-on-flipbuilder-for-optimal-user-experience/"><u>Adjusting Flipbook Timing Settings on FlipBuilder for Optimal User Experience</u></a></li>
-<li><a href="https://win-tips.techidaily.com/are-you-looking-for-the-macos-compatible-flipbuilder-alternative/"><u>Are You Looking for the macOS Compatible FlipBuilder Alternative?</u></a></li>
-<li><a href="https://win-tips.techidaily.com/comprehensive-faq-resource-flipbuilders-centralized-knowledge-hub/"><u>Comprehensive FAQ Resource - FlipBuilder's Centralized Knowledge Hub</u></a></li>
-<li><a href="https://win-tips.techidaily.com/craft-dynamic-picture-galleries-in-minutes-experience-next-level-presentations-with-flipbuilders-image-flipping-feature/"><u>Craft Dynamic Picture Galleries in Minutes - Experience Next-Level Presentations With FlipBuilder's Image Flipping Feature</u></a></li>
-<li><a href="https://win-tips.techidaily.com/create-eye-catching-page-turning-books-using-alpha-templates-start-now-on-flipbuildercom/"><u>Create Eye-Catching Page Turning Books Using Alpha Templates - Start Now on FlipBuilder.com</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/how-to-restore-functionality-to-your-corsair-hs50-mic-expert-advice/"><u>How to Restore Functionality to Your Corsair HS50 Mic - Expert Advice</u></a></li>
-<li><a href="https://win-blog.techidaily.com/improved-version-of-football-manager-2020-say-goodbye-to-game-crashes/"><u>Improved Version of Football Manager 2020: Say Goodbye to Game Crashes</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/in-2024-unlock-your-device-icloud-dns-bypass-explained-and-tested-plus-easy-alternatives-on-iphone-xs-max-by-drfone-ios/"><u>In 2024, Unlock Your Device iCloud DNS Bypass Explained and Tested, Plus Easy Alternatives On iPhone XS Max</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/play-store-stuck-on-downloading-of-xiaomi-13-ultra-7-ways-to-resolve-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Play Store Stuck on Downloading Of Xiaomi 13 Ultra? 7 Ways to Resolve | Dr.fone</u></a></li>
+<li><a href="https://fox-info.techidaily.com/new-in-2024-photo-perfection-best-practices-for-integrating-frames-online/"><u>[New] In 2024, Photo Perfection Best Practices for Integrating Frames Online</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/2024-approved-viral-talent-quest-episodes-1-10/"><u>2024 Approved Viral Talent Quest Episodes #1-10</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/athletes-guide-crafting-dynamic-gpt-prompts/"><u>Athletes' Guide: Crafting Dynamic GPT Prompts</u></a></li>
+<li><a href="https://win-tips.techidaily.com/comprehensive-step-by-step-tutorial-merging-and-editing-pages-between-different-pdf-documents/"><u>Comprehensive Step-by-Step Tutorial: Merging and Editing Pages Between Different PDF Documents</u></a></li>
+<li><a href="https://win-tips.techidaily.com/connecting-an-ipad-to-your-pc-comprehensive-tutorial-on-extending-windows-screens-with-apple-tablets/"><u>Connecting an iPad to Your PC: Comprehensive Tutorial on Extending Windows Screens with Apple Tablets</u></a></li>
+<li><a href="https://win-tips.techidaily.com/discover-the-most-popular-and-effective-christmas-photo-making-apps-in-202n-your-guide-to-a-festive-season-greeting-masterpiece/"><u>Discover the Most Popular and Effective Christmas Photo Making Apps in 202N: Your Guide to a Festive Season Greeting Masterpiece</u></a></li>
+<li><a href="https://facebook.techidaily.com/facebook-updates-on-subjective-interpretations/"><u>Facebook Updates on Subjective Interpretations</u></a></li>
+<li><a href="https://windows11.techidaily.com/how-to-fix-the-windows-cannot-access-the-specified-device-path-or-file-error/"><u>How to Fix the Windows Cannot Access the Specified Device, Path or File Error</u></a></li>
+<li><a href="https://win-dash.techidaily.com/how-to-install-the-newest-intel-raid-drivers-on-your-windows-system-versions-for-w11-10-8-and-win7/"><u>How to Install the Newest Intel RAID Drivers on Your Windows System: Versions for W11, 10, 8 & Win7</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-a-step-by-step-guide-on-using-adb-and-fastboot-to-remove-frp-lock-from-your-honor-x50-gt-by-drfone-android/"><u>In 2024, A Step-by-Step Guide on Using ADB and Fastboot to Remove FRP Lock from your Honor X50 GT</u></a></li>
+<li><a href="https://win-tips.techidaily.com/mac-users-guide-to-quickly-converting-and-watching-mkv-content-with-ease/"><u>Mac User's Guide to Quickly Converting & Watching MKV Content with Ease</u></a></li>
+<li><a href="https://program-issues.techidaily.com/maintain-a-consistently-professional-demeanor-when-dealing-with-difficult-or-dissatisfied-customers-demonstrating-empathy-while-providing-solutions-in-line-505/"><u>Maintain a Consistently Professional Demeanor when Dealing with Difficult or Dissatisfied Customers, Demonstrating Empathy While Providing Solutions in Line with Our Company Policies and Procedures</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/maximize-mobile-viewing-sharper-chromebook-and-phone-videos-for-2024/"><u>Maximize Mobile Viewing Sharper Chromebook and Phone Videos for 2024</u></a></li>
+<li><a href="https://win-tips.techidaily.com/seamlessly-transfer-your-miui-experience-from-xiaomi-mi-9-to-pc/"><u>Seamlessly Transfer Your MIUI Experience From Xiaomi Mi 9 to PC</u></a></li>
+<li><a href="https://win-tips.techidaily.com/step-by-step-guide-how-to-effortlessly-transfer-htc-contact-list-to-samsung-s5/"><u>Step-by-Step Guide: How to Effortlessly Transfer HTC Contact List to Samsung S5</u></a></li>
+<li><a href="https://win-tips.techidaily.com/top-mp3-download-websites-similar-to-youtube-the-ultimate-guide/"><u>Top MP3 Download Websites Similar to YouTube: The Ultimate Guide</u></a></li>
+<li><a href="https://win-tips.techidaily.com/ultimate-guide-to-transforming-videos-into-stunning-169-widescreen-format/"><u>Ultimate Guide to Transforming Videos Into Stunning 16:9 Widescreen Format</u></a></li>
 </ul></div>
 

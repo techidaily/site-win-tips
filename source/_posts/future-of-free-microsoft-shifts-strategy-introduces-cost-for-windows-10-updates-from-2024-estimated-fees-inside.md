@@ -1,7 +1,7 @@
 ---
 title: "Future of Free: Microsoft Shifts Strategy, Introduces Cost for Windows 10 Updates From 2024 - Estimated Fees Inside"
-date: 2024-09-29T10:26:46.513Z
-updated: 2024-10-03T03:10:25.384Z
+date: 2024-10-03T16:28:16.814Z
+updated: 2024-10-08T16:38:18.192Z
 tags:
   - windows
 categories:
@@ -33,18 +33,18 @@ First, make sure you're signed into your Windows 11 PC with an account that has 
 
 Screenshot by Lance Whitney/ZDNET
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2043618/7443" target="_top" id="2043618">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043618" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043618/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 2\. Create a new folder
 
 Next, right-click on any empty area of the Desktop. In the popup menu, move to New and select the command for Folder**.**
 
 Screenshot by Lance Whitney/ZDNET
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094419/7443" target="_top" id="2094419">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094419" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094419/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 3\. Rename the new folder
 
@@ -55,18 +55,18 @@ When done, press Enter.
 
 Screenshot by Lance Whitney/ZDNET
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037474/7443" target="_top" id="2037474">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037474" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037474/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 4\. Launch the icon
 
 Double-click the icon, and a window opens with all the available settings. The commands are organized by Control Panel applet, so you can browse through the various categories, including Backup and Restore, Devices and Printers, File History, Mouse, Programs and Features, Security and Maintenance, Troubleshooting, and User Accounts.
 
 Screenshot by Lance Whitney/ZDNET
+
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1657395/16446" target="_top" id="1657395">
+  <img src="//a.impactradius-go.com/display-ad/16446-1657395" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657395/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 5\. Search for a command
 
@@ -74,18 +74,18 @@ Alternatively, you can search for a specific command or applet in the God Mode w
 
 Screenshot by Lance Whitney/ZDNET
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2129740/7443" target="_top" id="2129740">
-  <img src="//a.impactradius-go.com/display-ad/7443-2129740" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129740/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 6\. Double-click the command to launch it
 
 When you see the setting or command you want, simply double-click it to launch it.
 
 Screenshot by Lance Whitney/ZDNET
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1902289/19272" target="_top" id="1902289">
+  <img src="//a.impactradius-go.com/display-ad/19272-1902289" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902289/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 7\. Create a changeable icon for God Mode
 
@@ -104,18 +104,18 @@ At the next screen, you can now enter any name you wish for the shortcut. Click 
 
 Screenshot by Lance Whitney/ZDNET
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134498/18498" target="_top" id="2134498">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134498" border="0" alt="https://techidaily.com" width="720" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134498/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 9\. Change the icon
 
 To change the icon from the generic folder image, right-click on it and select Properties. Click the "Change icon" button and you can select a different icon from the explorer.exe file. You can also search for other executable files with built-in icons and choose the one you like. When done, click OK in the Properties window.
 
 Screenshot by Lance Whitney/ZDNET
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1902304/19272" target="_top" id="1902304">
-  <img src="//a.impactradius-go.com/display-ad/19272-1902304" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902304/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 10\. Launch your new icon
 
@@ -156,18 +156,18 @@ Screenshot by Lance Whitney/ZDNET
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-content.techidaily.com/new-in-2024-best-practices-in-fb-advertising-leading-video-trends/"><u>[New] In 2024, Best Practices in FB Advertising Leading Video Trends</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/new-in-2024-free-tools-make-screencapture-a-breeze-for-tv-lovers/"><u>[New] In 2024, Free Tools Make ScreenCapture a Breeze for TV Lovers</u></a></li>
-<li><a href="https://video-capture.techidaily.com/updated-in-2024-professional-academic-recording-a-trio-of-methods-for-students-with-apple-devices/"><u>[Updated] In 2024, Professional Academic Recording A Trio of Methods for Students with Apple Devices</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/ed-step-by-step-guide-to-time-stamping-for-higher-youtube-rankings-for-2024/"><u>[Updated] Step-by-Step Guide to Time Stamping for Higher YouTube Rankings for 2024</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/updated-step-by-step-guide-to-uploading-immersive-photos-via-iosandroid/"><u>[Updated] Step-by-Step Guide to Uploading Immersive Photos via iOS/Android</u></a></li>
-<li><a href="https://win-tips.techidaily.com/1-apowersofts-ultimate-manual-mastering-pdf-compression-techniques/"><u>1. Apowersoft's Ultimate Manual: Mastering PDF Compression Techniques</u></a></li>
-<li><a href="https://win-tips.techidaily.com/complete-tutorial-on-how-to-migrate-your-phone-numbers-and-email-addresses-from-an-iphone-to-the-galaxy-s5/"><u>Complete Tutorial on How to Migrate Your Phone Numbers and Email Addresses From an iPhone to the Galaxy S5</u></a></li>
-<li><a href="https://win-tips.techidaily.com/effortless-guide-mastering-live-video-streaming-online/"><u>Effortless Guide: Mastering Live Video Streaming Online</u></a></li>
-<li><a href="https://win-tips.techidaily.com/effortless-methods-for-adjusting-your-videos-display-dimensions/"><u>Effortless Methods for Adjusting Your Video's Display Dimensions</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-remove-screen-lock-pin-on-meizu-21-pro-like-a-pro-5-easy-ways-by-drfone-android/"><u>In 2024, How To Remove Screen Lock PIN On Meizu 21 Pro Like A Pro 5 Easy Ways</u></a></li>
-<li><a href="https://video-content-creator.techidaily.com/new-fast-forward-your-videos-a-beginners-guide-to-time-lapse-software-for-2024/"><u>New Fast Forward Your Videos A Beginners Guide to Time Lapse Software for 2024</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/pro-level-snap-tech-free-from-any-delaying-hiccups-for-2024/"><u>Pro-Level Snap Tech Free From Any Delaying Hiccups for 2024</u></a></li>
-<li><a href="https://win-tips.techidaily.com/step-by-step-guide-capturing-a-screenshot-on-your-mac/"><u>Step-by-Step Guide: Capturing a Screenshot on Your Mac</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-highlighting-the-top-10-budget-friendly-video-communication-platforms-for-industry-and-academia-for-2024/"><u>[Updated] Highlighting the Top 10 Budget-Friendly Video Communication Platforms For Industry & Academia for 2024</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-the-abcs-of-aspect-ratio-a-guide-to-twitter-videos-for-2024/"><u>[Updated] The ABCs of Aspect Ratio A Guide to Twitter Videos for 2024</u></a></li>
+<li><a href="https://win-tips.techidaily.com/ai-showdown-evaluating-chatgpt-microsofts-copilot-and-gemini-for-ultimate-chatbot-supremacy-zdnet/"><u>AI Showdown: Evaluating ChatGPT, Microsoft's Copilot, and Gemini for Ultimate Chatbot Supremacy | ZDNET</u></a></li>
+<li><a href="https://win-tips.techidaily.com/alert-upcoming-microsoft-patch-could-escalate-office-woes-at-night-techradar/"><u>Alert: Upcoming Microsoft Patch Could Escalate Office Woes at Night | TechRadar</u></a></li>
+<li><a href="https://win-tips.techidaily.com/complimentary-ai-companion-for-us-educators-microsoft-plus-khan-academys-collaborative-initiative-insights-from-zdnet/"><u>Complimentary AI Companion for U.S. Educators: Microsoft + Khan Academy's Collaborative Initiative - Insights From ZDNet</u></a></li>
+<li><a href="https://techtrends.techidaily.com/fix-your-systems-missing-d3dx939dll-file-a-step-by-step-guide/"><u>Fix Your System's Missing d3dx9_39.dll File - A Step by Step Guide</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-can-i-catch-the-regional-pokemon-without-traveling-on-vivo-v30-drfone-by-drfone-virtual-android/"><u>How Can I Catch the Regional Pokémon without Traveling On Vivo V30 | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-5-easy-ways-to-copy-contacts-from-xiaomi-redmi-12-5g-to-iphone-14-and-15-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 5 Easy Ways to Copy Contacts from Xiaomi Redmi 12 5G to iPhone 14 and 15 | Dr.fone</u></a></li>
+<li><a href="https://ios-location-track.techidaily.com/in-2024-ways-to-stop-parent-tracking-your-apple-iphone-xs-drfone-by-drfone-virtual-ios/"><u>In 2024, Ways to stop parent tracking your Apple iPhone XS | Dr.fone</u></a></li>
+<li><a href="https://win-tips.techidaily.com/online-shop-acquire-your-action-permit-from-mirillis-marketplace/"><u>Online Shop: Acquire Your Action! Permit From Mirillis Marketplace</u></a></li>
+<li><a href="https://video-capture.techidaily.com/streamlining-creative-processes-with-obs-studio-tools/"><u>Streamlining Creative Processes with OBS Studio Tools</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/unveiling-8-superior-mirrorless-cameras-for-video-content-for-2024/"><u>Unveiling 8 Superior Mirrorless Cameras for Video Content for 2024</u></a></li>
+<li><a href="https://win-tips.techidaily.com/why-is-my-mirallis-keyboard-serial-number-blocked/"><u>Why Is My Mirallis Keyboard Serial Number Blocked?</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "AI Showdown: Evaluating ChatGPT, Microsoft's Copilot, and Gemini for Ultimate Chatbot Supremacy | ZDNET"
-date: 2024-10-01T16:29:22.574Z
-updated: 2024-10-08T16:56:32.912Z
+date: 2024-10-11T16:39:44.891Z
+updated: 2024-10-13T19:19:26.159Z
 tags:
   - microsoft
 categories:
@@ -114,24 +114,33 @@ I fear, though, that for very many people, Excel is just a dull, efficient, util
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-videos.techidaily.com/updated-deleting-youtube-content-a-step-by-step-guide/"><u>[Updated] Deleting YouTube Content A Step-by-Step Guide</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/updated-directly-upload-videos-from-twitter-to-tumblr-for-2024/"><u>[Updated] Directly Upload Videos From Twitter to Tumblr for 2024</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/updated-maximize-your-window-usage-top-30-unknown-tips-and-tricks-for-windows-11/"><u>[Updated] Maximize Your Window Usage Top 30 Unknown Tips and Tricks for Windows 11</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/an-in-depth-look-at-what-sets-claude-pro-apart-from-its-rival-chatgpt-plus-by-microsoft/"><u>An In-Depth Look at What Sets Claude Pro Apart From Its Rival, ChatGPT Plus by Microsoft</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/n-2024-navigate-through-settings-enabledisable-video-comments/"><u>[New] In 2024, Navigate Through Settings Enable/Disable Video Comments</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-premium-live-video-conferencing-systems/"><u>2024 Approved Premium Live Video Conferencing Systems</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-transform-your-livestreams-with-eco-friendly-screen-effects/"><u>2024 Approved Transform Your Livestreams with Eco-Friendly Screen Effects</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/asus-vivobook-11-review-the-ideal-choice-for-portability-and-cost-efficiency-in-a-sleek-package/"><u>ASUS VivoBook 11 Review: The Ideal Choice for Portability & Cost-Efficiency in a Sleek Package</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/boosting-brightness-on-android-devices/"><u>Boosting Brightness on Android Devices</u></a></li>
+<li><a href="https://win-blog.techidaily.com/effective-strategies-to-overcome-network-lag-problems-in-valheim-on-pc/"><u>Effective Strategies to Overcome Network Lag Problems in Valheim on PC</u></a></li>
 <li><a href="https://win-tips.techidaily.com/exploring-microsofts-new-strategy-the-crowdstrike-repair-application-demystified-by-zdnet-cybertech-digest/"><u>Exploring Microsoft's New Strategy: The CrowdStrike Repair Application Demystified by ZDNet | CyberTech Digest</u></a></li>
 <li><a href="https://win-tips.techidaily.com/future-of-free-microsoft-shifts-strategy-introduces-cost-for-windows-10-updates-from-2024-estimated-fees-inside/"><u>Future of Free: Microsoft Shifts Strategy, Introduces Cost for Windows 10 Updates From 2024 - Estimated Fees Inside</u></a></li>
 <li><a href="https://win-tips.techidaily.com/how-to-access-google-chromeer-energy-efficient-updates-a-step-by-step-guide/"><u>How to Access Google Chrome'er Energy Efficient Updates - A Step by Step Guide</u></a></li>
-<li><a href="https://fake-location.techidaily.com/how-to-change-google-play-location-on-poco-x5-drfone-by-drfone-virtual-android/"><u>How to Change Google Play Location On Poco X5 | Dr.fone</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/in-2024-easily-unlock-your-google-pixel-fold-device-sim-by-drfone-android/"><u>In 2024, Easily Unlock Your Google Pixel Fold Device SIM</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/in-2024-how-to-watch-hulu-outside-us-on-samsung-galaxy-a05s-drfone-by-drfone-virtual-android/"><u>In 2024, How to Watch Hulu Outside US On Samsung Galaxy A05s | Dr.fone</u></a></li>
+<li><a href="https://win-tips.techidaily.com/how-windows-11-captured-the-hearts-of-tech-professionals-according-to-a-new-microsoft-zdnet-report/"><u>How Windows 11 Captured the Hearts of Tech Professionals, According to a New Microsoft-ZDNet Report</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-how-to-successfully-bypass-icloud-activation-lock-on-iphone-se-by-drfone-ios/"><u>In 2024, How to Successfully Bypass iCloud Activation Lock on iPhone SE</u></a></li>
 <li><a href="https://win-tips.techidaily.com/last-chance-with-authy-desktop-apps-transition-your-two-factor-authentication-within-30-days-zdnet-insights/"><u>Last Chance with Authy Desktop Apps: Transition Your Two-Factor Authentication Within 30 Days | ZDNet Insights</u></a></li>
+<li><a href="https://article-posts.techidaily.com/photography-pro-key-positions-and-perspectives-on-your-iphone-for-2024/"><u>Photography Pro Key Positions and Perspectives on Your iPhone for 2024</u></a></li>
+<li><a href="https://win-blog.techidaily.com/step-by-step-solution-to-deal-with-your-nvidia-connectivity-problems/"><u>Step-by-Step Solution to Deal with Your NVIDIA Connectivity Problems</u></a></li>
 <li><a href="https://win-tips.techidaily.com/urgent-challenge-microsoft-must-fix-major-issues-with-windows-10-in-just-one-year-insights-by-zdnet/"><u>Urgent Challenge: Microsoft Must Fix Major Issues with Windows 10 in Just One Year - Insights by ZDNet</u></a></li>
 </ul></div>
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082530/7443" target="_top" id="2082530">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082530" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082530/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1982508">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982508.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982508">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982508.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982508%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982508/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 

@@ -1,7 +1,7 @@
 ---
 title: "Boost Your GPU Performance: Utilizing Intel Quick Sync Technology in Desktops"
-date: 2024-10-05T16:47:34.747Z
-updated: 2024-10-08T16:13:06.066Z
+date: 2024-10-09T22:45:49.182Z
+updated: 2024-10-13T21:54:51.265Z
 tags:
   - product
 categories:
@@ -46,6 +46,13 @@ Action Tutorials
   
  Share this tutorial:
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2123509/26400" target="_top" id="2123509">
+  <img src="//a.impactradius-go.com/display-ad/26400-2123509" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123509/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  Introduction 
 
 **IMPORTANT: For all latest PCs (with latest graphics drivers instlalled) the Intel Quick Sync Video acceleration should work out of the box. Please follow the tutorial below if you have an older PC or experience problems with enabling Quick Sync Video acceleration.**
@@ -64,13 +71,6 @@ Action Tutorials
 
  Please follow the steps below to setup your PC to make Intel Quick Sync Video technology available in Action! 
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037318/7443" target="_top" id="2037318">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037318" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037318/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ##  Check your hardware specification 
 
  Check if your CPU model supports Intel Quick Sync Video technology. You can check your desktop processor model graphics specifications at Intel website:  
@@ -78,46 +78,39 @@ Action Tutorials
 
 ![Mirillis Action! - Intel Graphics Specifications](https://mirillis.com/res/old/gfx/tutorials/hardware_settings/mirillis_action_intel_quick_sync_cpu_model_check.jpg "Intel CPU Graphics Specifications") 
 
+<!-- affiliate ads begin -->
+<span id="1977028">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1977028.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1977028">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977028.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977028%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977028/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  Enable Intel graphics card in BIOS 
 
  Check your PC BIOS User Manual or instructions to see how to enable Intel integrated graphics (iGPU). Enable Intel graphics and save BIOS changes. 
 
 <!-- affiliate ads begin -->
-<a href="https://homestyler.sjv.io/c/5597632/1943647/22993" target="_top" id="1943647">
-  <img src="//a.impactradius-go.com/display-ad/22993-1943647" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2100537/7443" target="_top" id="2100537">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100537" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://homestyler.sjv.io/i/5597632/1943647/22993" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100537/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Install the latest Intel graphics drivers 
 
  It is strongly recommended to install the latest Intel graphics drivers available for your Intel HD graphics card model. Intel Quick Sync Video acceleration may be not available or may work incorrectly with old graphics drivers.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094428/7443" target="_top" id="2094428">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094428" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094428/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ##  Open Windows Screen Resolution settings 
 
  Click with mouse right button on the desktop to show menu and select **Screen Resolution**. 
 
 ![Mirillis Action! - Windows Screen Resolution settings](https://mirillis.com/res/old/gfx/tutorials/hardware_settings/mirillis_action_intel_quick_sync_video_desktops_screen_res.jpg "Open Windows Screen Resolution settings") 
-
-<!-- affiliate ads begin -->
-<span id="1983551">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983551.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983551">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983551.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983551%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983551/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ##  Detect inactive video outputs 
 
@@ -126,10 +119,17 @@ Action Tutorials
 ![Mirillis Action! - Detect inactive video outputs](https://mirillis.com/res/old/gfx/tutorials/hardware_settings/mirillis_action__intel_quick_sync_video_desktops_1_detect.jpg "Detect inactive video outputs") 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1902273/19272" target="_top" id="1902273">
-  <img src="//a.impactradius-go.com/display-ad/19272-1902273" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2037335/7443" target="_top" id="2037335">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037335" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902273/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037335/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1925565/19272" target="_top" id="1925565">
+  <img src="//a.impactradius-go.com/display-ad/19272-1925565" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925565/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  Force display on Intel® HD Graphics output 
@@ -138,18 +138,25 @@ Action Tutorials
 
 ![Mirillis Action! - Force display on Intel HD Graphics](https://mirillis.com/res/old/gfx/tutorials/hardware_settings/mirillis_action__intel_quick_sync_video_desktops_2_vga.jpg "Force display on Intel® HD Graphics") 
 
-<!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2005196/22899" target="_top" id="2005196">
-  <img src="//a.impactradius-go.com/display-ad/22899-2005196" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2005196/22899" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ##  Apply changes 
 
  Click **Apply** button before making any additional changes. 
 
 ![Mirillis Action! - Apply changes](https://mirillis.com/res/old/gfx/tutorials/hardware_settings/mirillis_action__intel_quick_sync_video_desktops_3_apply.jpg "Apply changes") 
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136627/26400" target="_top" id="2136627">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136627" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136627/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1886044/19272" target="_top" id="1886044">
+  <img src="//a.impactradius-go.com/display-ad/19272-1886044" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886044/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  Extend display 
 
@@ -162,13 +169,6 @@ Action Tutorials
  Click **Apply** button and **Keep changes**. 
 
 ![Mirillis Action! - Apply and keep changes](https://mirillis.com/res/old/gfx/tutorials/hardware_settings/mirillis_action__intel_quick_sync_video_desktops_5_apply.jpg "Apply and keep changes") 
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2130530/26400" target="_top" id="2130530">
-  <img src="//a.impactradius-go.com/display-ad/26400-2130530" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130530/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ##  Close Screen Resolution settings 
 
@@ -197,18 +197,24 @@ Action Tutorials
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-videos.techidaily.com/new-2024-approved-silent-spectators-manual-mastering-the-art-of-private-instagram-story-watching-pcandroidios/"><u>[New] 2024 Approved Silent Spectator's Manual Mastering the Art of Private Instagram Story Watching [PC/Android/iOS]</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/2024-approved-discover-the-best-8-innovative-5k-panels/"><u>2024 Approved Discover the Best 8 Innovative 5K Panels</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/2024-approved-teachers-handbook-building-a-successful-youtube-channel-10-must-dos/"><u>2024 Approved Teachers' Handbook Building a Successful YouTube Channel – 10 Must-Dos</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/comprehensive-analysis-of-the-stanley-j5c09-powerful-storage-unit-unveiled/"><u>Comprehensive Analysis of the Stanley J5C09 - Powerful Storage Unit Unveiled</u></a></li>
-<li><a href="https://win-tips.techidaily.com/free-web-based-mov-to-mp4-converter-easy-mov-file-transformation-with-moveave-video-software/"><u>Free Web-Based MOV to MP4 Converter - Easy MOV File Transformation with Moveave Video Software</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-retrieve-lost-files-from-note-30-pro-by-fonelab-android-recover-data/"><u>How to retrieve lost files from Note 30 Pro?</u></a></li>
-<li><a href="https://win-tips.techidaily.com/movavi-converter-review-aiff-vs-wav-an-in-depth-guide-to-selecting-the-best-audio-format/"><u>Movavi Converter Review: AIFF vs WAV - An In-Depth Guide to Selecting the Best Audio Format</u></a></li>
-<li><a href="https://win-tips.techidaily.com/online-tiff-jpeg/"><u>Online 무료 제공: 오픈 소스의 Tiff 이미지를 Jpeg으로 구독하는 방법</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/overcoming-disabled-audio-control-slider-problems/"><u>Overcoming Disabled Audio Control Slider Problems</u></a></li>
-<li><a href="https://win-tips.techidaily.com/transformar-imagenes-de-rw2-a-jpg-sin-coste-adicional-con-la-herramienta-online-de-muoviavi/"><u>Transformar Imágenes De RW2 a JPG Sin Coste Adicional Con La Herramienta Online De MuoviAVI</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/upcoming-transparent-customization-options-for-your-steam-deck/"><u>Upcoming Transparent Customization Options for Your Steam Deck!</u></a></li>
-<li><a href="https://sound-optimizing.techidaily.com/updated-2024-approved-the-complete-process-of-audio-integration-into-quicktime-video-files/"><u>Updated 2024 Approved The Complete Process of Audio Integration Into QuickTime Video Files</u></a></li>
-<li><a href="https://games-able.techidaily.com/what-does-strike-mean-on-xbox/"><u>What Does Strike Mean on Xbox?</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-affordable-obs-adjustments-and-tweaks-for-2024/"><u>[Updated] Affordable OBS Adjustments and Tweaks for 2024</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/updated-dive-deep-into-video-a-compreenas-guide-to-sharing-pictures-online/"><u>[Updated] Dive Deep Into Video A Compreenas Guide to Sharing Pictures Online</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/1722896163952-audacity-lame-dll-crashes-easy-fixes-and-workarounds-you-cant-miss/"><u>Audacity Lame DLL Crashes: Easy Fixes and Workarounds You Can't Miss</u></a></li>
+<li><a href="https://win-tips.techidaily.com/emeditor-text-editors-open-documents-addon-flaw-detected-bug-and-potential-impact/"><u>EmEditor Text Editor's Open Documents Addon Flaw: Detected Bug and Potential Impact</u></a></li>
+<li><a href="https://win-tips.techidaily.com/emeditor-tutorial-simultaneously-editing-files-across-multiple-windows/"><u>EmEditor Tutorial: Simultaneously Editing Files Across Multiple Windows</u></a></li>
+<li><a href="https://win-tips.techidaily.com/emeditor-v700-rc6-reviewed-no-highlight-for-paired-brackets-in-quoted-sections-text-editor/"><u>EmEditor v7.00 RC6 Reviewed: No Highlight for Paired Brackets in Quoted Sections (Text Editor)</u></a></li>
+<li><a href="https://win-tips.techidaily.com/gratuita-conversao-de-videos-mov-online-com-moovavi-facil-e-sem-custo/"><u>Gratuita Conversão De Vídeos MOV Online Com Moovavi - Fácil E Sem Custo</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-a-step-by-step-guide-on-using-adb-and-fastboot-to-remove-frp-lock-on-your-oppo-reno-11f-5g-by-drfone-android/"><u>In 2024, A Step-by-Step Guide on Using ADB and Fastboot to Remove FRP Lock on your Oppo Reno 11F 5G</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/in-2024-pitch-preservation-recording-sounds-and-voices/"><u>In 2024, Pitch Preservation Recording Sounds & Voices</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-the-animators-dream-tools-premium-choices-for-3d-mastery/"><u>In 2024, The Animator’s Dream Tools Premium Choices for 3D Mastery</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/open-doors-new-perspectives-the-value-of-multilingualism/"><u>Open Doors, New Perspectives: The Value of Multilingualism</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/printer-driver-missing-from-pc-os/"><u>Printer Driver Missing From PC OS</u></a></li>
+<li><a href="https://win-tips.techidaily.com/resolve-emeditor-errors-during-text-wrapping-feature-use-for-smooth-editing-experience/"><u>Resolve EmEditor Errors During Text Wrapping Feature Use for Smooth Editing Experience</u></a></li>
+<li><a href="https://win-tips.techidaily.com/resolving-constant-crashes-fixing-persistent-freezing-issues-with-emeditor-v903-on-parallels/"><u>Resolving Constant Crashes: Fixing Persistent Freezing Issues with EmEditor v9.03 on Parallels</u></a></li>
+<li><a href="https://win-tips.techidaily.com/test-your-browsers-with-emeditor-a-comprehensive-text-editor-for-macros/"><u>Test Your Browsers with EmEditor: A Comprehensive Text Editor for Macros</u></a></li>
+<li><a href="https://some-skills.techidaily.com/top-10-fastest-flip-screen-games-on-desktops-and-phones-for-2024/"><u>Top 10 Fastest Flip-Screen Games on Desktops & Phones for 2024</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/troubleshooting-guide-to-downloading-and-installing-printer-drivers-brother-l2absolutely-here-are-five-new-seo-friendly-titles-similar-to-brother-mfc-l2700d284/"><u>Troubleshooting Guide To Downloading And Installing Printer Drivers - Brother L2absolutely! Here Are Five New SEO-Friendly Titles Similar to Brother MFC-L2700DW Driver Download & Install for Windows</u></a></li>
+<li><a href="https://win-tips.techidaily.com/web-ts-wav/"><u>Web으로 TS 음성 파일을 WAV로 자리바꾸기: 무료 해제</u></a></li>
+<li><a href="https://win-tips.techidaily.com/why-choose-emeditor-unveiling-the-shift-from-traditional-editors-to-enhanced-security-measures/"><u>Why Choose EmEditor? Unveiling the Shift From Traditional Editors to Enhanced Security Measures</u></a></li>
 </ul></div>
 

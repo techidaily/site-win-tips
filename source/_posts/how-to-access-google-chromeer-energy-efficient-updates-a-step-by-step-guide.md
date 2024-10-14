@@ -1,7 +1,7 @@
 ---
 title: How to Access Google Chrome'er Energy Efficient Updates - A Step by Step Guide
-date: 2024-10-02T16:25:50.810Z
-updated: 2024-10-08T16:11:42.682Z
+date: 2024-10-11T05:02:28.112Z
+updated: 2024-10-14T00:52:56.265Z
 tags:
   - windows
 categories:
@@ -27,24 +27,31 @@ The process for setting up God Mode is the same in Windows 10 and 11, but here, 
 
 ## How to set up God Mode in Windows 11 
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135364/19272" target="_top" id="2135364">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135364" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135364/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 1\. Check your account
 
 First, make sure you're signed into your Windows 11 PC with an account that has administrative privileges. By default, your own account should have the necessary rights. To confirm this, go to Settings, select the category for Accounts, and then check the setting for "Your Info" to make sure your account is designated as Administrator.
 
 Screenshot by Lance Whitney/ZDNET
 
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1484909/16446" target="_top" id="1484909">
+  <img src="//a.impactradius-go.com/display-ad/16446-1484909" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484909/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 2\. Create a new folder
 
 Next, right-click on any empty area of the Desktop. In the popup menu, move to New and select the command for Folder**.**
 
 Screenshot by Lance Whitney/ZDNET
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136613/26400" target="_top" id="2136613">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136613" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136613/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 3\. Rename the new folder
 
@@ -67,13 +74,6 @@ Alternatively, you can search for a specific command or applet in the God Mode w
 
 Screenshot by Lance Whitney/ZDNET
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123735/7443" target="_top" id="2123735">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123735" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123735/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 6\. Double-click the command to launch it
 
 When you see the setting or command you want, simply double-click it to launch it.
@@ -91,13 +91,6 @@ When done, click Next.
 
 Screenshot by Lance Whitney/ZDNET
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094429/7443" target="_top" id="2094429">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094429" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094429/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 8\. Name the shortcut
 
 At the next screen, you can now enter any name you wish for the shortcut. Click Finish.
@@ -105,10 +98,10 @@ At the next screen, you can now enter any name you wish for the shortcut. Click 
 Screenshot by Lance Whitney/ZDNET
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2129739/7443" target="_top" id="2129739">
-  <img src="//a.impactradius-go.com/display-ad/7443-2129739" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1925565/19272" target="_top" id="1925565">
+  <img src="//a.impactradius-go.com/display-ad/19272-1925565" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129739/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925565/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 9\. Change the icon
@@ -116,6 +109,13 @@ Screenshot by Lance Whitney/ZDNET
 To change the icon from the generic folder image, right-click on it and select Properties. Click the "Change icon" button and you can select a different icon from the explorer.exe file. You can also search for other executable files with built-in icons and choose the one you like. When done, click OK in the Properties window.
 
 Screenshot by Lance Whitney/ZDNET
+
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/857869/11832" target="_top" id="857869">
+  <img src="//a.impactradius-go.com/display-ad/11832-857869" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/857869/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 10\. Launch your new icon
 
@@ -156,19 +156,21 @@ Screenshot by Lance Whitney/ZDNET
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-recording.techidaily.com/new-bold-transitions-a-beginners-guide-to-fades/"><u>[New] Bold Transitions A Beginner's Guide to Fades</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/updated-2024-approved-firefoxs-finest-leading-video-downloads-and-addons-for-facebook/"><u>[Updated] 2024 Approved Firefox's Finest Leading Video Downloads & Addons for Facebook</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/updated-decoding-youtubes-algorithm-behind-prominent-comments-for-2024/"><u>[Updated] Decoding YouTube's Algorithm Behind Prominent Comments for 2024</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/2024-approved-the-compact-guide-to-joining-and-scheduling-zoom-on-your-android-phone/"><u>2024 Approved The Compact Guide to Joining & Scheduling Zoom on Your Android Phone</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/2024-approved-transform-avi-files-into-gifs-with-filmora-on-windowsmacos/"><u>2024 Approved Transform AVI Files Into GIFs with Filmora on Windows/MacOS</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-in-2024-instagram-lost-and-found-follower-hunt/"><u>[Updated] In 2024, Instagram Lost and Found Follower Hunt</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/approved-how-to-make-a-cool-intro-for-youtube-plusfree-templates/"><u>2024 Approved How to Make a Cool Intro for YouTube? [+Free Templates]</u></a></li>
+<li><a href="https://article-helps.techidaily.com/2024-approved-making-classroom-content-video-editing-insights/"><u>2024 Approved Making Classroom Content Video Editing Insights</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/2024-approved-the-mathematics-behind-making-money-from-snippets/"><u>2024 Approved The Mathematics Behind Making Money From Snippets</u></a></li>
 <li><a href="https://win-tips.techidaily.com/affordable-access-obtain-your-microsoft-project-and-visio-professional-licenses-today-just-20-on-zdnet/"><u>Affordable Access: Obtain Your Microsoft Project & Visio Professional Licenses Today - Just $20 on ZDNet!</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/apple-iphone-13-pro-max-backup-password-never-set-but-still-asking-heres-the-fix-drfone-by-drfone-ios/"><u>Apple iPhone 13 Pro Max Backup Password Never Set But Still Asking? Heres the Fix | Dr.fone</u></a></li>
-<li><a href="https://win-tips.techidaily.com/honoring-history-in-silicon-valley-a-look-at-major-tech-firms-plans-for-juneteenth-observance/"><u>Honoring History in Silicon Valley: A Look at Major Tech Firms' Plans for Juneteenth Observance</u></a></li>
-<li><a href="https://win-tips.techidaily.com/how-recent-improvements-elevate-your-experience-with-ai-compositions-in-github-copilat-innovativetechnews/"><u>How Recent Improvements Elevate Your Experience with AI Compositions in GitHub Copilat | InnovativeTechNews</u></a></li>
-<li><a href="https://ios-pokemon-go.techidaily.com/in-2024-11-best-pokemon-go-spoofers-for-gps-spoofing-on-apple-iphone-11-drfone-by-drfone-virtual-ios/"><u>In 2024, 11 Best Pokemon Go Spoofers for GPS Spoofing on Apple iPhone 11 | Dr.fone</u></a></li>
-<li><a href="https://win-tips.techidaily.com/mastering-color-selection-using-powertoys-color-picker-tool-insights-from-zdnet/"><u>Mastering Color Selection: Using PowerToys' Color Picker Tool - Insights From ZDNet</u></a></li>
-<li><a href="https://win-tips.techidaily.com/microsoft-debuts-budget-friendly-surface-laptop-se-at-250-to-revolutionize-learning-with-windows-amoled-se-insights-from-zdnet/"><u>Microsoft Debuts Budget-Friendly Surface Laptop SE at $250 to Revolutionize Learning with Windows Amoled SE | Insights From ZDNET</u></a></li>
-<li><a href="https://win-tips.techidaily.com/securing-top-tier-coding-talent-on-a-budget-with-microsofts-innovative-solutions/"><u>Securing Top-Tier Coding Talent on a Budget with Microsoft's Innovative Solutions</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/yakuza-3-reimagined-fixed-pc-version-now-running-smoothly/"><u>Yakuza 3 Reimagined: Fixed PC Version Now Running Smoothly</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/boosting-connectivity-in-depth-review-of-the-netgear-ac120er-ex6200-wireless-range-extender/"><u>Boosting Connectivity: In-Depth Review of the Netgear AC120er (EX6200) Wireless Range Extender</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/download-and-install-logitech-k35n-keyboard-drivers-step-by-step-guide-to-get-your-keys-functioning-perfectly/"><u>Download & Install Logitech K35n Keyboard Drivers: Step-by-Step Guide to Get Your Keys Functioning Perfectly</u></a></li>
+<li><a href="https://win-cloud.techidaily.com/enhancing-cybersecurity-with-multi-layered-passwords-learn-to-activate-dual-authentication-features-and-fortify-your-digital-safety-zdnet/"><u>Enhancing Cybersecurity with Multi-Layered Passwords: Learn to Activate Dual-Authentication Features and Fortify Your Digital Safety | ZDNet</u></a></li>
+<li><a href="https://win-tips.techidaily.com/get-your-hands-on-high-quality-ms-project-and-visio-pro-licenses-for-a-steal-only-20-through-this-limited-time-deal-zdnet-shop/"><u>Get Your Hands On High-Quality MS Project and Visio Pro Licenses for a Steal – Only $20 Through This Limited Time Deal | ZDNET Shop</u></a></li>
+<li><a href="https://win-tips.techidaily.com/highly-recommended-robust-windows-tablet-featuring-precision-stylus-in-depth-analysis-on-zdnet/"><u>Highly Recommended Robust Windows Tablet Featuring Precision Stylus - In Depth Analysis on ZDNet</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-change-lava-agni-2-5g-lock-screen-password-by-drfone-android/"><u>In 2024, How To Change Lava Agni 2 5G Lock Screen Password?</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-sites-where-virtual-worlds-come-alive/"><u>In 2024, Sites Where Virtual Worlds Come Alive</u></a></li>
+<li><a href="https://win-tips.techidaily.com/microsoft-surface-ai-powered-computing-dominance-threatens-apples-traditional-approach-an-insightful-analysis-by-zdnet/"><u>Microsoft Surface: AI-Powered Computing Dominance Threatens Apple's Traditional Approach - An Insightful Analysis by ZDNet</u></a></li>
+<li><a href="https://win-tips.techidaily.com/navigating-azures-ongoing-resource-constraints-strategies-for-businesses/"><u>Navigating Azure's Ongoing Resource Constraints - Strategies for Businesses</u></a></li>
+<li><a href="https://win-tips.techidaily.com/overcoming-azure-capacity-constraints-strategies-for-businesses-insights-and-solutions/"><u>Overcoming Azure Capacity Constraints: Strategies for Businesses - Insights and Solutions</u></a></li>
+<li><a href="https://win-tips.techidaily.com/the-ultimate-decision-makers-checklist-choosing-your-windows-11-user-account-type-wisely-insights-by-zdnet/"><u>The Ultimate Decision-Maker's Checklist: Choosing Your Windows 11 User Account Type Wisely | Insights by ZDNET</u></a></li>
 </ul></div>
 

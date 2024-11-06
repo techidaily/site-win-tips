@@ -1,7 +1,7 @@
 ---
 title: "IFinD Data Salvage: A Comprehensive Tutorial on Retrieving Your Camera's Raw Images"
-date: 2024-10-25T17:51:46.429Z
-updated: 2024-10-31T16:24:56.364Z
+date: 2024-10-31T18:35:40.227Z
+updated: 2024-11-06T18:43:30.050Z
 tags:
   - product
 categories:
@@ -31,22 +31,21 @@ With the proliferation of digital cameras, especially professional ones, the Raw
 [3: Step to Recover RAW Files](https://www.ifind-recovery.com/how-to/how-to-recover-the-cameras-raw-image-files/#part3)
 
 <!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2005196/22899" target="_top" id="2005196">
-  <img src="//a.impactradius-go.com/display-ad/22899-2005196" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2005196/22899" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1328683">
+					<video width="200" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1328683.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/15852-1328683">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1328683.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1328683%2F15852'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1328683/15852" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Part 1: The concept and classification of hard drive:
 
 ![](https://i0.wp.com/www.ifind-recovery.com/wp-content/uploads/2018/11/raw.jpg?resize=300%2C213&ssl=1 "raw")
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2130532/26400" target="_top" id="2130532">
-  <img src="//a.impactradius-go.com/display-ad/26400-2130532" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130532/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### RAW Photo’s Advantages
 
@@ -65,6 +64,19 @@ Perhaps the biggest advantage of raw is that it can be converted into a 16-bit i
 2：Reading and editing require the special software.
 
 3：Because of its huge size, the camera’s continuous shooting speed, photo saving speed, and preview speed are slower than JPG.
+
+<!-- affiliate ads begin -->
+<span id="1424529">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1424529.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1424529">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424529.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424529%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424529/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Part 2：RAW Filename Extensions and Respective Camera Manufacturers
 
@@ -116,19 +128,6 @@ Perhaps the biggest advantage of raw is that it can be converted into a 16-bit i
 
 .x3f（[Sigma](https://en.wikipedia.org/wiki/Sigma%5FCorporation)）
 
-<!-- affiliate ads begin -->
-<span id="1982485">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982485.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982485">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982485.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982485%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982485/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Part 3：Step to Recover RAW Files
 
 1: Download the [iFinD data recovery software](https://www.ifind-recovery.com) and installed.
@@ -137,6 +136,13 @@ Perhaps the biggest advantage of raw is that it can be converted into a 16-bit i
 
 ![](https://i0.wp.com/www.ifind-recovery.com/wp-content/uploads/2018/11/Lost-File-Recovery.png?resize=640%2C486&ssl=1 "Lost File Recovery")
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1884017/19272" target="_top" id="1884017">
+  <img src="//a.impactradius-go.com/display-ad/19272-1884017" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1884017/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 3: Select the partition which you want to recover the RAW Photos.
 
 ![](https://i0.wp.com/www.ifind-recovery.com/wp-content/uploads/2018/11/select-partition.png?resize=640%2C486&ssl=1 "select partition")
@@ -144,13 +150,6 @@ Perhaps the biggest advantage of raw is that it can be converted into a 16-bit i
 4: Scanning.
 
 ![](https://i0.wp.com/www.ifind-recovery.com/wp-content/uploads/2018/11/scanning.png?resize=640%2C486&ssl=1 "scanning")
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068439/7443" target="_top" id="2068439">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068439" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068439/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 5: End the scan. you can find the RAW Photos which you want to recover. Please click the “Recover” button.
 
@@ -162,15 +161,22 @@ Through the above article, we know what is raw photo and how to restore the lost
 
 ![](https://i0.wp.com/www.ifind-recovery.com/wp-content/uploads/2024/03/R-C.png?resize=100%2C100&ssl=1)
 
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139120/17108" target="_top" id="2139120">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139120" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139120/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 [andy woo](https://www.ifind-recovery.com/author/andywoo/)
 
 Andy is an editor of the iFinD Team. She worked in this big family since her graduation. Her articles mainly focus on data backup and recovery, disk cloning, and file syncing, committed to resolving the data loss issues users may encounter on their PCs. Besides, more related computer articles are shared here.
 
 <!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/2139558/4704" target="_top" id="2139558">
-  <img src="//a.impactradius-go.com/display-ad/4704-2139558" border="0" alt="https://techidaily.com" width="160" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2036481/19272" target="_top" id="2036481">
+  <img src="//a.impactradius-go.com/display-ad/19272-2036481" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://united.elfm.net/i/5597632/2139558/4704" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036481/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Show Us some Love:
@@ -224,21 +230,22 @@ By [andy woo](https://www.ifind-recovery.com/author/andywoo/ "Posts by andy woo"
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-helps.techidaily.com/updated-capturing-panoramic-views-fisheye-techniques/"><u>[Updated] Capturing Panoramic Views Fisheye Techniques</u></a></li>
-<li><a href="https://article-tips.techidaily.com/2024-approved-mastery-in-music-selection-enhancing-video-packages/"><u>2024 Approved Mastery in Music Selection Enhancing Video Packages</u></a></li>
-<li><a href="https://fake-location.techidaily.com/can-life360-track-you-when-your-vivo-y200-is-off-drfone-by-drfone-virtual-android/"><u>Can Life360 Track You When Your Vivo Y200 is off? | Dr.fone</u></a></li>
-<li><a href="https://win-tips.techidaily.com/complete-how-to-on-transferring-your-windows-10-system-to-a-new-ssd-via-gparted-plus-alternative-methods/"><u>Complete How-To on Transferring Your Windows 10 System to a New SSD via GParted, Plus Alternative Methods</u></a></li>
-<li><a href="https://win-tips.techidaily.com/effortless-free-methods-complete-guide-to-backing-up-your-d-drive-on-windows-7-and-10/"><u>Effortless Free Methods: Complete Guide to Backing Up Your 'D' Drive on Windows 7 & 10</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/guide-disengaging-amber-and-crisis-warnings-on-ios-devices/"><u>Guide: Disengaging Amber and Crisis Warnings on iOS Devices</u></a></li>
-<li><a href="https://techidaily.com/how-do-i-reset-my-google-pixel-7a-phone-without-technical-knowledge-drfone-by-drfone-reset-android-reset-android/"><u>How do I reset my Google Pixel 7a Phone without technical knowledge? | Dr.fone</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/in-2024-revolutionize-playtime-unveiling-win11s-latest-titles/"><u>In 2024, Revolutionize Playtime Unveiling Win11's Latest Titles</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/in-2024-seamless-blending-android-tips-for-multi-video-editing/"><u>In 2024, Seamless Blending Android Tips for Multi-Video Editing</u></a></li>
-<li><a href="https://win-tips.techidaily.com/is-it-time-to-update-compare-windows-7-vs-10-vs-11-for-optimal-performance/"><u>Is It Time to Update? Compare Windows 7 Vs. 10 Vs. 11 for Optimal Performance.</u></a></li>
-<li><a href="https://win-tips.techidaily.com/oem-partitionsssd-windows-7-8-10dell-hp-lenovo/"><u>OEM Partitionsの簡単なSSDへの複製: Windows 7, 8, 10用Dell, HP, Lenovoマシン</u></a></li>
-<li><a href="https://win-tips.techidaily.com/step-by-step-guide-to-resolve-malwarebytes-cannot-connect-to-services-issue/"><u>Step-by-Step Guide to Resolve 'Malwarebytes Cannot Connect to Services' Issue</u></a></li>
-<li><a href="https://win-dash.techidaily.com/updating-and-fixing-mouse-driver-issues-on-windows-7-with-easy-download-steps/"><u>Updating and Fixing Mouse Driver Issues on Windows 7 with Easy Download Steps</u></a></li>
-<li><a href="https://location-social.techidaily.com/why-your-whatsapp-location-is-not-updating-and-how-to-fix-on-realme-c67-5g-drfone-by-drfone-virtual-android/"><u>Why Your WhatsApp Location is Not Updating and How to Fix On Realme C67 5G | Dr.fone</u></a></li>
-<li><a href="https://win-tips.techidaily.com/wie-man-hoe-gegevens-reinstalliert-und-beschadigte-partitionen-in-windows-11-behebt/"><u>Wie Man Hoe-Gegevens Reinstalliert Und Beschädigte Partitionen in Windows 11 Behebt</u></a></li>
-<li><a href="https://win-tips.techidaily.com/1728484547764-windows-10-pc/"><u>Windows 10 ライセンス転送ガイド: PC間でのシームレスな切り替え</u></a></li>
+<li><a href="https://fox-http.techidaily.com/new-unleash-potential-on-reddit-essential-post-guidelines-reviewed-for-2024/"><u>[New] Unleash Potential on Reddit Essential Post Guidelines Reviewed for 2024</u></a></li>
+<li><a href="https://win-tips.techidaily.com/1-ultimate-guide-retrieving-lost-documents-from-your-usb-with-ifind-data-rescue/"><u>1. Ultimate Guide: Retrieving Lost Documents From Your USB with iFind Data Rescue</u></a></li>
+<li><a href="https://win-tips.techidaily.com/1728506840667-hdd/"><u>遭難したHDDからのデータ復旧方法 - 最新手法とヒント</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/ai-chatbots-showdown-choosing-between-gpt-3-plus-and-perplexity/"><u>AI Chatbots Showdown: Choosing Between GPT-3 Plus and Perplexity</u></a></li>
+<li><a href="https://apple-account.techidaily.com/apple-id-unlock-on-apple-iphone-11-pro-max-how-to-fix-it-by-drfone-ios/"><u>Apple ID Unlock On Apple iPhone 11 Pro Max? How to Fix it?</u></a></li>
+<li><a href="https://win-tips.techidaily.com/comment-copier-efficiemment-un-grand-disque-dur-gpt-vers-une-smsmall-ssd-sans-perte-de-donnees/"><u>Comment Copier Efficiemment Un Grand Disque Dur GPT Vers Une SmSmall SSD Sans Perte De Données</u></a></li>
+<li><a href="https://win-tips.techidaily.com/comment-recuperer-les-fichiers-elimines-mais-non-mouves-vers-la-corbeille-dans-windows-10/"><u>Comment Récupérer Les Fichiers Éliminés Mais Non Mouvés Vers La Corbeille Dans Windows 10 ?</u></a></li>
+<li><a href="https://win-tips.techidaily.com/comprehensive-strategies-for-netgear-nas-data-retrieval-expert-insights-and-techniques/"><u>Comprehensive Strategies for Netgear NAS Data Retrieval: Expert Insights and Techniques</u></a></li>
+<li><a href="https://win-tips.techidaily.com/datenschutz-beim-systemformatieren-von-windows-11-schritt-fur-schritt-anleitung-zum-zurucksetzen-ohne-datenverluste/"><u>Datenschutz Beim Systemformatieren Von Windows 11 – Schritt-Für-Schritt-Anleitung Zum Zurücksetzen Ohne Datenverluste</u></a></li>
+<li><a href="https://article-posts.techidaily.com/resonance-and-rhythm-guide-to-downloading-vintage-ringtones-for-2024/"><u>Resonance and Rhythm Guide to Downloading Vintage Ringtones for 2024</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/egies-for-deleting-watch-later-items-on-youtube/"><u>Strategies for Deleting Watch Later Items on YouTube</u></a></li>
+<li><a href="https://extra-information.techidaily.com/top-secret-free-apps-best-macos-text-transcribers/"><u>Top Secret Free Apps Best macOS Text Transcribers</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/understanding-chatgpt-enterprise-capabilities-and-unique-selling-points-explained/"><u>Understanding ChatGPT Enterprise - Capabilities and Unique Selling Points Explained</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/updated-pinpointing-the-top-8-ai-driven-voice-processors-for-windows-mac-and-online-services-for-2024/"><u>Updated Pinpointing the Top 8 AI-Driven Voice Processors for Windows, Mac, and Online Services for 2024</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/what-you-need-to-know-before-buying-a-sim-free-cell-phone/"><u>What You Need to Know Before Buying a SIM-Free Cell Phone</u></a></li>
+<li><a href="https://win-tips.techidaily.com/windows-11-dism-2/"><u>Windows 11 離線恢復技術：DISM 解決方案處理程序的 2 種不同方法</u></a></li>
+<li><a href="https://win-tips.techidaily.com/hatae-gae-iphone-data-sacaya-ka-bkaapa-ka-bna-aasana-sa-malyakana-kara/"><u>हटाए गए iPhone डेटा संचय को बैकअप के बिना आसानी से मूल्यांकन करें</u></a></li>
 </ul></div>
 

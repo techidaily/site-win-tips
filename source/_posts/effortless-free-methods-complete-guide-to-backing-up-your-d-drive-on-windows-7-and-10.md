@@ -1,7 +1,7 @@
 ---
 title: "Effortless Free Methods: Complete Guide to Backing Up Your 'D' Drive on Windows 7 & 10"
-date: 2024-10-29T19:59:27.068Z
-updated: 2024-10-31T21:26:38.147Z
+date: 2024-10-31T18:38:05.051Z
+updated: 2024-11-06T16:03:30.036Z
 categories:
   - AOMEI-Backuper
 thumbnail: https://thmb.techidaily.com/abf0a7346439822b348738b1d89007d2223b683ac1cb39ad32a7ef22c65ece88.jpg
@@ -43,10 +43,10 @@ Share this: ![facebook](https://www.ubackup.com/resource/images/ab-theme/ub-arti
 5. [Conclusion](https://tools.techidaily.com/ubackup/products/)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136625/26400" target="_top" id="2136625">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136625" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134230/18498" target="_top" id="2134230">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134230" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136625/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134230/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## User case: Windows 11 winload.efi missing, F8 button not working
@@ -73,6 +73,13 @@ Causes of "winload.efi missing or contains error after clone" issues:
 **4\. Cloning Without Modifications**: Cloning a Windows installation without making necessary modifications can lead to boot problems, such as the winload.efi missing or containing error after clone.  
 **5\. Motherboard Replacement**: Replacing or modifying a computer's motherboard may cause problems with devices and drivers, potentially triggering the "winload.efi" problem if not addressed.
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137202/26400" target="_top" id="2137202">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137202" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137202/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How to Fix winload.efi missing
 
 The "winload.efi missing" error happens when the OS can't find or access the winload.efi file. To fix this issue, 5 solutions are provided. You can directly navigate to the specific method you need or go through each solution sequentially.
@@ -94,10 +101,10 @@ Step 1\. Download this software and open it. Click **Tools** and then choose **C
 [![Create Bootable Meida](https://www.ubackup.com/windows-11/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/en/adv/tools/create-bootable-media/create-bootable-meida.png)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082542/7443" target="_top" id="2082542">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082542" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137227/26400" target="_top" id="2137227">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137227" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082542/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137227/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Step 2\. Select a type of bootable media you want to create and click **Next** to continue. For better performance, the **Windows PE bootable disc** is recommended.
@@ -111,13 +118,6 @@ Step 3\. Select the CD, DVD, USB drive or ISO file as bootable media. Then click
 After creating bootable media (just a few minutes), boot your computer from this media, then AOMEI Backupper will run automatically, then go to **Tools** \-> **Windows Shell Command**. And you can restore system image or disk image created by AOMEI Backupper. 
 
 [![Windows Shell Command](https://www.ubackup.com/windows-11/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/en/adv/tools/windows-shell-command.png)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1972698/19272" target="_top" id="1972698">
-  <img src="//a.impactradius-go.com/display-ad/19272-1972698" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972698/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Option 2\. Disable Secure Boot
 
@@ -134,15 +134,22 @@ Step 3\. In the **Secure Boot** interface, change it from **Enabled** to **Disab
 [![Disable Secure Boot](https://www.ubackup.com/windows-11/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/articles/images/winload-efi-missing-after-clone-5740/secure-boot.jpg "Disable Secure Boot")
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1884021/19272" target="_top" id="1884021">
-  <img src="//a.impactradius-go.com/display-ad/19272-1884021" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://bluetties.sjv.io/c/5597632/2141688/17094" target="_top" id="2141688">
+  <img src="//a.impactradius-go.com/display-ad/17094-2141688" border="0" alt="https://techidaily.com" width="120" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1884021/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluetties.sjv.io/i/5597632/2141688/17094" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Step 4\. Save the changes and exit the UEFI settings.
 
 Step 5\. Restart the system and check if it boots normally. If the issue persists, proceed to the next method.
+
+<!-- affiliate ads begin -->
+<a href="https://bluettieu.pxf.io/c/5597632/2141676/17091" target="_top" id="2141676">
+  <img src="//a.impactradius-go.com/display-ad/17091-2141676" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettieu.pxf.io/i/5597632/2141676/17091" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Option 3\. Run CHKDSK to Check for Drive Errors
 
@@ -163,13 +170,6 @@ Step 4\. Type or paste the following command and press **Enter**:
 Step 5\. Once the process is complete, unplug the USB and restart the computer.
 
 Check if the system boots normally after performing these steps.
-
-<!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/857869/11832" target="_top" id="857869">
-  <img src="//a.impactradius-go.com/display-ad/11832-857869" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/857869/11832" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Option 4\. Run SFC to Check System File Integrity
 
@@ -194,6 +194,13 @@ If the "sfc /scannow" command fails to repair the Winload.efi missing file, proc
 [![SFC Scannow](https://www.ubackup.com/windows-11/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/en/others/winload-efi-after-clone/sfc-scannow.png "SFC Scannow")
 
 Exercise caution to avoid potential system errors when using this command.
+
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/999558/11832" target="_top" id="999558">
+  <img src="//a.impactradius-go.com/display-ad/11832-999558" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/999558/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Option 5\. Repair EFI Boot Loader
 
@@ -230,10 +237,10 @@ Step 4\. Assign the partition a drive letter. Enter each of the following comman
 Step 5\. Restart your computer after successfully repairing the EFI loader.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2012434/19272" target="_top" id="2012434">
-  <img src="//a.impactradius-go.com/display-ad/19272-2012434" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://bluettius.sjv.io/c/5597632/2139122/17108" target="_top" id="2139122">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139122" border="0" alt="https://techidaily.com" width="468" height="60"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012434/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139122/17108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Suggestion: backup your crucial loading files in advance
@@ -253,6 +260,19 @@ You just need to download this software and install it. Open it and navigate to 
 ![](https://www.ubackup.com/resource/images/ab-theme/ub-article-ab-ic-secure-20.svg) 100% Secure
 
 [![System Backup](https://www.ubackup.com/windows-11/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/en/std/backup/system-backup/system-backup.png)
+
+<!-- affiliate ads begin -->
+<span id="1982459">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982459.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982459">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982459.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982459%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982459/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Conclusion
 
@@ -290,13 +310,6 @@ Was the provided information useful? Your vote is important to us!
 
 [Yes](https://tools.techidaily.com/ubackup/products/)[No](https://tools.techidaily.com/ubackup/products/)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049390/7443" target="_top" id="2049390">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049390" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049390/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Free Get AOMEI Backupper Now
 
 Safeguard any data of your computer with backup, sync and clone.
@@ -304,13 +317,6 @@ Safeguard any data of your computer with backup, sync and clone.
 [**Download Freeware**  Windows 11/10/8.1/8/7](https://tools.techidaily.com/ubackup/products/) 
 
 ![](https://www.ubackup.com/resource/images/ab-theme/ub-article-ab-ic-secure-16.svg) 100% Clean & Secure
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1915825/19272" target="_top" id="1915825">
-  <img src="//a.impactradius-go.com/display-ad/19272-1915825" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915825/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ![](https://www.ubackup.com/resource/images/ab-theme/ub-article-ab-medium-img-pc@2x.png)
 
@@ -329,24 +335,24 @@ Safeguard any data of your computer with backup, sync and clone.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-friendly.techidaily.com/new-can-photoshops-image-smoothing-revolutionize-editing-in-2024/"><u>[New] Can Photoshop’s Image Smoothing Revolutionize Editing, In 2024</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/new-in-2024-stealth-video-tactics-for-soundless-capture/"><u>[New] In 2024, Stealth Video Tactics for Soundless Capture</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/updated-2024-approved-advanced-slidecasting-powerpoint-and-webcam-perfection/"><u>[Updated] 2024 Approved Advanced Slidecasting PowerPoint & Webcam Perfection</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/updated-binge-your-way-into-animated-gifs-turning-youtube-content-without-downloads-for-2024/"><u>[Updated] Binge Your Way Into Animated Gifs Turning YouTube Content Without Downloads for 2024</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/ed-mastering-idevice-screen-recording-techniques-for-youtube-for-2024/"><u>[Updated] Mastering iDevice Screen Recording Techniques for YouTube for 2024</u></a></li>
-<li><a href="https://win-tips.techidaily.com/comprehensive-guide-retrieving-lost-documents-from-a-windows-system/"><u>Comprehensive Guide: Retrieving Lost Documents From a Windows System</u></a></li>
-<li><a href="https://win-tips.techidaily.com/comprehensive-strategies-for-blocking-malware-foxs-redirection-of-your-search-and-e-commerce-advertisements/"><u>Comprehensive Strategies for Blocking Malware Fox's Redirection of Your Search and E-Commerce Advertisements</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/ensure-your-printer-works-latest-canoscan-lide-220-driver-downloads-and-updates/"><u>Ensure Your Printer Works: Latest CanoScan LiDE 220 Driver Downloads and Updates</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/everything-you-need-to-know-about-lock-screen-settings-on-your-motorola-moto-g-stylus-5g-2023-by-drfone-android/"><u>Everything You Need to Know about Lock Screen Settings on your Motorola Moto G Stylus 5G (2023)</u></a></li>
-<li><a href="https://win-tips.techidaily.com/guide-pratique-comment-retrouver-vos-photographies-sur-un-appareil-photo-minolta/"><u>Guide Pratique : Comment Retrouver Vos Photographies Sur Un Appareil Photo Minolta</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-repair-iphone-11-pro-ios-system-issues-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Repair iPhone 11 Pro iOS System Issues? | Dr.fone</u></a></li>
-<li><a href="https://win-tips.techidaily.com/ifind-data-salvage-a-comprehensive-tutorial-on-retrieving-your-cameras-raw-images/"><u>IFinD Data Salvage: A Comprehensive Tutorial on Retrieving Your Camera's Raw Images</u></a></li>
-<li><a href="https://win-tips.techidaily.com/notice-access-denied-the-requested-content-cannot-be-located/"><u>Notice: Access Denied – The Requested Content Cannot Be Located</u></a></li>
-<li><a href="https://win-tips.techidaily.com/reviving-your-iphone-1314-deleted-audio-messages-easy-steps-to-recovery/"><u>Reviving Your iPhone 13/14 Deleted Audio Messages: Easy Steps to Recovery</u></a></li>
-<li><a href="https://win-tips.techidaily.com/step-by-step-instructions-on-moving-your-operating-system-image-from-one-computer-to-another-applicable-for-windows-11-10-8-and-e7/"><u>Step-by-Step Instructions on Moving Your Operating System Image From One Computer to Another - Applicable for Windows 11, 10, 8 & E7</u></a></li>
-<li><a href="https://win-tips.techidaily.com/tecnicas-de-instalacao-do-windows-11-direto-em-um-ssd-recem-instalado-opcoes-com-e-sem-cd-pratico-tutorial/"><u>Técnicas De Instalação Do Windows 11 Direto Em Um SSD Recém-Instalado, Opções Com E Sem CD Prático Tutorial</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/troubleshooting-techniques-to-address-missing-opengl32dll-file-problems/"><u>Troubleshooting Techniques to Address Missing OpenGL32.dll File Problems</u></a></li>
-<li><a href="https://win-tips.techidaily.com/1728489081729-windows-server-2016/"><u>Windows Server 2016のセットアップメディア生成ガイド</u></a></li>
-<li><a href="https://win11.techidaily.com/winfreedomgpt-guide-launching-unrestricted-chatbots/"><u>WinFreedomGPT Guide: Launching Unrestricted ChatBots</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-in-2024-the-ultimate-screen-capture-showdown-free-vs-paid-cam-recorders/"><u>[New] In 2024, The Ultimate Screen Capture Showdown Free vs Paid Cam Recorders</u></a></li>
+<li><a href="https://article-posts.techidaily.com/new-step-by-step-guide-to-kinemasters-mastery-plus-10-superior-editing-counterparts-for-2024/"><u>[New] Step-by-Step Guide to KineMaster's Mastery + 10 Superior Editing Counterparts for 2024</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/2024-approved-high-engagement-stories-filters-list/"><u>2024 Approved High-Engagement Stories Filters List</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/3-effective-ways-to-bypass-activation-lock-on-apple-iphone-14-pro-max-by-drfone-ios/"><u>3 Effective Ways to Bypass Activation Lock on Apple iPhone 14 Pro Max</u></a></li>
+<li><a href="https://win-tips.techidaily.com/57ea5lik6lplusf6ycf6lo85b6x44cb5lplusu5ps544cb5ykz5lu96iih5ywl6zqg55qe6luf6auu6kej5rg65pa55qgi/"><u>線上迅速購得、修改、備份與克隆的軟體解決方案</u></a></li>
+<li><a href="https://win-tips.techidaily.com/como-hacer-copy-y-mover-archivos-de-red-a-onedrive-con-eficacia-en-sistemas-windows-7810/"><u>Cómo Hacer COPY Y Mover Archivos De Red a OneDrive Con Eficacia en Sistemas Windows 7/8/10</u></a></li>
+<li><a href="https://win-tips.techidaily.com/die-allererstbeste-option-fur-profis-aomei-backupper-als-superalternative-zu-norton-ghost/"><u>Die Allererstbeste Option Für Profis - AOMEI Backupper Als Superalternative Zu Norton Ghost</u></a></li>
+<li><a href="https://win-tips.techidaily.com/discover-the-best-file-migration-apps-transfer-your-data-effortlessly-between-computers/"><u>Discover the Best File Migration Apps: Transfer Your Data Effortlessly Between Computers</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/dispelling-illusions-yourself-not-an-impostor-on-fb/"><u>Dispelling Illusions Yourself, Not An Impostor on FB</u></a></li>
+<li><a href="https://win-tips.techidaily.com/explore-exceptional-free-image-solutions-ideal-substitutes-for-windows-terabyte-utilities/"><u>Explore Exceptional Free Image Solutions: Ideal Substitutes for Windows Terabyte Utilities</u></a></li>
+<li><a href="https://win-tips.techidaily.com/freigaben-fur-iphone-call-tones-herunterladen-und-einrichten-ohne-gebuhren/"><u>Freigaben Für iPhone Call Tones - Herunterladen Und Einrichten Ohne Gebühren</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-downloading-samfw-frp-tool-30-for-oneplus-ace-2v-by-drfone-android/"><u>In 2024, Downloading SamFw FRP Tool 3.0 for OnePlus Ace 2V</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/in-2024-guide-to-using-luts-perfectly-in-final-cut-pro/"><u>In 2024, Guide To Using Luts Perfectly in Final Cut Pro</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/24-unveiling-youtube-shorts-what-it-all-means/"><u>In 2024, Unveiling YouTube Shorts What It All Means</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/master-the-process-of-removing-likes-from-every-song-on-spotify/"><u>Master the Process of Removing Likes From Every Song on Spotify</u></a></li>
+<li><a href="https://facebook.techidaily.com/online-platforms-alleged-ban-on-authentic-marketing/"><u>Online Platform's Alleged Ban on Authentic Marketing</u></a></li>
+<li><a href="https://win-tips.techidaily.com/title-exploring-the-security-of-utorrent-is-it-reliable-and-virus-free-a-comprehensive-guide/"><u>Title: Exploring the Security of uTorrent: Is It Reliable and Virus-Free? A Comprehensive Guide</u></a></li>
+<li><a href="https://win-tips.techidaily.com/uberfuhrung-von-itunes-musik-auf-ihr-iphone-mit-diesen-einfachen-schritten/"><u>Überführung Von iTunes-Musik Auf Ihr iPhone Mit Diesen Einfachen Schritten</u></a></li>
+<li><a href="https://win-tips.techidaily.com/windows-8-81/"><u>Windows 8 / 8.1 操作系统数据备份 | 三种流行的存档技巧</u></a></li>
 </ul></div>
 

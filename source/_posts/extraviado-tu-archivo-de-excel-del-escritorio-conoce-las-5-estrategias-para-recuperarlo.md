@@ -1,7 +1,7 @@
 ---
 title: ¿Extraviado Tu Archivo De Excel Del Escritorio? Conoce Las 5 Estrategias Para Recuperarlo
-date: 2024-10-07T07:13:10.995Z
-updated: 2024-10-14T06:25:12.681Z
+date: 2024-11-14T01:08:09.914Z
+updated: 2024-11-16T16:27:47.299Z
 categories:
   - AOMEI-Backuper
 thumbnail: https://thmb.techidaily.com/94949839e44613400bd5d58f4fe6242909222f90165f20a133ed7c6cab443aea.png
@@ -56,13 +56,6 @@ Norton Ghost is one **disk imaging and cloning tool** that firstly developed in 
 
 In a word, if you want to make an image back for your computer or want to clone to the new hard drive, Norton Ghost is not a bad choice. However, now Norton Ghost is **no longer available for the Home user**. It was **discontinued by Symantec in 2013**. Indeed you can still download the latest version - Norton Ghost 15, but it only offers a 30-day free trial and then you need to pay for it.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1938682/19272" target="_top" id="1938682">
-  <img src="//a.impactradius-go.com/display-ad/19272-1938682" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938682/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## How to Use Norton Ghost 15 Step by Step
 
 Here in this guide, you will get the detailed steps about how to use Symantec Ghost in Windows 11/10/8/7\. You can simply search “**Norton Ghost 15 download**” via your browser to get the tool. As we have mentioned above, it only offers a 30-day free trial. If you prefer a free tool to help you backup, restore or clone your hard drive, you can refer to the [next part](https://tools.techidaily.com/ubackup/products/) to get the best free alternative to Norton Ghost.
@@ -75,6 +68,13 @@ Here in this guide, you will get the detailed steps about how to use Symantec Gh
 
 [![Create Backup](https://www.ubackup.com/articles/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/en/others/norton-ghost/create-backup.png)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2105867/7443" target="_top" id="2105867">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105867" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105867/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 3\. The **Easy Setup** screen will appear.
 
 * You can click **OK** to accept the default settings or click a setting to modify it.
@@ -82,14 +82,14 @@ Here in this guide, you will get the detailed steps about how to use Symantec Gh
 
 [![Click Custom](https://www.ubackup.com/articles/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/en/others/norton-ghost/click-custom.png)
 
-4\. Finally, click **OK** to confirm.
-
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043603/7443" target="_top" id="2043603">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043603" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://bluettide.pxf.io/c/5597632/2141684/17092" target="_top" id="2141684">
+  <img src="//a.impactradius-go.com/display-ad/17092-2141684" border="0" alt="https://techidaily.com" width="120" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043603/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluettide.pxf.io/i/5597632/2141684/17092" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+4\. Finally, click **OK** to confirm.
 
 ### Restore Image with Norton Ghost
 
@@ -104,10 +104,10 @@ Click **Recover My Files** if you want to recover files or folder, or **Recover 
 [![Recover My Files](https://www.ubackup.com/articles/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/en/others/norton-ghost/find-files-to-recover.png)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037338/7443" target="_top" id="2037338">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037338" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2027162/19272" target="_top" id="2027162">
+  <img src="//a.impactradius-go.com/display-ad/19272-2027162" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037338/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027162/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 3\. After the scanning, select the file you need and click **Recover Files...**
@@ -118,13 +118,20 @@ On **Recover My Computer** screen, find and choose the right system restore poin
 
 [![Recover My Computer](https://www.ubackup.com/articles/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/en/others/norton-ghost/recover-now.png)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135410/19272" target="_top" id="2135410">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135410" border="0" alt="https://techidaily.com" width="160" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135410/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 👉 **Note:** If your computer cannot run Windows normally, you can use the Symantec Recovery Disk CD to help you boot your computer. Depending on which version of the product you have purchased, Symantec Recovery Disk is either included on your product CD or as a separate CD. If you don't have a floppy drive, you can create a [Norton Ghost Bootable USB](https://tools.techidaily.com/ubackup/products/) instead.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118312/7443" target="_top" id="2118312">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118312" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2052063/7443" target="_top" id="2052063">
+  <img src="//a.impactradius-go.com/display-ad/7443-2052063" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118312/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2052063/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Clone Disk with Norton Ghost
@@ -156,13 +163,6 @@ Download it to have a try! If you are using a server system, such as, server 200
 
 Secure Download
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1938745/19272" target="_top" id="1938745">
-  <img src="//a.impactradius-go.com/display-ad/19272-1938745" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938745/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Create Image Backup
 
 Take disk backup as an example. Follow the step below to backup your computer disk.
@@ -178,16 +178,10 @@ Select the corresponding backup methods if you want to backup system, partition 
 [![Add Disk](https://www.ubackup.com/articles/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/en/std/backup/disk-backup/add-disk.png)
 
 <!-- affiliate ads begin -->
-<span id="1983584">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983584.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983584">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983584.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983584%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983584/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136621/26400" target="_top" id="2136621">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136621" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136621/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 3\. Choose a destination path to save the disk image. You can save the backup image on a local hard drive, external hard drive, USB flash drive, or network drive, etc. Click **Start Backup** when you are ready.
@@ -261,6 +255,13 @@ Was the provided information useful? Your vote is important to us!
 
 Lena is an editor of FoneTool, she covers backup & restore, and phone data management and so on. She enjoys helping people find solutions to their problems. She loves traveling, eating, reading and so on. She takes most of time with her family when she is not working.
 
+<!-- affiliate ads begin -->
+<a href="https://aidotcom.pxf.io/c/5597632/2134502/19576" target="_top" id="2134502">
+  <img src="//a.impactradius-go.com/display-ad/19576-2134502" border="0" alt="https://techidaily.com" width="672" height="90"/>
+</a>
+<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134502/19576" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Related Articles
 
 ##### [How to Create Image Backup with Ghost Disk Utility](https://tools.techidaily.com/ubackup/products/)
@@ -290,20 +291,13 @@ Safeguard any data of your computer with backup, sync and clone.
 ![](https://www.ubackup.com/resource/images/ab-theme/ub-article-ab-ic-secure-16.svg) 100% Clean & Secure
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087409/7443" target="_top" id="2087409">
-  <img src="//a.impactradius-go.com/display-ad/7443-2087409" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://dhgate.sjv.io/c/5597632/1186802/12108" target="_top" id="1186802">
+  <img src="//a.impactradius-go.com/display-ad/12108-1186802" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087409/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/1186802/12108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://www.ubackup.com/resource/images/ab-theme/ub-article-ab-medium-img-pc@2x.png)
-
-<!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/1001453/11832" target="_top" id="1001453">
-  <img src="//a.impactradius-go.com/display-ad/11832-1001453" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1001453/11832" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -320,22 +314,22 @@ Safeguard any data of your computer with backup, sync and clone.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-direct.techidaily.com/new-how-to-use-luts-in-adobe-photoshop-cc/"><u>[New] How to Use LUTs in Adobe PhotoShop CC</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/updated-document-gameplay-secrets-in-galaxy-androids/"><u>[Updated] Document Gameplay Secrets in Galaxy Androids</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/updated-in-2024-spectacular-shot-choices-top-7-4k-action-camera-selections/"><u>[Updated] In 2024, Spectacular Shot Choices Top 7 4K Action Camera Selections</u></a></li>
-<li><a href="https://win-tips.techidaily.com/affordable-access-obtain-your-microsoft-project-and-visio-professional-licenses-today-just-20-on-zdnet/"><u>Affordable Access: Obtain Your Microsoft Project & Visio Professional Licenses Today - Just $20 on ZDNet!</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/chronicles-of-communication-devices-unveiling-the-birthdate-of-the-pioneering-smartphone/"><u>Chronicles of Communication Devices: Unveiling the Birthdate of the Pioneering Smartphone</u></a></li>
-<li><a href="https://win-tips.techidaily.com/complimentary-ai-companion-for-us-educators-microsoft-plus-khan-academys-collaborative-initiative-insights-from-zdnet/"><u>Complimentary AI Companion for U.S. Educators: Microsoft + Khan Academy's Collaborative Initiative - Insights From ZDNet</u></a></li>
-<li><a href="https://win-tips.techidaily.com/get-your-hands-on-high-quality-ms-project-and-visio-pro-licenses-for-a-steal-only-20-through-this-limited-time-deal-zdnet-shop/"><u>Get Your Hands On High-Quality MS Project and Visio Pro Licenses for a Steal – Only $20 Through This Limited Time Deal | ZDNET Shop</u></a></li>
-<li><a href="https://win-tips.techidaily.com/honoring-history-in-silicon-valley-a-look-at-major-tech-firms-plans-for-juneteenth-observance/"><u>Honoring History in Silicon Valley: A Look at Major Tech Firms' Plans for Juneteenth Observance</u></a></li>
-<li><a href="https://win-tips.techidaily.com/how-recent-improvements-elevate-your-experience-with-ai-compositions-in-github-copilat-innovativetechnews/"><u>How Recent Improvements Elevate Your Experience with AI Compositions in GitHub Copilat | InnovativeTechNews</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/how-to-reset-a-locked-samsung-galaxy-a25-5g-phone-by-drfone-android/"><u>How to Reset a Locked Samsung Galaxy A25 5G Phone</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/in-2024-2023-trend-analysis-twitters-top-video-shares/"><u>In 2024, 2023 Trend Analysis Twitter's Top Video Shares</u></a></li>
-<li><a href="https://extra-support.techidaily.com/in-2024-mastering-motion-with-polaroids-latest-xs-innovation/"><u>In 2024, Mastering Motion with Polaroid's Latest XS Innovation</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/in-2024-quick-guide-to-influential-instagram-hashtags/"><u>In 2024, Quick Guide to Influential #Instagram Hashtags</u></a></li>
-<li><a href="https://win-tips.techidaily.com/mastering-color-selection-using-powertoys-color-picker-tool-insights-from-zdnet/"><u>Mastering Color Selection: Using PowerToys' Color Picker Tool - Insights From ZDNet</u></a></li>
-<li><a href="https://win-tips.techidaily.com/microsoft-debuts-budget-friendly-surface-laptop-se-at-250-to-revolutionize-learning-with-windows-amoled-se-insights-from-zdnet/"><u>Microsoft Debuts Budget-Friendly Surface Laptop SE at $250 to Revolutionize Learning with Windows Amoled SE | Insights From ZDNET</u></a></li>
-<li><a href="https://apple-account.techidaily.com/protecting-your-privacy-how-to-remove-apple-id-from-apple-iphone-13-mini-by-drfone-ios/"><u>Protecting Your Privacy How To Remove Apple ID From Apple iPhone 13 mini</u></a></li>
-<li><a href="https://win-tips.techidaily.com/securing-top-tier-coding-talent-on-a-budget-with-microsofts-innovative-solutions/"><u>Securing Top-Tier Coding Talent on a Budget with Microsoft's Innovative Solutions</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/new-2024-approved-step-by-step-tutorial-capturing-snapchat-moments/"><u>[New] 2024 Approved Step-by-Step Tutorial Capturing Snapchat Moments</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-advanced-tips-for-integrating-markers-in-videography-for-2024/"><u>[New] Advanced Tips for Integrating Markers in Videography for 2024</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/2024-approved-the-definitive-path-from-twitter-video-to-creatively-crafted-gifs/"><u>2024 Approved The Definitive Path From Twitter Video to Creatively Crafted GIFs</u></a></li>
+<li><a href="https://win-tips.techidaily.com/building-a-dual-boot-usb-mastering-legacy-and-uefi-methods-for-windows-10/"><u>Building a Dual-Boot USB: Mastering Legacy and UEFI Methods for Windows 10</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/complete-guide-to-safely-updating-lenovos-bluetooth-drivers-on-windows-7-and-10-devices/"><u>Complete Guide to Safely Updating Lenovo's Bluetooth Drivers on Windows 7 & 10 Devices</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/exploring-the-transition-of-netflix-from-mail-ordered-dvds-to-online-streaming-giant/"><u>Exploring the Transition of Netflix From Mail-Ordered DVDs to Online Streaming Giant</u></a></li>
+<li><a href="https://win-tips.techidaily.com/1728469027850-gmail/"><u>Gmail即時解決方法：重新获取消失信件的技巧</u></a></li>
+<li><a href="https://win-tips.techidaily.com/guia-paso-a-paso-para-copiar-el-sistema-operativo-de-windows-881-al-nuevo-disco-duro-o-ssd/"><u>Guía Paso a Paso Para Copiar El Sistema Operativo De Windows 8/8.1 Al Nuevo Disco Duro O SSD</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-to-mirror-pc-screen-to-tecno-pova-5-pro-phones-drfone-by-drfone-android/"><u>How to Mirror PC Screen to Tecno Pova 5 Pro Phones? | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/how-to-track-vivo-y100i-power-5g-location-without-installing-software-drfone-by-drfone-virtual-android/"><u>How to Track Vivo Y100i Power 5G Location without Installing Software? | Dr.fone</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-unlock-apple-id-without-phone-number-on-iphone-se-2020-by-drfone-ios/"><u>In 2024, Unlock Apple ID without Phone Number On iPhone SE (2020)</u></a></li>
+<li><a href="https://win-tips.techidaily.com/overcoming-sorry-cannot-connect-issues-with-your-microsoft-office-365-account/"><u>Overcoming 'Sorry, Cannot Connect' Issues with Your Microsoft Office 365 Account</u></a></li>
+<li><a href="https://win-tips.techidaily.com/scambia-musica-tra-pc-e-iphone-in-modo-rapido-senza-itunes-discover-questi-3-facili-passaggi/"><u>Scambia Musica Tra PC E iPhone in Modo Rapido, Senza iTunes: Discover Questi 3 Facili Passaggi</u></a></li>
+<li><a href="https://win-tips.techidaily.com/ssd-speicheraufbau-mit-datenubertragung-von-hdd-fur-windows-10-and-11-zwei-effiziente-methoden/"><u>SSD-Speicheraufbau Mit Datenübertragung Von HDD Für Windows 10 & 11 - Zwei Effiziente Methoden</u></a></li>
+<li><a href="https://win-tips.techidaily.com/the-ultimate-walkthrough-for-switching-over-your-data-from-a-previous-generation-iphone-to-the-latest-iphone-se-model/"><u>The Ultimate Walkthrough for Switching Over Your Data From a Previous Generation iPhone to the Latest iPhone SE Model</u></a></li>
+<li><a href="https://win-tips.techidaily.com/unable-to-find-the-destination-your-requested-url-is-missing/"><u>Unable to Find the Destination: Your Requested URL Is Missing!</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/what-is-the-best-pokemon-for-pokemon-pvp-ranking-on-nubia-red-magic-9-proplus-drfone-by-drfone-virtual-android/"><u>What is the best Pokemon for pokemon pvp ranking On Nubia Red Magic 9 Pro+? | Dr.fone</u></a></li>
 </ul></div>
 

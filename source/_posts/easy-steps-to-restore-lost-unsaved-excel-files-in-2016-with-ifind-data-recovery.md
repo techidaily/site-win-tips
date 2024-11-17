@@ -1,7 +1,7 @@
 ---
 title: Easy Steps to Restore Lost Unsaved Excel Files in 2016 with IFind Data Recovery
-date: 2024-11-03T16:18:24.344Z
-updated: 2024-11-06T18:29:28.934Z
+date: 2024-11-09T23:00:28.081Z
+updated: 2024-11-17T01:34:04.057Z
 tags:
   - product
 categories:
@@ -24,6 +24,19 @@ We expand our office recovery series to Excel recovery this week, and with the m
 
 Unlike the office word, Excel is all about tables and calculations. You may face more problems when dealing with excel files. As always, we give you some tips for how to get them back and how to Not lose them.
 
+<!-- affiliate ads begin -->
+<span id="1531882">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1531882.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1531882">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1531882.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1531882%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1531882/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## how to recover unsaved excel file 2016/2013/2007?
 
 As a part of Microsoft office, the recovery of excel is very similar with office word. In case you read this before our office word tips, here is the detailed step by step methods to help you to recover excel file not saved.
@@ -31,6 +44,13 @@ As a part of Microsoft office, the recovery of excel is very similar with office
 ### Method 1: Recover Unsaved excel Documents From Office Autosave
 
 ![excel autosave](https://i0.wp.com/www.ifind-recovery.com/wp-content/uploads/2019/03/excel-autosave.jpg?resize=680%2C269&ssl=1)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2044586/7443" target="_top" id="2044586">
+  <img src="//a.impactradius-go.com/display-ad/7443-2044586" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2044586/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Autosave is a new function for Office 365 which allows the Microsoft Excel to save your Xls/Xlsx files automatically on your cloud drives like OneDrive or SharePoint.
 
@@ -66,16 +86,16 @@ Normally, Excel will display a notice of Document Recovery task pane after start
 
 ![excel autorecover panel](https://i0.wp.com/www.ifind-recovery.com/wp-content/uploads/2019/03/excel-autorecover-panel.jpg?resize=800%2C300&ssl=1)
 
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1528685/16446" target="_top" id="1528685">
+  <img src="//a.impactradius-go.com/display-ad/16446-1528685" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528685/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 If not, you can still go to “Manage Workbook” to open the unsaved files.
 
 ![recover unsaved workbooks](https://i0.wp.com/www.ifind-recovery.com/wp-content/uploads/2019/03/recover-unsaved-workbooks.jpg?resize=800%2C299&ssl=1)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1948954/19272" target="_top" id="1948954">
-  <img src="//a.impactradius-go.com/display-ad/19272-1948954" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948954/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Method 3: Recover Unsaved excel Documents From Excel backup files
 
@@ -83,20 +103,14 @@ First, you need to select the “Always create backup” option in File – Save
 
 ![excel-saveas](https://i0.wp.com/www.ifind-recovery.com/wp-content/uploads/2019/03/excel-saveas.jpg?resize=800%2C165&ssl=1)
 
-<!-- affiliate ads begin -->
-<span id="1975503">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1975503.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1975503">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975503.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975503%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975503/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![excel-backup-options](https://i0.wp.com/www.ifind-recovery.com/wp-content/uploads/2019/03/excel-backup-options.jpg?resize=800%2C267&ssl=1)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2027190/19272" target="_top" id="2027190">
+  <img src="//a.impactradius-go.com/display-ad/19272-2027190" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027190/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ![](https://i0.wp.com/www.ifind-recovery.com/wp-content/uploads/2019/03/excel-backup-options2.jpg?resize=800%2C194&ssl=1)
 
@@ -105,17 +119,10 @@ Then, the Excel will store a \*.xlk backup file for you. So you have a chance to
 ![](https://i0.wp.com/www.ifind-recovery.com/wp-content/uploads/2019/03/excel-backup-xlk.jpg?resize=800%2C131&ssl=1)
 
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139107/17108" target="_top" id="2139107">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139107" border="0" alt="https://techidaily.com" width="250" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2111982/7443" target="_top" id="2111982">
+  <img src="//a.impactradius-go.com/display-ad/7443-2111982" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139107/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2111968/7443" target="_top" id="2111968">
-  <img src="//a.impactradius-go.com/display-ad/7443-2111968" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111968/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111982/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Method 4: Recover Unsaved excel Documents From windows previous versions
@@ -123,10 +130,10 @@ Then, the Excel will store a \*.xlk backup file for you. So you have a chance to
 **Related Tip: [Restore Deleted Files With Previous Versions Tabs In Windows](https://www.ifind-recovery.com/how-to/recover-deleted-files-windows-10-7-8/#part2)**
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135414/19272" target="_top" id="2135414">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135414" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2130528/26400" target="_top" id="2130528">
+  <img src="//a.impactradius-go.com/display-ad/26400-2130528" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135414/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130528/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Method 5: Recover Unsaved excel Documents From iFinD data recovery
@@ -136,28 +143,15 @@ If you get no luck with the tips above, or all or part of your computer data was
 ![](https://i0.wp.com/www.ifind-recovery.com/wp-content/uploads/2024/03/R-C.png?resize=100%2C100&ssl=1)
 
 <!-- affiliate ads begin -->
-<span id="1983551">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983551.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983551">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983551.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983551%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983551/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137205/26400" target="_top" id="2137205">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137205" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137205/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 [andy woo](https://www.ifind-recovery.com/author/andywoo/)
 
 Andy is an editor of the iFinD Team. She worked in this big family since her graduation. Her articles mainly focus on data backup and recovery, disk cloning, and file syncing, committed to resolving the data loss issues users may encounter on their PCs. Besides, more related computer articles are shared here.
-
-<!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/857869/11832" target="_top" id="857869">
-  <img src="//a.impactradius-go.com/display-ad/11832-857869" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/857869/11832" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Show Us some Love:
 
@@ -210,22 +204,14 @@ By [andy woo](https://www.ifind-recovery.com/author/andywoo/ "Posts by andy woo"
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-webster.techidaily.com/ed-mastery-of-youtube-closings-insider-tips-and-resources/"><u>[Updated] Mastery of YouTube Closings - Insider Tips and Resources</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/2024-approved-archive-hunt-accessing-yesteryears-facebook-stories/"><u>2024 Approved Archive Hunt Accessing Yesteryear's Facebook Stories</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/2024-approved-explore-5-premier-mac-cam-recording-software-beyond-bandicam/"><u>2024 Approved Explore 5 Premier Mac Cam Recording Software Beyond Bandicam</u></a></li>
-<li><a href="https://blog-min.techidaily.com/pof-movavi/"><u>線上無成本的POF翻譯 - 利用Movavi解決方案</u></a></li>
-<li><a href="https://win-tips.techidaily.com/copias-de-seguridad-efectivas-guia-paso-a-paso-para-respaldar-correos-electronicos-de-gmail-con-un-movil-o-usb/"><u>Copias De Seguridad Efectivas - Guía Paso a Paso Para Respaldar Correos Electrónicos De Gmail Con Un Móvil O USB</u></a></li>
-<li><a href="https://win-tips.techidaily.com/discover-the-best-gmail-backup-tools-for-windows-pcs-top-picks-and-benefits-explained/"><u>Discover the Best Gmail Backup Tools for Windows PCs: Top Picks and Benefits Explained</u></a></li>
-<li><a href="https://win-tips.techidaily.com/dos-tecnicas-eficaces-para-transferir-datos-de-samsung-migracion-y-clonacion-entre-multiples-particiones/"><u>Dos Técnicas Eficaces Para Transferir Datos De Samsung: Migración Y Clonación Entre Múltiples Particiones</u></a></li>
-<li><a href="https://win-tips.techidaily.com/effortless-cross-device-integration-merging-sticky-notes-across-multiple-computers/"><u>Effortless Cross-Device Integration: Merging Sticky Notes Across Multiple Computers</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/elevate-your-instagram-presence-with-these-9-game-changing-tips/"><u>Elevate Your Instagram Presence with These 9 Game-Changing Tips</u></a></li>
-<li><a href="https://win-tips.techidaily.com/expert-tips-for-retrieving-lost-soundtracks-how-to-resurrect-deleted-files-from-your-voice-recording-gadgets-and-software/"><u>Expert Tips for Retrieving Lost Soundtracks: How to Resurrect Deleted Files From Your Voice Recording Gadgets & Software</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/in-2024-decoding-virtual-worlds-the-workings-of-vr/"><u>In 2024, Decoding Virtual Worlds The Workings of VR</u></a></li>
-<li><a href="https://facebook-video-files.techidaily.com/in-2024-strategies-for-harvesting-fb-status-video-archives/"><u>In 2024, Strategies for Harvesting FB Status Video Archives</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-top-10-best-spy-watches-for-your-honor-x7b-drfone-by-drfone-virtual-android/"><u>In 2024, Top 10 Best Spy Watches For your Honor X7b | Dr.fone</u></a></li>
-<li><a href="https://win-tips.techidaily.com/rescue-captured-moments-a-guide-to-retrieving-accidentally-erased-content-from-gopro-cameras/"><u>Rescue Captured Moments: A Guide to Retrieving Accidentally Erased Content From GoPro Cameras</u></a></li>
-<li><a href="https://win-tips.techidaily.com/schneller-zugriff-auf-die-neueste-windows-10-wiederherstellungsanleitung-kostenloses-update-and-download-guide-2024/"><u>Schneller Zugriff Auf Die Neueste Windows 10 Wiederherstellungsanleitung – Kostenloses Update & Download-Guide 2024</u></a></li>
-<li><a href="https://techidaily.com/the-way-to-recover-deleted-photos-on-google-pixel-7a-without-backup-by-fonelab-android-recover-photos/"><u>The way to recover deleted photos on Google Pixel 7a without backup.</u></a></li>
-<li><a href="https://win-tips.techidaily.com/transfert-rapide-du-systeme-sur-ssd-clonage-disque-dur-a-laide-de-macrium-reflect-option-petite-taille-adaptee-aux-particuliers/"><u>Transfert Rapide Du Système Sur SSD : Clonage Disque Dur À L'aide De Macrium Reflect, Option Petite Taille Adaptée Aux Particuliers</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-elevate-your-engagement-with-real-time-tweets/"><u>[Updated] Elevate Your Engagement with Real-Time Tweets</u></a></li>
+<li><a href="https://win-tips.techidaily.com/iuoajowkmuwpsoapnplusobqplusacgombqtog44ot44k444on44k555so6ycu44ks5ooz5a6a44gx44gf5bcc55so55qe44gq44oq44od44kv44ki44od44ox44go44oq44kr44oq44oq44o844k944ov44282/"><u>「多台機に最適: ビジネス用途を想定した専用的なバックアップとリカバリーソフトウェア」</u></a></li>
+<li><a href="https://win-tips.techidaily.com/5lplusd6kplusb6k6plus5ash6ieq5bex55qe5ash5a2y5a6j5ywo77ya57kplus5pio6ycj55so5yqg5aplusg5oqa5ben5zkm5oml5q615yig5lqr/"><u>保证设备自己的备存安全：精明选用加密技巧和手段分享</u></a></li>
+<li><a href="https://fake-location.techidaily.com/does-life360-notify-when-you-log-out-on-samsung-galaxy-s23-ultra-drfone-by-drfone-virtual-android/"><u>Does Life360 Notify When You Log Out On Samsung Galaxy S23 Ultra? | Dr.fone</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/in-2024-become-an-expert-at-unearthing-unique-visuals-from-pexels/"><u>In 2024, Become an Expert at Unearthing Unique Visuals From Pexels</u></a></li>
+<li><a href="https://win-tips.techidaily.com/retain-your-applications-while-refreshing-windows-10-three-effective-methods/"><u>Retain Your Applications While Refreshing Windows 10 - Three Effective Methods!</u></a></li>
+<li><a href="https://win-tips.techidaily.com/top-freeware-fur-die-aufteilung-der-beste-ssd-auf-ihrem-windows-111087-system/"><u>Top-Freeware Für Die Aufteilung Der Beste SSD Auf Ihrem Windows 11/10/8/7 System</u></a></li>
+<li><a href="https://sound-tweaking.techidaily.com/updated-in-2024-finding-the-ideal-game-voice-modifier-a-comprehensive-guide/"><u>Updated In 2024, Finding the Ideal Game Voice Modifier A Comprehensive Guide</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/bes-earnings-strategy-explored/"><u>YouTube's Earnings Strategy Explored</u></a></li>
 </ul></div>
 

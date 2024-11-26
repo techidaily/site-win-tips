@@ -1,7 +1,7 @@
 ---
 title: Easy Steps to Restore Lost Unsaved Excel Files in 2016 with IFind Data Recovery
-date: 2024-11-09T23:00:28.081Z
-updated: 2024-11-17T01:34:04.057Z
+date: 2024-11-21T11:25:03.685Z
+updated: 2024-11-25T18:36:09.565Z
 tags:
   - product
 categories:
@@ -16,6 +16,10 @@ thumbnail: https://thmb.techidaily.com/6a8b7b3cdb25a03e07ba1819bb3940ce3cb079bf3
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/P6Wfzj6YNDM?si=WRZQD9zCdQ1_tW1b&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How To Recover Unsaved Excel File
 
 * ![how to recover unsaved excel files](https://www.ifind-recovery.com/wp-content/uploads/2019/03/how-to-recover-unsaved-excel-file.jpg)
@@ -23,19 +27,6 @@ thumbnail: https://thmb.techidaily.com/6a8b7b3cdb25a03e07ba1819bb3940ce3cb079bf3
 We expand our office recovery series to Excel recovery this week, and with the most asked question: how to recover excel file?
 
 Unlike the office word, Excel is all about tables and calculations. You may face more problems when dealing with excel files. As always, we give you some tips for how to get them back and how to Not lose them.
-
-<!-- affiliate ads begin -->
-<span id="1531882">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1531882.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1531882">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1531882.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1531882%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1531882/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## how to recover unsaved excel file 2016/2013/2007?
 
@@ -45,13 +36,6 @@ As a part of Microsoft office, the recovery of excel is very similar with office
 
 ![excel autosave](https://i0.wp.com/www.ifind-recovery.com/wp-content/uploads/2019/03/excel-autosave.jpg?resize=680%2C269&ssl=1)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2044586/7443" target="_top" id="2044586">
-  <img src="//a.impactradius-go.com/display-ad/7443-2044586" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2044586/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Autosave is a new function for Office 365 which allows the Microsoft Excel to save your Xls/Xlsx files automatically on your cloud drives like OneDrive or SharePoint.
 
 With this feature, Recover Autosave Excel is easy and self-acting, The Excel will save your working files every few seconds. You can even find some previous versions if you need a restore.
@@ -59,6 +43,10 @@ With this feature, Recover Autosave Excel is easy and self-acting, The Excel wil
 ### Method 2: Recover Unsaved excel Documents From Excel Autorecover
 
 ![excel autorecover](https://i0.wp.com/www.ifind-recovery.com/wp-content/uploads/2019/03/excel-autorecover-e1553241342364.jpg?resize=680%2C238&ssl=1)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fqBKCGAKHmA?si=OkoaI17nE5qNqTHj&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Excel Autorecover is a building-in function of Microsoft office(2003-2016) for saving your file copy at a custom setup period automatically. You can use these copies to recover your unsaved Excel documents when you forgot to save the excel document, your excel crashed, or your Computer suddenly shut down.
 
@@ -74,6 +62,10 @@ Excel Autorecover is a building-in function of Microsoft office(2003-2016) for s
 
 ![Files of type](https://i0.wp.com/www.ifind-recovery.com/wp-content/uploads/2019/02/Files-of-type.jpg?resize=640%2C202&ssl=1)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_1g4U13PBk0?si=xJLJtlc4hKBTBH8M&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 * [Excel 2007](https://www.ifind-recovery.com/how-to/recover-excel-file/#tab-17147dd51bf99356398)
 
 **Microsoft Office** – **Open** – **Files of type** – **All Files**
@@ -87,15 +79,16 @@ Normally, Excel will display a notice of Document Recovery task pane after start
 ![excel autorecover panel](https://i0.wp.com/www.ifind-recovery.com/wp-content/uploads/2019/03/excel-autorecover-panel.jpg?resize=800%2C300&ssl=1)
 
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1528685/16446" target="_top" id="1528685">
-  <img src="//a.impactradius-go.com/display-ad/16446-1528685" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528685/16446" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gOyLy8DeizY?si=GkAmK0hChZw6_2tW&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 If not, you can still go to “Manage Workbook” to open the unsaved files.
 
 ![recover unsaved workbooks](https://i0.wp.com/www.ifind-recovery.com/wp-content/uploads/2019/03/recover-unsaved-workbooks.jpg?resize=800%2C299&ssl=1)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SyMZxS9479s?si=0T6zZpyN2LBftFTM&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Method 3: Recover Unsaved excel Documents From Excel backup files
 
@@ -103,14 +96,11 @@ First, you need to select the “Always create backup” option in File – Save
 
 ![excel-saveas](https://i0.wp.com/www.ifind-recovery.com/wp-content/uploads/2019/03/excel-saveas.jpg?resize=800%2C165&ssl=1)
 
-![excel-backup-options](https://i0.wp.com/www.ifind-recovery.com/wp-content/uploads/2019/03/excel-backup-options.jpg?resize=800%2C267&ssl=1)
-
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2027190/19272" target="_top" id="2027190">
-  <img src="//a.impactradius-go.com/display-ad/19272-2027190" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027190/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qObsqoJB9LI?si=ppqxfXzP0UL4J6Tp&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+![excel-backup-options](https://i0.wp.com/www.ifind-recovery.com/wp-content/uploads/2019/03/excel-backup-options.jpg?resize=800%2C267&ssl=1)
 
 ![](https://i0.wp.com/www.ifind-recovery.com/wp-content/uploads/2019/03/excel-backup-options2.jpg?resize=800%2C194&ssl=1)
 
@@ -118,23 +108,9 @@ Then, the Excel will store a \*.xlk backup file for you. So you have a chance to
 
 ![](https://i0.wp.com/www.ifind-recovery.com/wp-content/uploads/2019/03/excel-backup-xlk.jpg?resize=800%2C131&ssl=1)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2111982/7443" target="_top" id="2111982">
-  <img src="//a.impactradius-go.com/display-ad/7443-2111982" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111982/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Method 4: Recover Unsaved excel Documents From windows previous versions
 
 **Related Tip: [Restore Deleted Files With Previous Versions Tabs In Windows](https://www.ifind-recovery.com/how-to/recover-deleted-files-windows-10-7-8/#part2)**
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2130528/26400" target="_top" id="2130528">
-  <img src="//a.impactradius-go.com/display-ad/26400-2130528" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130528/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Method 5: Recover Unsaved excel Documents From iFinD data recovery
 
@@ -143,10 +119,7 @@ If you get no luck with the tips above, or all or part of your computer data was
 ![](https://i0.wp.com/www.ifind-recovery.com/wp-content/uploads/2024/03/R-C.png?resize=100%2C100&ssl=1)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137205/26400" target="_top" id="2137205">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137205" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137205/26400" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UJJbj1vbzs8?si=X3zd8thLJKprfuEa&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 [andy woo](https://www.ifind-recovery.com/author/andywoo/)
@@ -204,14 +177,17 @@ By [andy woo](https://www.ifind-recovery.com/author/andywoo/ "Posts by andy woo"
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://twitter-videos.techidaily.com/updated-elevate-your-engagement-with-real-time-tweets/"><u>[Updated] Elevate Your Engagement with Real-Time Tweets</u></a></li>
-<li><a href="https://win-tips.techidaily.com/iuoajowkmuwpsoapnplusobqplusacgombqtog44ot44k444on44k555so6ycu44ks5ooz5a6a44gx44gf5bcc55so55qe44gq44oq44od44kv44ki44od44ox44go44oq44kr44oq44oq44o844k944ov44282/"><u>「多台機に最適: ビジネス用途を想定した専用的なバックアップとリカバリーソフトウェア」</u></a></li>
-<li><a href="https://win-tips.techidaily.com/5lplusd6kplusb6k6plus5ash6ieq5bex55qe5ash5a2y5a6j5ywo77ya57kplus5pio6ycj55so5yqg5aplusg5oqa5ben5zkm5oml5q615yig5lqr/"><u>保证设备自己的备存安全：精明选用加密技巧和手段分享</u></a></li>
-<li><a href="https://fake-location.techidaily.com/does-life360-notify-when-you-log-out-on-samsung-galaxy-s23-ultra-drfone-by-drfone-virtual-android/"><u>Does Life360 Notify When You Log Out On Samsung Galaxy S23 Ultra? | Dr.fone</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/in-2024-become-an-expert-at-unearthing-unique-visuals-from-pexels/"><u>In 2024, Become an Expert at Unearthing Unique Visuals From Pexels</u></a></li>
-<li><a href="https://win-tips.techidaily.com/retain-your-applications-while-refreshing-windows-10-three-effective-methods/"><u>Retain Your Applications While Refreshing Windows 10 - Three Effective Methods!</u></a></li>
-<li><a href="https://win-tips.techidaily.com/top-freeware-fur-die-aufteilung-der-beste-ssd-auf-ihrem-windows-111087-system/"><u>Top-Freeware Für Die Aufteilung Der Beste SSD Auf Ihrem Windows 11/10/8/7 System</u></a></li>
-<li><a href="https://sound-tweaking.techidaily.com/updated-in-2024-finding-the-ideal-game-voice-modifier-a-comprehensive-guide/"><u>Updated In 2024, Finding the Ideal Game Voice Modifier A Comprehensive Guide</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/bes-earnings-strategy-explored/"><u>YouTube's Earnings Strategy Explored</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/new-elite-selection-of-steadicams-suitable-for-drones-in-cinematic-work-for-2024/"><u>[New] Elite Selection of Steadicams Suitable for Drones in Cinematic Work for 2024</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/4-easy-ways-for-your-honor-x50-hard-reset-drfone-by-drfone-reset-android-reset-android/"><u>4 Easy Ways for Your Honor X50 Hard Reset | Dr.fone</u></a></li>
+<li><a href="https://win-tips.techidaily.com/55ww44gq44kl5qmf5zmo44gn44gu5yq5546h55qe44gq5yplusk44ge44k144o844oq44o844go5paw44gx44ge44k144o844oq44o86zat44k544ov44od44ox44ks44kk44oj/"><u>異なる機器での効率的な古いサーバーと新しいサーバー間スワップガイド</u></a></li>
+<li><a href="https://win-tips.techidaily.com/critical-security-alert-vmware-vcenter-exposed-vulnerabilities/"><u>Critical Security Alert: VMware vCenter Exposed Vulnerabilities</u></a></li>
+<li><a href="https://win-tips.techidaily.com/disabling-incognito-on-chrome-for-enhanced-security-using-malwarefox-software/"><u>Disabling Incognito on Chrome for Enhanced Security Using MalwareFox Software</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/expertly-selected-best-apple-watch-band-picks-in-depth-analysis-and-ratings-zdnet/"><u>Expertly Selected Best Apple Watch Band Picks : In-Depth Analysis and Ratings | ZDNet</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-to-unlock-samsung-galaxy-s24plus-pattern-lock-if-forgotten-6-ways-by-drfone-android/"><u>How to Unlock Samsung Galaxy S24+ Pattern Lock if Forgotten? 6 Ways</u></a></li>
+<li><a href="https://common-error.techidaily.com/step-by-step-tutorial-eradicating-errcachemiss-error-in-your-chrome-experience/"><u>Step-by-Step Tutorial: Eradicating ERR_CACHE_MISS Error in Your Chrome Experience</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/stepwise-simplification-broadcasting-personal-yt-videos-using-gmail-for-2024/"><u>Stepwise Simplification Broadcasting Personal YT Videos Using Gmail for 2024</u></a></li>
+<li><a href="https://win-tips.techidaily.com/the-top-3-methods-for-successfully-transferring-hotmail-messages-into-outlook-a-comprehensive-guide/"><u>The Top 3 Methods for Successfully Transferring Hotmail Messages Into Outlook: A Comprehensive Guide</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/the-ultimate-guide-to-text-in-after-effects-top-10/"><u>The Ultimate Guide to Text in After Effects (Top 10)</u></a></li>
+<li><a href="https://win-tips.techidaily.com/44ov44kh44kk44or44o744ki44od44ox44ot44o844oj5pmc44gr55m655sf44gz44kl44cm44oj44op44kk44ow44ks5qsc5ye644gn44gn44gplus44gb44kt44cn5zwp6agm44gu6kej5rg65pa55rov.291/"><u>ファイル・アップロード時に発生する「ドライブを検出できません」問題の解決方法</u></a></li>
 </ul></div>
 

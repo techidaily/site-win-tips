@@ -1,7 +1,7 @@
 ---
 title: Eliminate Explicit Media Alerts in Microsoft Pop-Ups - Protect Your System From Scams
-date: 2024-11-12T02:24:50.770Z
-updated: 2024-11-17T00:28:48.557Z
+date: 2024-11-24T10:46:38.817Z
+updated: 2024-11-26T06:41:49.576Z
 tags:
   - product
   - antivirus
@@ -82,10 +82,7 @@ If you are dealing with this message or pop-up repeatedly, you have to get rid o
 Here are the steps for that:
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148636/16836" target="_top" id="2148636">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148636" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148636/16836" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n4cc4BSqJls?si=Hkd9vwQDqeCGN7XG&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### **Restart your PC in Safe Mode**
@@ -101,27 +98,22 @@ If the “PORNOGRAPHIC VIRUS ALERT FROM MICROSOFT” Scam still appears on your 
 1. Right-click on the taskbar and select the **Task Manager**.  
 ![Open Task Manager](https://www.malwarefox.com/wp-content/uploads/2020/05/Open-Task-Manger.png)
 2. Watch out for the applications that are consuming the system memory even though you did not install or launch them.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JlX-G8rBs1w?si=iIhUoWAq5x3YK9rA&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 3. Right-click on the suspicious application and open its file location.  
 ![uninstall suspicous files](https://www.malwarefox.com/wp-content/uploads/2020/07/uninstall-suspicous-files.png)
 4. Delete the file from its root location.
 
-<!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/1030380/11832" target="_top" id="1030380">
-  <img src="//a.impactradius-go.com/display-ad/11832-1030380" border="0" alt="https://techidaily.com" width="720" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1030380/11832" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 5. Open Control Panel and click on **Uninstall a program** and check for suspicious apps. One by one, select and uninstall them.![uninstall the apps](https://www.malwarefox.com/wp-content/uploads/2020/07/uninstall-the-apps.png)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2006914/19272" target="_top" id="2006914">
-  <img src="//a.impactradius-go.com/display-ad/19272-2006914" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006914/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iOVkXoUxLf4?si=QfC18T2cb5OkiaXo&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### **Delete Temporary Files**
 
@@ -132,15 +124,13 @@ Here are the steps to eliminate thre temporary files:
 1. Open the Run command window.
 2. Type **%temp%** and hit the enter key.![temp run command](https://www.malwarefox.com/wp-content/uploads/2020/07/temp-run-command.png)
 3. This run command would navigate you to this path: **_C:\\Users\\\[username\]\\AppData\\Local\\Temp,_** that is, the temp folder.
-4. Select all Files and Folders of this folder and delete them. Don’t hesitate to delete them, as they are not essential for any of your tasks. ![Delete temp files](https://www.malwarefox.com/wp-content/uploads/2020/07/Delete-temp-files.png)
-5. Next right-click on the **Recycle Bin** and select **Empty Recycle Bin.**![Empty recycle bin](https://www.malwarefox.com/wp-content/uploads/2020/07/Empty-recycle-bin.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043662/7443" target="_top" id="2043662">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043662" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043662/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/K7fATC_lI7o?si=UFotPJqflDRZr-mv&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+4. Select all Files and Folders of this folder and delete them. Don’t hesitate to delete them, as they are not essential for any of your tasks. ![Delete temp files](https://www.malwarefox.com/wp-content/uploads/2020/07/Delete-temp-files.png)
+5. Next right-click on the **Recycle Bin** and select **Empty Recycle Bin.**![Empty recycle bin](https://www.malwarefox.com/wp-content/uploads/2020/07/Empty-recycle-bin.jpg)
 
 ### **Reset Web Browser Settings**
 
@@ -152,10 +142,7 @@ If your browser is misbehaving because of the “PORNOGRAPHIC VIRUS ALERT FROM M
 4. Select **Reset settings** on the next prompt.![reset the chrome](https://www.malwarefox.com/wp-content/uploads/2020/07/reset-the-chrome.png)
 
 <!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014859/22899" target="_top" id="2014859">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014859" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014859/22899" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YZma8PBO0D8?si=9-qQgGVTuChYd27a&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 5. Relaunch your browser.
@@ -169,13 +156,14 @@ MalwareFox is reliable security software that promises to protect your system an
 1. [Download Malwarefox and install it](https://tools.techidaily.com/malwarefox/products/).
 2. Perform a full system scan to get rid of every malware that is troubling your system.![MalwareFox Antimalware](https://www.malwarefox.com/wp-content/uploads/2020/02/malwarefox.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fqBKCGAKHmA?si=OkoaI17nE5qNqTHj&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 [Why Windows get More Virus Attacks than Mac or Linux](https://tools.techidaily.com/malwarefox/products/)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1886069/19272" target="_top" id="1886069">
-  <img src="//a.impactradius-go.com/display-ad/19272-1886069" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886069/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zAzTErKy6h8?si=vi5z3M9_7fW6qiAJ&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How to Avoid such Threats?
@@ -195,13 +183,6 @@ NO. Microsoft is a reputed and one of the biggest software development companies
 **What do I do when Microsoft blocks my computer?** 
 
 Microsoft never blocks any computer. You see the warning of “Microsoft has blocked your computer” because a malware might have got an entry on your system and triggered the fake message to spread the spam.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105877/7443" target="_top" id="2105877">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105877" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105877/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Leave a Comment [Cancel reply](https://tools.techidaily.com/malwarefox/products/)
 
@@ -228,24 +209,18 @@ Save my name, email, and website in this browser for the next time I comment.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://vimeo-videos.techidaily.com/new-non-vimeo-powerhouses-for-video-content-creation-for-2024/"><u>[New] Non-Vimeo Powerhouses for Video Content Creation for 2024</u></a></li>
-<li><a href="https://video-capture.techidaily.com/updated-2024-approved-capturing-slide-decks-via-webcam-a-step-by-step-guide/"><u>[Updated] 2024 Approved Capturing Slide Decks via Webcam A Step-by-Step Guide</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/updated-2024-approved-leading-selections-ultimate-mac-video-grabber-devices/"><u>[Updated] 2024 Approved Leading Selections Ultimate Mac Video Grabber Devices</u></a></li>
-<li><a href="https://win-tips.techidaily.com/io0x80n7045d/"><u>「IOデバイスに関するエラー0x80n7045Dの詳細な解決手順」</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/1725289799772-dvd/"><u>如何加入或強制字幕到你的DVD上，方法與提示</u></a></li>
-<li><a href="https://win-tips.techidaily.com/decoding-performance-and-value-a-comprehensive-samsung-qvo-vs-evo-ssd-battle/"><u>Decoding Performance & Value: A Comprehensive Samsung QVO Vs. EVO SSD Battle</u></a></li>
-<li><a href="https://win-tips.techidaily.com/einfache-schutzmassnahmen-sichern-sie-ihre-daten-automatisch-mit-jedem-eingesteckten-usb-stick-facile-and-secure/"><u>Einfache Schutzmaßnahmen: Sichern Sie Ihre Daten Automatisch Mit Jedem Eingesteckten USB-Stick - Facile & Secure</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/elevate-your-editing-game-10-best-free-plugins-for-fcpx-for-2024/"><u>Elevate Your Editing Game 10 Best Free Plugins for FCPX for 2024</u></a></li>
-<li><a href="https://win-tips.techidaily.com/mastering-file-retrieval-expert-tips-for-restoring-deleted-word-documents-using-ifinds-recovery-suite/"><u>Mastering File Retrieval: Expert Tips for Restoring Deleted Word Documents Using iFinD's Recovery Suite</u></a></li>
-<li><a href="https://win-tips.techidaily.com/meet-holiday-yang-author-biography-and-insights/"><u>Meet Holiday Yang - Author Biography and Insights</u></a></li>
-<li><a href="https://win-tips.techidaily.com/recover-deleted-data-from-a-missing-seagate-drive-on-windows/"><u>Recover Deleted Data From a Missing Seagate Drive on Windows</u></a></li>
-<li><a href="https://win-tips.techidaily.com/ripristina-una-partizione-cancellata-o-persa-su-windows-1011-con-questa-guida-dettagliata/"><u>Ripristina Una Partizione Cancellata O Persa Su Windows 10/11 Con Questa Guida Dettagliata</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/simplify-your-payments-and-access-control-learn-how-to-generate-nfc-passes-using-google-wallet-a-step-by-step-guide-gadgetflow/"><u>Simplify Your Payments and Access Control: Learn How to Generate NFC Passes Using Google Wallet - A Step-by-Step Guide | GadgetFlow</u></a></li>
-<li><a href="https://win-tips.techidaily.com/step-by-step-guide-creating-your-own-protective-usb-key-for-windows-10-defense/"><u>Step-by-Step Guide: Creating Your Own Protective USB Key for Windows 10 Defense</u></a></li>
-<li><a href="https://techtrends.techidaily.com/step-by-step-guide-upgrading-your-ps5-with-an-ssd/"><u>Step-by-Step Guide: Upgrading Your PS5 with an SSD</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/the-complete-breakdown-of-lg-channels-must-know-facts-exposed/"><u>The Complete Breakdown of LG Channels – Must-Know Facts Exposed</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/the-transformation-of-video-on-facebook-for-2024/"><u>The Transformation of Video on Facebook for 2024</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/transform-your-youtube-views-with-smart-zoom-practices/"><u>Transform Your YouTube Views with Smart Zoom Practices</u></a></li>
-<li><a href="https://win-tips.techidaily.com/wie-man-musik-von-windows-media-player-erfolgreich-in-itunes-ubertragen-kann/"><u>Wie Man Musik Von Windows Media Player Erfolgreich in iTunes Übertragen Kann</u></a></li>
+<li><a href="https://fox-info.techidaily.com/updated-pioneers-in-the-digital-realm-vr-past-and-future/"><u>[Updated] Pioneers in the Digital Realm VR Past and Future</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/2024-approved-how-to-create-and-change-video-cover-on-facebook/"><u>2024 Approved How to Create and Change Video Cover on Facebook</u></a></li>
+<li><a href="https://win-tips.techidaily.com/5q245qqu56il5byp5lul57s577ya5aac5l2v5b6e5b2x54mh5pah5lu25lit5yplusw5zue5qqu5qgi5zkm55uu6yye/"><u>歸檔程式介紹：如何從影片文件中取回檔案和目錄</u></a></li>
+<li><a href="https://win-able.techidaily.com/compliance/"><u>Compliance</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/in-2024-a-compreranly-approach-to-high-quality-ps3-video-capture/"><u>In 2024, A Compreranly Approach to High-Quality PS3 Video Capture</u></a></li>
+<li><a href="https://win-tips.techidaily.com/mountpoint-integration-with-amazon-s3-a-comprehensive-tutorial-on-secure-installation-and-usage/"><u>Mountpoint Integration with Amazon S3: A Comprehensive Tutorial on Secure Installation and Usage</u></a></li>
+<li><a href="https://win-tips.techidaily.com/multiply-both-sides-of-the-first-equation-by-5-the-coefficient-of-y-in-the-second-equation/"><u>Multiply Both Sides of the First Equation by 5 (the Coefficient of Y in the Second Equation):</u></a></li>
+<li><a href="https://win-tips.techidaily.com/seamlessly-transfer-just-the-essential-data-from-your-old-hard-drive-to-a-new-solid-state/"><u>Seamlessly Transfer Just the Essential Data From Your Old Hard Drive to a New Solid State</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/v-joshis-income-tactics-the-future-of-monetizing-content/"><u>Sourav Joshi's Income Tactics The Future of Monetizing Content</u></a></li>
+<li><a href="https://win-tips.techidaily.com/the-role-of-stored-data-in-your-android-devices-performance-and-security-insights-from-malwarefox/"><u>The Role of Stored Data in Your Android Device's Performance & Security Insights From MalwareFox</u></a></li>
+<li><a href="https://win-tips.techidaily.com/top-6-forms-of-data-corruption-visual-guide-by-ifind-data-recovery-tool-ifind/"><u>Top 6 Forms of Data Corruption: Visual Guide by IFind Data Recovery Tool - iFinD</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/top-picks-affordable-high-quality-4k-home-theatres-for-2024/"><u>Top Picks Affordable, High Quality 4K Home Theatres for 2024</u></a></li>
+<li><a href="https://win-forum.techidaily.com/unlocking-the-secrets-to-your-windows-11-bios-configuration/"><u>Unlocking the Secrets to Your Windows 11 BIOS Configuration</u></a></li>
 </ul></div>
 

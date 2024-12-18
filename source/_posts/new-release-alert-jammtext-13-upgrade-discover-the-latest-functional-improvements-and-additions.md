@@ -1,7 +1,7 @@
 ---
 title: "New Release Alert: JammText 1.3 Upgrade - Discover the Latest Functional Improvements and Additions"
-date: 2024-12-06T21:38:20.941Z
-updated: 2024-12-12T06:39:43.532Z
+date: 2024-12-16T09:28:58.082Z
+updated: 2024-12-17T19:27:33.288Z
 tags:
   - product
 categories:
@@ -29,7 +29,7 @@ JammText allows DJs to interact with their audience while boosting your marketin
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ITtcSWvS8bo?si=4M4BfMgaabrW6148" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gOyLy8DeizY?si=GkAmK0hChZw6_2tW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Email to screen
@@ -37,27 +37,27 @@ JammText allows DJs to interact with their audience while boosting your marketin
 We are excited to announce that we have added a new email to screen function in JammText 1.3\. Your audience will now have the option of emailing a picture or message to the screen.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zXUt81WsQpI?si=W3DKIAsa2-qbGadJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xg3PHS_Ee80?si=fE_iGIqHjKvWFIN3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Scan to screen
 
 With the new email to screen feature we have also added an auto generated QR code. This QR code is randomly displayed on your screen instructing the audience to scan code to post pictures or messages to this screen. When the QR code is scanned it automatically opens the audience members email app with a composed email addressed to post on the JammText screen.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/QRaEdFMU-Xc?si=OjaiTvlogJy5wHhN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### 64 bit and Mojave Support
 
 JammText is now 64 bit for Mac which improves its performance. Also, JammText is supported for the new macOS Mojave.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JNxZ4Z6BVCg?si=522oz1OPSQDhNYWT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Voting coming soon
 
 We are in the final stages of completing the highly requested Voting feature and will be releasing this update in the near future. Look out for that announcement coming soon.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_7AYCS7zBU0?si=7R9oIpE4hyEbtk3x" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JMgRzDANfSQ?si=NDy01ntXGGOi1Uxs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Instagram discontinued
@@ -68,7 +68,7 @@ Upgrade today for free to get the best version of JammText to date!
 [LEARN MORE ABOUT JAMMTEXT](https://tools.techidaily.com/pcdj/products/)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PNw3Lb26wFA?si=5NR1XRVSp41EQYMy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Q8Feep0Rc0?si=YkPhRxXGvrRRMJtb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -90,18 +90,16 @@ https://i0.wp.com/pcdj.com/wp-content/uploads/2018/12/jammtext-v13.jpg?fit=706%2
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-resources.techidaily.com/new-ace-your-project-advanced-srt-tweaks-on-a-mac/"><u>[New] Ace Your Project Advanced SRT Tweaks on a Mac</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/new-tweetstream-extractor-pull-twitter-videos-to-iphone-for-2024/"><u>[New] TweetStream Extractor Pull Twitter Videos to iPhone for 2024</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/updated-in-2024-advancing-google-meet-sessions-implementing-effects-and-masks/"><u>[Updated] In 2024, Advancing Google Meet Sessions Implementing Effects & Masks</u></a></li>
-<li><a href="https://win-tips.techidaily.com/1-accelerate-your-computer-expert-tips-for-speeding-up-hard-drives-by-yl-computing/"><u>1. Accelerate Your Computer: Expert Tips for Speeding Up Hard Drives by YL Computing</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/beyond-imagination-exploring-ar-worlds-for-2024/"><u>Beyond Imagination Exploring AR Worlds for 2024</u></a></li>
-<li><a href="https://win-tips.techidaily.com/diagnosing-and-repairing-problematic-application-startups-expert-advice-by-yl-software-professionals/"><u>Diagnosing and Repairing Problematic Application Startups: Expert Advice by YL Software Professionals</u></a></li>
-<li><a href="https://win-tips.techidaily.com/eerie-halloween-graphics-complete-collection-of-hd-wallpapers-desktop-icons-and-screensavers-yl-computing-solutions/"><u>Eerie Halloween Graphics: Complete Collection of HD Wallpapers, Desktop Icons & Screensavers - YL Computing Solutions</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/creator-to-kingmaker-ajays-youtube-revenue-revolution/"><u>From Creator to Kingmaker Ajay’s YouTube Revenue Revolution</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-set-your-preferred-job-location-on-linkedin-app-of-your-gionee-f3-pro-drfone-by-drfone-virtual-android/"><u>In 2024, Set Your Preferred Job Location on LinkedIn App of your Gionee F3 Pro | Dr.fone</u></a></li>
-<li><a href="https://win-tips.techidaily.com/is-your-graphics-card-operating-correctly-find-out-with-our-step-by-step-diagnostic-methods-at-yl-computing/"><u>Is Your Graphics Card Operating Correctly? Find Out With Our Step-by-Step Diagnostic Methods at YL Computing</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/solution-guide-resolving-windows-11-and-11-bluetooth-sound-stuttering-problems/"><u>Solution Guide: Resolving Windows 11 & 11 Bluetooth Sound Stuttering Problems</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/the-ultimate-craft-experience-on-your-mac-tips-and-tricks-for-efficient-document-management/"><u>The Ultimate Craft Experience on Your Mac - Tips & Tricks for Efficient Document Management.</u></a></li>
-<li><a href="https://win-tips.techidaily.com/us-crypto-security-firm-bitgo-secures-german-banking-authority-approval-insights-from-yl-computing-and-yl-software/"><u>US Crypto Security Firm BitGo Secures German Banking Authority Approval: Insights From YL Computing and YL Software</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/auditory-hunt-locating-authentic-cricket-sfx/"><u>Auditory Hunt Locating Authentic Cricket SFX</u></a></li>
+<li><a href="https://win-tips.techidaily.com/dealing-with-damaged-memory-modules-when-should-you-replace-ram-insights-by-yl-software-pros/"><u>Dealing with Damaged Memory Modules: When Should You Replace RAM? Insights by YL Software Pros</u></a></li>
+<li><a href="https://win-tips.techidaily.com/expert-tips-for-securing-personal-data-complete-steps-to-preserve-files-and-settings-using-yl-software-tools/"><u>Expert Tips for Securing Personal Data: Complete Steps to Preserve Files and Settings Using YL Software Tools</u></a></li>
+<li><a href="https://win-tips.techidaily.com/exploring-various-crypto-assets-how-to-verify-their-balances-using-a-digital-wallet-tracker-innovations-by-yl-computing/"><u>Exploring Various Crypto Assets: How to Verify Their Balances Using a Digital Wallet Tracker - Innovations by YL Computing</u></a></li>
+<li><a href="https://win-tips.techidaily.com/how-did-the-qing-dynasty-shape-modern-china-analysis-from-yls-tech-expertise/"><u>How Did the Qing Dynasty Shape Modern China: Analysis From YL's Tech Expertise</u></a></li>
+<li><a href="https://fox-access.techidaily.com/in-2024-download-and-install-windows-xp-movie-maker/"><u>In 2024, Download and Install Windows XP Movie Maker</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/in-2024-perfecting-your-instagram-format-imovie-square-video-creation/"><u>In 2024, Perfecting Your Instagram Format IMovie Square Video Creation</u></a></li>
+<li><a href="https://iphone-location.techidaily.com/in-2024-quick-steps-to-change-weather-location-on-apple-iphone-12-pro-drfone-by-drfone-virtual-ios/"><u>In 2024, Quick Steps to Change Weather Location on Apple iPhone 12 Pro | Dr.fone</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/in-2024-unleash-your-creativity-the-best-10-igtv-techniques-to-skyrocket-your-brand/"><u>In 2024, Unleash Your Creativity The Best 10 IGTV Techniques to Skyrocket Your Brand</u></a></li>
+<li><a href="https://win-tips.techidaily.com/revolutionize-your-desktop-experience-with-yl-softwares-new-release-imdesktop-the-ultimate-live-and-video-wallpaper-solution-for-computers/"><u>Revolutionize Your Desktop Experience with YL Software's New Release – ImDesktop, the Ultimate Live & Video Wallpaper Solution for Computers</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/top-pick-durability-meets-affordability-in-asus-chromebook-c202sa-for-young-learners/"><u>Top Pick: Durability Meets Affordability in Asus Chromebook C202SA for Young Learners</u></a></li>
 </ul></div>
 

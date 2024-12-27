@@ -1,7 +1,7 @@
 ---
 title: Exploring the Inventor and Historical Significance of Chinese Gunpowder with YL Computing
-date: 2024-12-13T01:24:23.990Z
-updated: 2024-12-18T04:30:35.766Z
+date: 2024-12-26T01:51:05.110Z
+updated: 2024-12-27T01:58:39.100Z
 tags:
   - product
 categories:
@@ -56,22 +56,22 @@ By making these adjustments to your Windows 10 display settings, you can customi
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://video-capture.techidaily.com/new-in-2024-the-key-to-stellar-zoom-calls-smart-use-of-filters/"><u>[New] In 2024, The Key to Stellar Zoom Calls Smart Use of Filters</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/new-launch-your-clips-free-intro-downloads-for-2024/"><u>[New] Launch Your Clips Free Intro Downloads for 2024</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/updated-in-2024-integrating-facebook-video-into-home-screen-apps/"><u>[Updated] In 2024, Integrating Facebook Video Into Home Screen Apps</u></a></li>
-<li><a href="https://win-tips.techidaily.com/decoding-the-opium-war-a-chronological-breakdown-by-yl-software-experts/"><u>Decoding The Opium War: A Chronological Breakdown by YL Software Experts</u></a></li>
-<li><a href="https://win-tips.techidaily.com/easily-access-and-modify-windows-system-sounds-with-the-control-panel-tips-from-yl-software-experts/"><u>Easily Access and Modify Windows System Sounds with the Control Panel – Tips From YL Software Experts</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/te-views-with-optimal-youtube-thumbnails-and-ratios/"><u>Elevate Views with Optimal YouTube Thumbnails & Ratios</u></a></li>
-<li><a href="https://win-tips.techidaily.com/exploring-frequent-triggers-for-memory-lapses-as-explained-by-yl-software-experts/"><u>Exploring Frequent Triggers for Memory Lapses as Explained by YL Software Experts</u></a></li>
-<li><a href="https://howto.techidaily.com/full-guide-how-to-fix-connection-is-not-private-on-samsung-galaxy-m54-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Full Guide How To Fix Connection Is Not Private on Samsung Galaxy M54 5G | Dr.fone</u></a></li>
-<li><a href="https://win-tips.techidaily.com/hd-final-fantasy-vii-remastered-game-artwork-and-full-resolution-walls-high-quality-imagery-for-desktop-and-mobile-digital-art-gallery/"><u>HD Final Fantasy VII Remastered Game Artwork & Full-Resolution Walls: High-Quality Imagery for Desktop and Mobile - Digital Art Gallery</u></a></li>
-<li><a href="https://win-outstanding.techidaily.com/how-to-fix-projectsdll-crash-in-emeditor-an-in-depth-guide/"><u>How to Fix Projects.dll Crash in EmEditor: An In-Depth Guide</u></a></li>
-<li><a href="https://win-tips.techidaily.com/identifying-the-most-frequent-reasons-behind-network-card-malfunctions-expert-insights-by-yl-computing/"><u>Identifying the Most Frequent Reasons Behind Network Card Malfunctions - Expert Insights by YL Computing</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/in-2024-intense-immersion-with-closest-viewing-techniques-in-roblox/"><u>In 2024, Intense Immersion with Closest Viewing Techniques in Roblox</u></a></li>
-<li><a href="https://win-tips.techidaily.com/launching-your-own-ico-a-beginners-guide-with-yl-computing/"><u>Launching Your Own ICO: A Beginner's Guide with YL Computing</u></a></li>
-<li><a href="https://win-tips.techidaily.com/step-by-step-guide-removing-applications-on-your-pc-using-windows-10-tech-advice-by-yl-computing/"><u>Step-by-Step Guide: Removing Applications on Your PC Using Windows 10 - Tech Advice by YL Computing</u></a></li>
-<li><a href="https://win-tips.techidaily.com/uncovering-issues-detecting-absence-of-sound-card-in-system-playback-devices-expert-advice-from-yl-computers/"><u>Uncovering Issues: Detecting Absence of Sound Card in System Playback Devices – Expert Advice From YL Computers</u></a></li>
-<li><a href="https://ai-driven-video-production.techidaily.com/updated-make-me-laugh-top-10-meme-generation-apps-for-mobile-devices/"><u>Updated Make Me Laugh Top 10 Meme Generation Apps for Mobile Devices</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/windows-10-m4a-to-mp3/"><u>Windows 10 用の M4A to MP3 フリーコンバイナー - ステップバイステップガイド</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/new-asmr-a-sound-path-to-wellness/"><u>[New] ASMR A Sound Path to Wellness?</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/new-pureearaudioextractors-latest-evolution-for-2024/"><u>[New] PureEarAudioExtractor's Latest Evolution for 2024</u></a></li>
+<li><a href="https://article-posts.techidaily.com/updated-2024-approved-windows-movie-maker-6-unlocking-the-downloading-process/"><u>[Updated] 2024 Approved Windows Movie Maker 6 Unlocking the Downloading Process</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ed-youthful-youtube-ventures-crafting-creative-videos-on-a-mac-for-2024/"><u>[Updated] Youthful YouTube Ventures Crafting Creative Videos on a Mac for 2024</u></a></li>
+<li><a href="https://win-tips.techidaily.com/1-efficient-data-reduction-techniques-leveraging-aomei-backuppers-compression-features/"><u>1. Efficient Data Reduction Techniques: Leveraging AOMEI Backupper's Compression Features</u></a></li>
+<li><a href="https://win-tips.techidaily.com/1-iphone-update-failure-error-code-4000-a-step-by-step-guide-for-ios-version-7/"><u>1. IPhone Update Failure Error Code 4000: A Step-by-Step Guide for iOS Version 7</u></a></li>
+<li><a href="https://win-tips.techidaily.com/boot-file-installation-errors-fixed-in-acer-erecovery-utility-management-platform/"><u>Boot File Installation Errors Fixed in Acer ERecovery Utility Management Platform</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/building-connections-through-collaborative-playlists/"><u>Building Connections Through Collaborative Playlists</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/cutting-the-cord-with-cortana-disabling-copilot-on-your-windows-11-device/"><u>Cutting the Cord with Cortana: Disabling Copilot on Your Windows 11 Device</u></a></li>
+<li><a href="https://win-tips.techidaily.com/fehlerbehebung-windows-11-kann-nicht-installiertaktualisiert-werden-losungsansatze/"><u>Fehlerbehebung: Windows 11 Kann Nicht Installiert/Aktualisiert Werden - Lösungsansätze</u></a></li>
+<li><a href="https://win-tips.techidaily.com/how-to-fix-the-persistent-dreaded-xbox-problem-defeating-error-code-0x82d40003/"><u>How to Fix the Persistent Dreaded Xbox Problem: Defeating Error Code 0X82D40003</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-apply-these-techniques-to-improve-how-to-detect-fake-gps-location-on-motorola-moto-g04-drfone-by-drfone-virtual-android/"><u>In 2024, Apply These Techniques to Improve How to Detect Fake GPS Location On Motorola Moto G04 | Dr.fone</u></a></li>
+<li><a href="https://win-tips.techidaily.com/instagram-inhalte-wieder-aufleben-lassen-strategien-zum-wiederfinden-von-endgultig-entfernten-beitragen/"><u>Instagram-Inhalte Wieder Aufleben Lassen: Strategien Zum Wiederfinden Von Endgültig Entfernten Beiträgen</u></a></li>
+<li><a href="https://win-tips.techidaily.com/iphone-reparatur-losung-fur-itunes-fehler-beim-wiederherstellungsversuch-aufgrund-von-unzureichenden-speicherplatzoptionen-auf-dem-pc/"><u>IPhone-Reparatur: Lösung Für iTunes Fehler Beim Wiederherstellungsversuch Aufgrund Von Unzureichenden Speicherplatzoptionen Auf Dem PC</u></a></li>
+<li><a href="https://win-tips.techidaily.com/sichere-daten-mit-planvollem-verfahrensteilen-eine-anleitung-zur-effektiven-datensicherung/"><u>Sichere Daten Mit Planvollem Verfahrensteilen: Eine Anleitung Zur Effektiven Datensicherung</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/storystitcher-compelling-collage-for-instagram-users-for-2024/"><u>StoryStitcher Compelling Collage for Instagram Users for 2024</u></a></li>
+<li><a href="https://fox-http.techidaily.com/transforming-virtual-worlds-enhancing-spark-ar-with-custom-luts-for-2024/"><u>Transforming Virtual Worlds Enhancing Spark AR with Custom LUTs for 2024</u></a></li>
 </ul></div>
 

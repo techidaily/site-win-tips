@@ -1,7 +1,7 @@
 ---
 title: "New Release Alert: JammText 1.3 Upgrade - Discover the Latest Functional Improvements and Additions"
-date: 2024-12-20T03:44:14.131Z
-updated: 2024-12-27T05:25:38.267Z
+date: 2025-01-04T16:11:33.497Z
+updated: 2025-01-05T16:29:46.015Z
 tags:
   - product
 categories:
@@ -29,7 +29,7 @@ JammText allows DJs to interact with their audience while boosting your marketin
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Zgwn5kVI5V4?si=1j6j4OuSSndFieXU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ASUEYpqSP5E?si=0KOZxrTVexTuUkRn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Email to screen
@@ -37,7 +37,7 @@ JammText allows DJs to interact with their audience while boosting your marketin
 We are excited to announce that we have added a new email to screen function in JammText 1.3\. Your audience will now have the option of emailing a picture or message to the screen.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/T-ssCD10v2M?si=WVWGNayUiCAkMZzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9ECz3oZ8NrQ?si=86vkwkDJo9HQXpzt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Scan to screen
@@ -45,19 +45,23 @@ We are excited to announce that we have added a new email to screen function in 
 With the new email to screen feature we have also added an auto generated QR code. This QR code is randomly displayed on your screen instructing the audience to scan code to post pictures or messages to this screen. When the QR code is scanned it automatically opens the audience members email app with a composed email addressed to post on the JammText screen.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/W5aJC8okA8s?si=L2rnYAp-gmGlLQSf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/slm2NjVPNtk?si=9ow6g1ucmf0TnT4T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 64 bit and Mojave Support
 
 JammText is now 64 bit for Mac which improves its performance. Also, JammText is supported for the new macOS Mojave.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HaM818fFKXQ?si=ZZLA4lFSHSgCpSE0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Voting coming soon
 
 We are in the final stages of completing the highly requested Voting feature and will be releasing this update in the near future. Look out for that announcement coming soon.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0Kr7Dpw0HuM?si=05wWDXdPgmC-oBBE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U_aNKnMTPjo?si=Og_mEt7NP3Fbsg2n" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Instagram discontinued
@@ -66,10 +70,6 @@ Facebook has decided to make changes to their Instagram platform. These changes 
 Upgrade today for free to get the best version of JammText to date!
 
 [LEARN MORE ABOUT JAMMTEXT](https://tools.techidaily.com/pcdj/products/)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZblaBc-v2vs?si=CKW1gJwXQT2vZJYo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### _Related_
 
@@ -90,22 +90,22 @@ https://i0.wp.com/pcdj.com/wp-content/uploads/2018/12/jammtext-v13.jpg?fit=706%2
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-record-videos.techidaily.com/updated-in-2024-8-mistakes-to-avoid-as-a-new-youtuber/"><u>[Updated] In 2024, 8 Mistakes to Avoid as a New Youtuber</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/updated-visual-impact-blueprint-for-success-in-instagram-video-campaigns-for-2024/"><u>[Updated] Visual Impact Blueprint for Success in Instagram Video Campaigns for 2024</u></a></li>
-<li><a href="https://win-tips.techidaily.com/io0x80n7045d/"><u>「IOデバイスに関するエラー0x80n7045Dの詳細な解決手順」</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/boosting-your-projects-quality-using-chatgpt-tips-and-strategies/"><u>Boosting Your Project's Quality Using ChatGPT: Tips & Strategies</u></a></li>
-<li><a href="https://win-tips.techidaily.com/como-hacer-copias-de-seguridad-de-los-archivos-de-su-nube-home-en-una-memoria-externa-con-3-metodos-proporcionados/"><u>Cómo Hacer Copias De Seguridad De Los Archivos De Su Nube Home en Una Memoria Externa Con 3 Métodos Proporcionados</u></a></li>
-<li><a href="https://win-tips.techidaily.com/einfache-schutzmassnahmen-sichern-sie-ihre-daten-automatisch-mit-jedem-eingesteckten-usb-stick-facile-and-secure/"><u>Einfache Schutzmaßnahmen: Sichern Sie Ihre Daten Automatisch Mit Jedem Eingesteckten USB-Stick - Facile & Secure</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/ing-visibility-fixing-missing-shorts-thumbnails-for-2024/"><u>Ensuring Visibility Fixing Missing Shorts Thumbnails for 2024</u></a></li>
-<li><a href="https://win-tips.techidaily.com/fix-your-windows-server-2019-configuration-issues-with-eight-effective-solutions/"><u>Fix Your Windows Server 2019 Configuration Issues with Eight Effective Solutions</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/highlighted-best-free-efficient-3d-videos-player-software-for-2024/"><u>Highlighted Best Free, Efficient 3D Videos Player Software for 2024</u></a></li>
-<li><a href="https://driver-download.techidaily.com/how-to-update-your-mpow-bluetooth-driver-on-windows-11-8-or-7/"><u>How to Update Your MPOW Bluetooth Driver on Windows 11, 8 or 7</u></a></li>
-<li><a href="https://win-tips.techidaily.com/meet-holiday-yang-author-biography-and-insights/"><u>Meet Holiday Yang - Author Biography and Insights</u></a></li>
-<li><a href="https://smart-video-creator.techidaily.com/new-2024-approved-are-you-thinking-about-whether-or-not-you-should-get-your-hands-on-a-vn-video-editor-for-mac-read-the-article-to-know-about-the-vn-video-e/"><u>New 2024 Approved Are You Thinking About Whether or Not You Should Get Your Hands on a VN Video Editor for Mac? Read the Article to Know About the VN Video Editors Unique Features and some of Its Alternatives</u></a></li>
-<li><a href="https://win-tips.techidaily.com/quick-guide-installing-windows-1011-from-a-bootable-usb-stick/"><u>Quick Guide: Installing Windows 10/11 From a Bootable USB Stick</u></a></li>
-<li><a href="https://win-tips.techidaily.com/reviving-your-outlook-mailbox-two-secure-methods-to-recover-from-backups-without-losing-messages/"><u>Reviving Your Outlook Mailbox: Two Secure Methods to Recover From Backups Without Losing Messages</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/riding-high-with-smart-photochromic-shades-the-hud-revolution/"><u>Riding High with Smart Photochromic Shades - The HUD Revolution!</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/the-truth-about-the-tp-link-av1-cuffss-powerline-range-extender-not-quite-up-to-par/"><u>The Truth About the TP-Link AV1 Cuffs's Powerline Range Extender: Not Quite Up to Par</u></a></li>
-<li><a href="https://win-tips.techidaily.com/windows-11samsung-ssdssd/"><u>スムーズなデータ転送ガイド：Windows 11用にSamsung SSDを大容量SSDクローンする</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-facebooks-fabulous-video-showcase/"><u>[Updated] Facebook's Fabulous Video Showcase</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-in-2024-mastering-digital-vhs-image-modification-techniques/"><u>[Updated] In 2024, Mastering Digital VHS Image Modification Techniques</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-which-video-platform-suits-you-better-tiktok-or-youtube-shorts-for-2024/"><u>[Updated] Which Video Platform Suits You Better TikTok or YouTube Shorts for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-full-spectrum-physical-action-review/"><u>2024 Approved Full Spectrum Physical Action Review</u></a></li>
+<li><a href="https://win-tips.techidaily.com/diagnose-and-enhance-performance-of-lagging-windows-programs-with-proven-techniques-by-yl-software-specialists/"><u>Diagnose and Enhance Performance of Lagging Windows Programs with Proven Techniques by YL Software Specialists</u></a></li>
+<li><a href="https://win-tips.techidaily.com/effective-strategies-for-diagnosing-and-fixing-sound-card-problems-tips-from-yl-software/"><u>Effective Strategies for Diagnosing and Fixing Sound Card Problems - Tips From YL Software</u></a></li>
+<li><a href="https://win-tips.techidaily.com/ensuring-peak-graphics-card-efficiency-with-yl-software-essentials/"><u>Ensuring Peak Graphics Card Efficiency with YL Software Essentials</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-track-samsung-galaxy-s24-ultra-by-phone-number-drfone-by-drfone-virtual-android/"><u>In 2024, How to Track Samsung Galaxy S24 Ultra by Phone Number | Dr.fone</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-the-comprehensive-guide-to-superior-recordings-in-audacity/"><u>In 2024, The Comprehensive Guide to Superior Recordings in Audacity</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-ultimate-guide-from-nokia-105-classic-frp-bypass-by-drfone-android/"><u>In 2024, Ultimate Guide from Nokia 105 Classic FRP Bypass</u></a></li>
+<li><a href="https://win-tips.techidaily.com/mastering-profit-measurement-in-crypto-trading-a-guide-by-yl-computing/"><u>Mastering Profit Measurement in Crypto Trading: A Guide by YL Computing</u></a></li>
+<li><a href="https://win-tips.techidaily.com/resolving-no-audio-output-expert-guide-to-diagnosing-a-malfunctioning-sound-card-yl-computing-tutorial/"><u>Resolving No Audio Output: Expert Guide to Diagnosing a Malfunctioning Sound Card - YL Computing Tutorial</u></a></li>
+<li><a href="https://win-tips.techidaily.com/solving-pc-hardware-conflict-issues-a-step-by-step-guide-learn-with-yl-expert-computer-repair-techniques/"><u>Solving PC Hardware Conflict Issues: A Step-by-Step Guide - Learn with YL | Expert Computer Repair Techniques</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/the-ultimate-guide-to-archiving-ai-conversations/"><u>The Ultimate Guide to Archiving AI Conversations</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/the-ultimate-guide-4-must-have-tools-for-following-and-participating-in-twitter-hashtag-chats/"><u>The Ultimate Guide: 4 Must-Have Tools for Following and Participating in Twitter Hashtag Chats</u></a></li>
+<li><a href="https://win-tips.techidaily.com/troubleshooting-guide-solving-the-mystery-of-silent-speakers-tech-insights-with-yl-computing/"><u>Troubleshooting Guide: Solving the Mystery of Silent Speakers - Tech Insights with YL Computing</u></a></li>
+<li><a href="https://win-tips.techidaily.com/yl-computings-comprehensive-tutorial-to-remove-several-windows-files-at-once/"><u>YL Computing's Comprehensive Tutorial to Remove Several Windows Files at Once</u></a></li>
 </ul></div>
 

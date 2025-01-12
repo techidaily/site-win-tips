@@ -1,7 +1,7 @@
 ---
 title: "Técnicas Gratuitas Para Transferir Archivos Entre Servidores: Una Guía Completa"
-date: 2024-12-25T01:47:03.356Z
-updated: 2024-12-27T00:12:05.188Z
+date: 2025-01-10T17:03:34.396Z
+updated: 2025-01-12T03:11:18.890Z
 categories:
   - AOMEI-Backuper
 thumbnail: https://thmb.techidaily.com/bbd88c517a72e9ebb4f977c94404d584a269beabb937398b9573ea9432863248.jpg
@@ -19,7 +19,7 @@ thumbnail: https://thmb.techidaily.com/bbd88c517a72e9ebb4f977c94404d584a269beabb
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GU08CQVsZz0?si=V-SvPfzRsQysMS0e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UCqHbpxQGP4?si=XGkajFHdqyoKNAFM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Logiciel de sauvegarde NAS Buffalo le plus efficace ! \[Guide inclus\]
@@ -27,6 +27,10 @@ thumbnail: https://thmb.techidaily.com/bbd88c517a72e9ebb4f977c94404d584a269beabb
 Vous obtiendrez le logiciel de sauvegarde NAS Buffalo le plus simple pour Windows 11/10/8/7/XP/Vista. Apprenez à l'utiliser pour sauvegarder automatiquement des fichiers en quelques étapes simples.
 
 ![Aurore](https://www.ubackup.com/assets/images/author/aurore.png) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gOyLy8DeizY?si=GkAmK0hChZw6_2tW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Par[Aurore](https://tools.techidaily.com/ubackup/products/)Publié le 26/06/2024
 
@@ -77,10 +81,6 @@ Avant de commencer à sauvegarder des fichiers avec le logiciel de sauvegarde NA
 
 [![sauvegarde de fichiers](https://www.ubackup.com/fr/articles/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/fr/std/backup/sauvegarder/sauvegarde-fichier/sauvegarde-de-fichiers.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kx-Pb0otJCs?si=Mvr49yQVesmJA8-O" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Vous pouvez également choisir _Sauvegarde de disque_ et _Sauvegarde de partition_. Si vous souhaitez sauvegarder le système sur le NAS Buffalo, essayez la fonctionnalité de [Sauvegarde système](https://tools.techidaily.com/ubackup/products/).
 
 **Étape 2.** Sélectionnez les fichiers ou les dossiers sur le lecteur NAS Buffalo.
@@ -90,7 +90,7 @@ Tout d'abord, cliquez sur **Ajouter un dossier** ou **Ajouter un fichier** sur l
 [![ajouter un fichier ou un dossier](https://www.ubackup.com/fr/articles/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/fr/std/backup/sauvegarder/sauvegarde-fichier/ajouter-dossier-fichier.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_dOmuXhsV6Y?si=aT6vgPbDx4ajjvdr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Nyp7-xVwqHA?si=XCuZbpKLFIdrGQQh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Cliquez sur **Share/NAS** pour ouvrir la fenêtre suivante.
@@ -98,12 +98,16 @@ Cliquez sur **Share/NAS** pour ouvrir la fenêtre suivante.
 [![share/nas](https://www.ubackup.com/fr/articles/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/fr/std/backup/sauvegarder/sauvegarde-fichier/ouvrir.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JMgRzDANfSQ?si=NDy01ntXGGOi1Uxs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SgRVYjqB70s?si=My_2cDvJVdincQRu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Ensuite, cliquez sur **Ajouter un périphérique Share ou NAS**, saisissez le nom d'affichage, l'adresse IP, le nom d'utilisateur et le mot de passe pour connecter votre espace de stockage NAS Buffalo. Double-cliquez ensuite dessus dans le volet de gauche et sélectionnez ce que vous souhaitez sauvegarder dans la liste de droite.
 
 [![ajouter périphérique share ou nas](https://www.ubackup.com/fr/articles/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/fr/std/backup/sauvegarder/sauvegarde-fichier/emplacement-reseau.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nmj7aVvEeAs?si=OcR7USXKGyLcn09q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **Étape 3.** Cliquez là où la flèche pointe et sélectionnez le disque externe préparé comme destination.
 
@@ -114,7 +118,7 @@ Ensuite, cliquez sur **Ajouter un périphérique Share ou NAS**, saisissez le no
 [![mode planifier](https://www.ubackup.com/fr/articles/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/fr/std/backup/sauvegarder/mode-planifier.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PD0vq5qAYkw?si=5H3KWtCfUOYg1Nlv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aIx71tPaWKg?si=lG5OiUe-M6eBJf5b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Par défaut, ce logiciel créera une sauvegarde complète et 6 sauvegardes incrémentielles si vous définissez une tâche de sauvegarde planifiée. Cela peut entraîner un problème d'espace disque plein à long terme, il est donc recommandé d'activer le [Plan de sauvegarde](https://tools.techidaily.com/ubackup/products/) et de supprimer automatiquement les fichiers de sauvegarde. Pour profiter de ces fonctions, passez à l'édition [Professional](https://tools.techidaily.com/ubackup/products/).
@@ -144,10 +148,6 @@ Les informations fournies sont-elles utiles ? Votre vote compte beaucoup pour no
 [Aurore](https://tools.techidaily.com/ubackup/products/) · Éditeur
 
 Éditrice senior d'AOMEI Technology qui rédige principalement des articles sur la sauvegarde, la synchronisation, le clonage et la restauration de l'ordinateur, tout dans le but de proposer des solutions simples aux utilisateurs pour protéger les données de leur ordinateur. Grâce à ses expertises informatiques, elle propose souvent des astuces très utiles.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3UyJuZYzjt0?si=W87GeyzVKVORAk7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Autres articles connexes
 
@@ -180,7 +180,7 @@ Protégez toutes les données de votre ordinateur avec la sauvegarde, la synchro
 ![](https://www.ubackup.com/resource/images/ab-theme/ub-article-ab-medium-img-pc@2x.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/y3VlwHTQQMs?si=BXYwD1pKiaTuev4y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fZTlPdOFNmo?si=Ym8p7ayV1gtNzzXj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 <ins class="adsbygoogle"
@@ -198,20 +198,21 @@ Protégez toutes les données de votre ordinateur avec la sauvegarde, la synchro
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-links.techidaily.com/new-from-social-media-sound-to-personal-melody-an-in-depth-guide/"><u>[New] From Social Media Sound to Personal Melody - An In-Depth Guide</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/new-introduce-audible-elements-seamlessly-to-premiere-pro/"><u>[New] Introduce Audible Elements Seamlessly to Premiere Pro</u></a></li>
-<li><a href="https://win-tips.techidaily.com/effective-strategies-for-diagnosing-and-fixing-sound-card-problems-tips-from-yl-software/"><u>Effective Strategies for Diagnosing and Fixing Sound Card Problems - Tips From YL Software</u></a></li>
-<li><a href="https://win-tips.techidaily.com/ensuring-peak-graphics-card-efficiency-with-yl-software-essentials/"><u>Ensuring Peak Graphics Card Efficiency with YL Software Essentials</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/how-to-turn-off-google-location-to-stop-tracking-you-on-vivo-s17e-drfone-by-drfone-virtual-android/"><u>How to Turn Off Google Location to Stop Tracking You on Vivo S17e | Dr.fone</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/in-2024-paving-the-way-to-a-more-engaging-profile-adding-linktree-on-tiktok/"><u>In 2024, Paving the Way to a More Engaging Profile Adding Linktree on TikTok</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/instagram-video-collage-app-for-androidandios-for-2024/"><u>Instagram Video Collage App for Android&iOS for 2024</u></a></li>
-<li><a href="https://win-tips.techidaily.com/mastering-profit-measurement-in-crypto-trading-a-guide-by-yl-computing/"><u>Mastering Profit Measurement in Crypto Trading: A Guide by YL Computing</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/picture-by-picture-insta-gallery/"><u>Picture by Picture Insta Gallery</u></a></li>
-<li><a href="https://win-tips.techidaily.com/solving-pc-hardware-conflict-issues-a-step-by-step-guide-learn-with-yl-expert-computer-repair-techniques/"><u>Solving PC Hardware Conflict Issues: A Step-by-Step Guide - Learn with YL | Expert Computer Repair Techniques</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/streamlining-your-screen-share-experience-with-meet/"><u>Streamlining Your Screen Share Experience with Meet</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/top-10-telegram-spy-tools-on-tecno-spark-20-proplus-for-parents-drfone-by-drfone-virtual-android/"><u>Top 10 Telegram Spy Tools On Tecno Spark 20 Pro+ for Parents | Dr.fone</u></a></li>
-<li><a href="https://win-tips.techidaily.com/troubleshooting-guide-solving-the-mystery-of-silent-speakers-tech-insights-with-yl-computing/"><u>Troubleshooting Guide: Solving the Mystery of Silent Speakers - Tech Insights with YL Computing</u></a></li>
-<li><a href="https://win-tips.techidaily.com/uncover-the-top-reasons-behind-computer-hardware-failures-insights-by-yl-computing/"><u>Uncover the Top Reasons Behind Computer Hardware Failures - Insights by YL Computing</u></a></li>
-<li><a href="https://techidaily.com/use-device-manager-to-identify-missing-or-malfunctioning-your-hardware-drivers-with-windows-device-manager-in-windows-11-by-drivereasy-guide/"><u>Use Device Manager to identify missing or malfunctioning your hardware drivers with Windows Device Manager in Windows 11</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-2024-approved-precision-in-screen-recording-a-comprehensively-reviewed-list/"><u>[New] 2024 Approved Precision in Screen Recording A Comprehensively Reviewed List</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/updated-from-collection-to-showstopper-editing-techniques-for-hauls/"><u>[Updated] From Collection to Showstopper Editing Techniques for Hauls</u></a></li>
+<li><a href="https://win-tips.techidaily.com/windows-hotmail/"><u>適用於 Windows系统：专为 Hotmail 设计的免费最高效备份解决方案</u></a></li>
+<li><a href="https://win-tips.techidaily.com/windows-aomei-backupper/"><u>最強のWindows データ保護：AOMEI Backupperバックアップ・同期ツール</u></a></li>
+<li><a href="https://discover-deluxe.techidaily.com/comprehensive-step-by-step-mastering-the-art-of-running-sysprep-on-windows-server-2022/"><u>Comprehensive Step-by-Step: Mastering the Art of Running Sysprep on Windows Server 2022</u></a></li>
+<li><a href="https://win-tips.techidaily.com/decoding-the-role-of-log-files-in-vmware-vcenter-unpacking-access-and-backup-records/"><u>Decoding the Role of Log Files in VMware vCenter: Unpacking Access & Backup Records</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-resolve-nokia-c300-screen-not-working-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Resolve Nokia C300 Screen Not Working | Dr.fone</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-ifunny-meme-seamless-download-and-enjoyment/"><u>In 2024, IFunny Meme Seamless Download and Enjoyment</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-top-imei-unlokers-for-apple-iphone-12-and-android-phones-by-drfone-ios/"><u>In 2024, Top IMEI Unlokers for Apple iPhone 12 and Android Phones</u></a></li>
+<li><a href="https://win-tips.techidaily.com/master-the-move-5-key-steps-for-successfully-shifting-data-to-your-fresh-ipad/"><u>Master the Move: 5 Key Steps for Successfully Shifting Data to Your Fresh iPad</u></a></li>
+<li><a href="https://win-able.techidaily.com/step-by-step-guide-to-resolving-stutter-in-counter-strike-global-offensive-games/"><u>Step-by-Step Guide to Resolving Stutter in Counter-Strike: Global Offensive Games</u></a></li>
+<li><a href="https://win-tips.techidaily.com/step-by-step-guide-transferring-your-messages-from-icloud-to-iphonepc/"><u>Step-by-Step Guide: Transferring Your Messages From iCloud to iPhone/PC</u></a></li>
+<li><a href="https://win-tips.techidaily.com/story-for-answer-b-58000-psi-396-mpa/"><u>Story for Answer B: 58,000 Psi (396 MPa)</u></a></li>
+<li><a href="https://facebook.techidaily.com/techniques-for-effective-group-communication-on-facebook/"><u>Techniques for Effective Group Communication on Facebook</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/the-inconspicuous-footprint-of-social-media-engagements/"><u>The Inconspicuous Footprint of Social Media Engagements</u></a></li>
+<li><a href="https://win-tips.techidaily.com/trojan-dropper-explained-identification-and-eradication-techniques-with-insights-from-malwarefox/"><u>Trojan Dropper Explained: Identification & Eradication Techniques with Insights From MalwareFox</u></a></li>
 </ul></div>
 

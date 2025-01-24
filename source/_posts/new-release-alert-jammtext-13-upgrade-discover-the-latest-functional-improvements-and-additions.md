@@ -1,7 +1,7 @@
 ---
 title: "New Release Alert: JammText 1.3 Upgrade - Discover the Latest Functional Improvements and Additions"
-date: 2025-01-12T16:24:12.326Z
-updated: 2025-01-17T20:09:02.558Z
+date: 2025-01-22T18:50:58.747Z
+updated: 2025-01-24T01:01:53.436Z
 tags:
   - product
 categories:
@@ -29,19 +29,23 @@ JammText allows DJs to interact with their audience while boosting your marketin
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RCYs8keh-Vs?si=uDC28-9yh-k6HLj4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HtM7d4dpN1I?si=2vN_xgVGD4eYGORu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Email to screen
 
 We are excited to announce that we have added a new email to screen function in JammText 1.3\. Your audience will now have the option of emailing a picture or message to the screen.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vEYkX2NJgZw?si=IaHqlqJcYipwUOht" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Scan to screen
 
 With the new email to screen feature we have also added an auto generated QR code. This QR code is randomly displayed on your screen instructing the audience to scan code to post pictures or messages to this screen. When the QR code is scanned it automatically opens the audience members email app with a composed email addressed to post on the JammText screen.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/htnQWyEOCgc?si=fy86hi8_hTtbWAnw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kx-Pb0otJCs?si=Mvr49yQVesmJA8-O" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 64 bit and Mojave Support
@@ -49,16 +53,12 @@ With the new email to screen feature we have also added an auto generated QR cod
 JammText is now 64 bit for Mac which improves its performance. Also, JammText is supported for the new macOS Mojave.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/58KlTPHv8dU?si=7ICagyNgrao7OkVO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6X24fPKs6AE?si=YtQy-8zy7GifgfA7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Voting coming soon
 
 We are in the final stages of completing the highly requested Voting feature and will be releasing this update in the near future. Look out for that announcement coming soon.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/lxv4NM-89CU?si=Uj5rOkhrwZ_6QIuW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Instagram discontinued
 
@@ -68,7 +68,7 @@ Upgrade today for free to get the best version of JammText to date!
 [LEARN MORE ABOUT JAMMTEXT](https://tools.techidaily.com/pcdj/products/)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Zgwn5kVI5V4?si=1j6j4OuSSndFieXU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xa2_mFu-obA?si=_xDGF1pv-dnuaDOr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -90,16 +90,18 @@ https://i0.wp.com/pcdj.com/wp-content/uploads/2018/12/jammtext-v13.jpg?fit=706%2
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://vp-tips.techidaily.com/new-nightly-narratives-analyzing-video-based-storytelling-for-2024/"><u>[New] Nightly Narratives Analyzing Video-Based Storytelling for 2024</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/ed-instructions-clearing-stored-videos-on-youtubes-watchlater/"><u>[Updated] Instructions Clearing Stored Videos on YouTube's Watchlater</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/updated-unblocking-video-sharing-how-to-solve-fb-chat-issues-for-iphonesandroid/"><u>[Updated] Unblocking Video Sharing How to Solve FB Chat Issues for iPhones/Android</u></a></li>
-<li><a href="https://win-tips.techidaily.com/1728473266476-windows-11/"><u>「Windows 11」で効果的なシステム復元ポイントの再構築方法</u></a></li>
-<li><a href="https://howto.techidaily.com/6-solutions-to-fix-error-505-in-google-play-store-on-nokia-c22-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>6 Solutions to Fix Error 505 in Google Play Store on Nokia C22 | Dr.fone</u></a></li>
-<li><a href="https://win-tips.techidaily.com/7-proven-strategies-to-resolve-backup-location-unavailable-error/"><u>7 Proven Strategies to Resolve 'Backup Location Unavailable' Error</u></a></li>
-<li><a href="https://win-tips.techidaily.com/comment-restaurer-le-systeme-sous-pc-windows-xp-un-guide-etape-par-etape/"><u>Comment Restaurer Le Système Sous PC Windows XP : Un Guide Étape Par Étape</u></a></li>
-<li><a href="https://games-able.techidaily.com/elite-144hz-ultrawide-displays-for-immersive-games/"><u>Elite 144Hz Ultrawide Displays for Immersive Games</u></a></li>
-<li><a href="https://win-tips.techidaily.com/guia-completa-clonar-discos-hdd-a-ssd-mediante-uefi-en-sistemas-windows-versiones-7-8-y-10/"><u>Guía Completa: Clonar Discos HDD a SSD Mediante UEFI en Sistemas Windows (Versiones 7, 8 Y 10)</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/instant-access-windows-photos-view-for-2024/"><u>Instant Access Windows Photos View for 2024</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/navigating-and-utilizing-preview-for-mac-efficiently/"><u>Navigating and Utilizing Preview for Mac Efficiently</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-2024-approved-top-8-easy-and-safe-video-call-options-for-enterprises/"><u>[New] 2024 Approved Top 8 Easy and Safe Video Call Options for Enterprises</u></a></li>
+<li><a href="https://extra-information.techidaily.com/new-begin-with-class-in-every-screen-best-intro-editor-app/"><u>[New] Begin with Class in Every Screen Best Intro Editor App</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ed-enhance-your-yt-summary-top-notch-template-guides/"><u>[Updated] Enhance Your YT Summary Top-Notch Template Guides</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-high-definition-screen-memory-tools-for-2024/"><u>[Updated] High Definition Screen Memory Tools for 2024</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-zd-soft-an-in-depth-guide-to-capture-record-and-edit-videos-for-2024/"><u>[Updated] ZD Soft An In-Depth Guide to Capture, Record & Edit Videos for 2024</u></a></li>
+<li><a href="https://driver-download.techidaily.com/canon-all-in-one-printer-mf743cdw-software-for-windows-download-guide/"><u>Canon All-in-One Printer MF743CDW Software for Windows: Download Guide</u></a></li>
+<li><a href="https://win-tips.techidaily.com/comment-effacer-tous-les-dossiers-de-windows-avec-linvite-de-commandes-sur-windows-11-10-8-et-7/"><u>Comment Effacer Tous Les Dossiers De Windows Avec L'Invite De Commandes Sur Windows 11, 10, 8 Et 7</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/diagnosing-and-correcting-problems-with-windows-pc-maintenance-application/"><u>Diagnosing and Correcting Problems with Windows PC Maintenance Application</u></a></li>
+<li><a href="https://win-tips.techidaily.com/how-to-locate-your-most-recent-file-downloads-across-different-windows-versions-windows-11-8-7/"><u>How to Locate Your Most Recent File Downloads Across Different Windows Versions (Windows 11, 8, 7)</u></a></li>
+<li><a href="https://win-tips.techidaily.com/i-migliori-programmi-di-backup-email-una-guida-completa/"><u>I Migliori Programmi Di Backup Email: Una Guida Completa</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-changeadd-location-filters-on-snapchat-for-your-apple-iphone-se-2020-drfone-by-drfone-virtual-ios/"><u>In 2024, How to Change/Add Location Filters on Snapchat For your Apple iPhone SE (2020) | Dr.fone</u></a></li>
+<li><a href="https://win-tips.techidaily.com/sicherstellen-sie-den-schutz-ihrer-iphone-kontakte-im-icloud-2-essentielle-schritte/"><u>Sicherstellen Sie Den Schutz Ihrer iPhone-Kontakte Im iCloud - 2 Essentielle Schritte</u></a></li>
+<li><a href="https://win-tips.techidaily.com/wiederholen-von-daten-aus-einem-formatierten-usb-stick-schritt-fur-schritt-anleitung/"><u>Wiederholen Von Daten Aus Einem Formatierten USB-Stick: Schritt-Für-Schritt-Anleitung</u></a></li>
 </ul></div>
 

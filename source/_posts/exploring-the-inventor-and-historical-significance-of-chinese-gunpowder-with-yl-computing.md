@@ -1,7 +1,7 @@
 ---
 title: Exploring the Inventor and Historical Significance of Chinese Gunpowder with YL Computing
-date: 2025-01-11T19:55:45.934Z
-updated: 2025-01-17T17:37:42.224Z
+date: 2025-01-21T20:10:55.129Z
+updated: 2025-01-24T02:04:08.502Z
 tags:
   - product
 categories:
@@ -32,7 +32,7 @@ The Windows 10 display settings allow you to change the appearance of your deskt
 By making these adjustments to your Windows 10 display settings, you can customize your desktop to fit your personal preference. Additionally, these settings can help improve the clarity of your monitor for a better viewing experience.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/465CTOm8om0?si=63RxowNMCFA4fPUa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xa2_mFu-obA?si=_xDGF1pv-dnuaDOr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Post navigation
@@ -56,24 +56,24 @@ By making these adjustments to your Windows 10 display settings, you can customi
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-friendly.techidaily.com/new-serene-soundtracks-copyright-free-legal-meditation-music/"><u>[New] Serene Soundtracks – Copyright-Free, Legal Meditation Music</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/updated-front-rows-of-recreation-beyond-the-sports-arena/"><u>[Updated] Front Rows of Recreation Beyond the Sports Arena</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/updated-guide-on-turning-dynamic-hdr-on-in-windows-11/"><u>[Updated] Guide on Turning Dynamic HDR on in Windows 11</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/updated-in-2024-from-recording-to-revealing-uploading-high-quality-vr-on-fb/"><u>[Updated] In 2024, From Recording to Revealing Uploading High-Quality VR on FB</u></a></li>
-<li><a href="https://win-tips.techidaily.com/8-solutions-cles-pour-le-dysfonctionnement-du-pilotage-de-windows-11-pourquoi-votre-peripherique-nest-pas-pret/"><u>8 Solutions Clés Pour Le Dysfonctionnement Du Pilotage De Windows 11: Pourquoi Votre Périphérique N'est Pas Prêt?</u></a></li>
-<li><a href="https://win-tips.techidaily.com/1728505084251-microsoft-word/"><u>立即解決方案：如何在Microsoft Word中成功保存檔案？</u></a></li>
-<li><a href="https://win-tips.techidaily.com/win11-lenovo/"><u>詳解如何損修Win11 Lenovo硬碟分割問題 - 教程</u></a></li>
-<li><a href="https://win-tips.techidaily.com/comment-reinitialiser-le-mode-de-restauration-sur-un-pc-avec-windows-11/"><u>Comment Réinitialiser Le Mode De Restauration Sur Un PC Avec Windows 11?</u></a></li>
-<li><a href="https://win-tips.techidaily.com/comprehensive-robocopy-tutorial-one-directional-copying-methods-and-top-open-source-solutions/"><u>Comprehensive Robocopy Tutorial: One-Directional Copying Methods and Top Open Source Solutions</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/discovering-gpts-present-working-state/"><u>Discovering GPT's Present Working State</u></a></li>
-<li><a href="https://win-tips.techidaily.com/easy-data-recovery-guide-for-usb-flash-drives-free-download/"><u>Easy Data Recovery Guide for USB Flash Drives - Free Download</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/experts-choice-best-practices-for-vimeo-video-download/"><u>Expert's Choice Best Practices for Vimeo Video Download</u></a></li>
-<li><a href="https://win-tips.techidaily.com/fixing-windows-boot-issues-solutions-when-the-system-cant-launch/"><u>Fixing Windows Boot Issues: Solutions When the System Can't Launch</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/icloud-note-integration-into-linux-systems-steps-and-strategies/"><u>ICloud Note Integration Into Linux Systems: Steps & Strategies</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-how-to-changefake-your-vivo-y27-4g-location-on-viber-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change/Fake Your Vivo Y27 4G Location on Viber | Dr.fone</u></a></li>
-<li><a href="https://win-tips.techidaily.com/step-by-step-guide-generating-a-recovery-drive-in-windows-10/"><u>Step-by-Step Guide: Generating a Recovery Drive in Windows 10</u></a></li>
-<li><a href="https://facebook.techidaily.com/the-virtual-village-negative-effects-on-our-digital-town/"><u>The Virtual Village: Negative Effects on Our Digital Town</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/top-editors-secret-best-free-premiere-pro-resources/"><u>Top Editors' Secret Best FREE Premiere Pro Resources</u></a></li>
-<li><a href="https://win-tips.techidaily.com/tracking-down-lost-or-deletes-my-saved-preferences-in-the-edge-browser-a-guide/"><u>Tracking Down Lost or Deletes My Saved Preferences in the Edge Browser - A Guide</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/new-effortless-memes-using-kinemaster-101/"><u>[New] Effortless Memes Using KineMaster 101</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-in-2024-in-depth-app-investigation-via-az-screen-recorder/"><u>[New] In 2024, In-Depth App Investigation via AZ Screen Recorder</u></a></li>
+<li><a href="https://fox-http.techidaily.com/new-insta-wow-moments-7-must-follow-strategies-for-striking-reels-for-2024/"><u>[New] Insta-Wow Moments 7 Must-Follow Strategies for Striking Reels for 2024</u></a></li>
+<li><a href="https://win-tips.techidaily.com/hdd-google/"><u>外付けHDDを対象にする東芝の改良手順 - Googleで検索</u></a></li>
+<li><a href="https://win-tips.techidaily.com/discovering-the-power-of-seagate-blackarmor-a-guide-to-cost-effective-data-protection/"><u>Discovering the Power of Seagate BlackArmor: A Guide to Cost-Effective Data Protection</u></a></li>
+<li><a href="https://win-tips.techidaily.com/enabling-hyper-vs-remote-administration-capabilities-a-comprehensive-tutorial/"><u>Enabling Hyper-V's Remote Administration Capabilities – A Comprehensive Tutorial</u></a></li>
+<li><a href="https://fox-http.techidaily.com/evaluating-m1s-capabilities-for-heavy-duty-media-editing/"><u>Evaluating M1's Capabilities for Heavy-Duty Media Editing</u></a></li>
+<li><a href="https://win-tips.techidaily.com/fix-your-windows-server-2019-configuration-issues-with-eight-effective-solutions/"><u>Fix Your Windows Server 2019 Configuration Issues with Eight Effective Solutions</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/flip-your-tunes-with-ease-discover-how-movavi-enables-forward-and-backward-audio-playback/"><u>Flip Your Tunes with Ease - Discover How Movavi Enables Forward and Backward Audio Playback</u></a></li>
+<li><a href="https://games-able.techidaily.com/graphic-inputs-in-rhythm-games-best-choice/"><u>Graphic Inputs in Rhythm Games: Best Choice?</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-recover-files-after-iphone-6s-plus-factory-reset-stellar-by-stellar-data-recovery-ios-iphone-data-recovery/"><u>How to Recover Files after iPhone 6s Plus Factory Reset? | Stellar</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/in-2024-instant-restoration-for-missing-snaps/"><u>In 2024, Instant Restoration for Missing Snaps</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/integrating-wifi-into-your-home-cinema-a-step-by-step-guide/"><u>Integrating WiFi Into Your Home Cinema: A Step-by-Step Guide</u></a></li>
+<li><a href="https://win-tips.techidaily.com/procedes-pour-recuperer-la-cle-de-chiffrement-48-caracteres-bitlocker-guide-complet/"><u>Procédés Pour Récupérer La Clé De Chiffrement 48 Caractères BitLocker : Guide Complet</u></a></li>
+<li><a href="https://win-tips.techidaily.com/quick-guide-installing-windows-1011-from-a-bootable-usb-stick/"><u>Quick Guide: Installing Windows 10/11 From a Bootable USB Stick</u></a></li>
+<li><a href="https://win-tips.techidaily.com/reviving-your-outlook-mailbox-two-secure-methods-to-recover-from-backups-without-losing-messages/"><u>Reviving Your Outlook Mailbox: Two Secure Methods to Recover From Backups Without Losing Messages</u></a></li>
+<li><a href="https://win-tips.techidaily.com/tutorial-passo-per-passo-sulla-clonazione-della-partizione-del-disco-rigido-e-dei-volumi-secondari/"><u>Tutorial Passo per Passo Sulla Clonazione Della Partizione Del Disco Rigido E Dei Volumi Secondari</u></a></li>
+<li><a href="https://win-tips.techidaily.com/ultimate-step-by-step-tutorial-on-performing-a-clean-system-restore-on-windows-10/"><u>Ultimate Step-by-Step Tutorial on Performing a Clean System Restore on Windows 10</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/k-youtubes-best-viewing-experience-with-ratios-for-2024/"><u>Unlock YouTube's Best Viewing Experience with Ratios for 2024</u></a></li>
 </ul></div>
 

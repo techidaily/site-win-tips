@@ -1,7 +1,7 @@
 ---
 title: "New Release Alert: JammText 1.3 Upgrade - Discover the Latest Functional Improvements and Additions"
-date: 2025-01-22T18:50:58.747Z
-updated: 2025-01-24T01:01:53.436Z
+date: 2025-01-24T16:32:05.879Z
+updated: 2025-01-31T16:25:03.086Z
 tags:
   - product
 categories:
@@ -29,7 +29,7 @@ JammText allows DJs to interact with their audience while boosting your marketin
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HtM7d4dpN1I?si=2vN_xgVGD4eYGORu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SgRVYjqB70s?si=My_2cDvJVdincQRu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Email to screen
@@ -37,7 +37,7 @@ JammText allows DJs to interact with their audience while boosting your marketin
 We are excited to announce that we have added a new email to screen function in JammText 1.3\. Your audience will now have the option of emailing a picture or message to the screen.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vEYkX2NJgZw?si=IaHqlqJcYipwUOht" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pejPLJBLmXw?si=WD97jA3doqbMCkCX" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Scan to screen
@@ -45,7 +45,7 @@ We are excited to announce that we have added a new email to screen function in 
 With the new email to screen feature we have also added an auto generated QR code. This QR code is randomly displayed on your screen instructing the audience to scan code to post pictures or messages to this screen. When the QR code is scanned it automatically opens the audience members email app with a composed email addressed to post on the JammText screen.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kx-Pb0otJCs?si=Mvr49yQVesmJA8-O" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/97ydpSmzTJw?si=tFcelmtQX4u-b3u5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 64 bit and Mojave Support
@@ -53,7 +53,7 @@ With the new email to screen feature we have also added an auto generated QR cod
 JammText is now 64 bit for Mac which improves its performance. Also, JammText is supported for the new macOS Mojave.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6X24fPKs6AE?si=YtQy-8zy7GifgfA7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/szUqw4TLvWs?si=srv1OeLOe579gLwj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Voting coming soon
@@ -68,7 +68,7 @@ Upgrade today for free to get the best version of JammText to date!
 [LEARN MORE ABOUT JAMMTEXT](https://tools.techidaily.com/pcdj/products/)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Xa2_mFu-obA?si=_xDGF1pv-dnuaDOr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_7AYCS7zBU0?si=7R9oIpE4hyEbtk3x" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -90,18 +90,16 @@ https://i0.wp.com/pcdj.com/wp-content/uploads/2018/12/jammtext-v13.jpg?fit=706%2
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-video-capture.techidaily.com/new-2024-approved-top-8-easy-and-safe-video-call-options-for-enterprises/"><u>[New] 2024 Approved Top 8 Easy and Safe Video Call Options for Enterprises</u></a></li>
-<li><a href="https://extra-information.techidaily.com/new-begin-with-class-in-every-screen-best-intro-editor-app/"><u>[New] Begin with Class in Every Screen Best Intro Editor App</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/ed-enhance-your-yt-summary-top-notch-template-guides/"><u>[Updated] Enhance Your YT Summary Top-Notch Template Guides</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/updated-high-definition-screen-memory-tools-for-2024/"><u>[Updated] High Definition Screen Memory Tools for 2024</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/updated-zd-soft-an-in-depth-guide-to-capture-record-and-edit-videos-for-2024/"><u>[Updated] ZD Soft An In-Depth Guide to Capture, Record & Edit Videos for 2024</u></a></li>
-<li><a href="https://driver-download.techidaily.com/canon-all-in-one-printer-mf743cdw-software-for-windows-download-guide/"><u>Canon All-in-One Printer MF743CDW Software for Windows: Download Guide</u></a></li>
-<li><a href="https://win-tips.techidaily.com/comment-effacer-tous-les-dossiers-de-windows-avec-linvite-de-commandes-sur-windows-11-10-8-et-7/"><u>Comment Effacer Tous Les Dossiers De Windows Avec L'Invite De Commandes Sur Windows 11, 10, 8 Et 7</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/diagnosing-and-correcting-problems-with-windows-pc-maintenance-application/"><u>Diagnosing and Correcting Problems with Windows PC Maintenance Application</u></a></li>
-<li><a href="https://win-tips.techidaily.com/how-to-locate-your-most-recent-file-downloads-across-different-windows-versions-windows-11-8-7/"><u>How to Locate Your Most Recent File Downloads Across Different Windows Versions (Windows 11, 8, 7)</u></a></li>
-<li><a href="https://win-tips.techidaily.com/i-migliori-programmi-di-backup-email-una-guida-completa/"><u>I Migliori Programmi Di Backup Email: Una Guida Completa</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-how-to-changeadd-location-filters-on-snapchat-for-your-apple-iphone-se-2020-drfone-by-drfone-virtual-ios/"><u>In 2024, How to Change/Add Location Filters on Snapchat For your Apple iPhone SE (2020) | Dr.fone</u></a></li>
-<li><a href="https://win-tips.techidaily.com/sicherstellen-sie-den-schutz-ihrer-iphone-kontakte-im-icloud-2-essentielle-schritte/"><u>Sicherstellen Sie Den Schutz Ihrer iPhone-Kontakte Im iCloud - 2 Essentielle Schritte</u></a></li>
-<li><a href="https://win-tips.techidaily.com/wiederholen-von-daten-aus-einem-formatierten-usb-stick-schritt-fur-schritt-anleitung/"><u>Wiederholen Von Daten Aus Einem Formatierten USB-Stick: Schritt-Für-Schritt-Anleitung</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-from-novice-to-pro-mastering-the-art-of-youtube-shorts/"><u>[New] 2024 Approved From Novice to Pro Mastering the Art of YouTube Shorts</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-unlocking-nearby-nuggets-your-essential-locale-lens-for-a-smoother-journey/"><u>[New] Unlocking Nearby Nuggets Your Essential Locale Lens for a Smoother Journey</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-xbox-live-success-top-four-steps-to-perfect-your-recording/"><u>[New] Xbox Live Success Top Four Steps to Perfect Your Recording</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-essential-skills-for-efficient-teamsnap-photo-taking/"><u>[Updated] Essential Skills for Efficient TeamSnap Photo Taking</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/2024-approved-top-tips-for-maximizing-iphone-xs-cinematic-shots/"><u>2024 Approved Top Tips for Maximizing iPhone X's Cinematic Shots</u></a></li>
+<li><a href="https://win-tips.techidaily.com/1728506840667-hdd/"><u>遭難したHDDからのデータ復旧方法 - 最新手法とヒント</u></a></li>
+<li><a href="https://win-tips.techidaily.com/comment-recuperer-les-fichiers-elimines-mais-non-mouves-vers-la-corbeille-dans-windows-10/"><u>Comment Récupérer Les Fichiers Éliminés Mais Non Mouvés Vers La Corbeille Dans Windows 10 ?</u></a></li>
+<li><a href="https://win-tips.techidaily.com/guide-pratique-comment-retrouver-vos-photographies-sur-un-appareil-photo-minolta/"><u>Guide Pratique : Comment Retrouver Vos Photographies Sur Un Appareil Photo Minolta</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/leading-slideshow-converter-to-film-for-2024/"><u>Leading Slideshow Converter to Film for 2024</u></a></li>
+<li><a href="https://win-tips.techidaily.com/tecnicas-de-instalacao-do-windows-11-direto-em-um-ssd-recem-instalado-opcoes-com-e-sem-cd-pratico-tutorial/"><u>Técnicas De Instalação Do Windows 11 Direto Em Um SSD Recém-Instalado, Opções Com E Sem CD Prático Tutorial</u></a></li>
+<li><a href="https://win-tips.techidaily.com/hatae-gae-iphone-data-sacaya-ka-bkaapa-ka-bna-aasana-sa-malyakana-kara/"><u>हटाए गए iPhone डेटा संचय को बैकअप के बिना आसानी से मूल्यांकन करें</u></a></li>
 </ul></div>
 

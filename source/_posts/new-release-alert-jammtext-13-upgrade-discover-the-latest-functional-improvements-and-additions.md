@@ -1,7 +1,7 @@
 ---
 title: "New Release Alert: JammText 1.3 Upgrade - Discover the Latest Functional Improvements and Additions"
-date: 2025-02-07T19:38:27.867Z
-updated: 2025-02-13T03:31:26.606Z
+date: 2025-02-26T02:24:01.367Z
+updated: 2025-03-03T23:30:09.670Z
 tags:
   - product
 categories:
@@ -28,10 +28,6 @@ JammText allows DJs to interact with their audience while boosting your marketin
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/On0Jw2oMZf0?si=Pm-FJoEt8XWmtMbr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Email to screen
 
 We are excited to announce that we have added a new email to screen function in JammText 1.3\. Your audience will now have the option of emailing a picture or message to the screen.
@@ -40,25 +36,13 @@ We are excited to announce that we have added a new email to screen function in 
 
 With the new email to screen feature we have also added an auto generated QR code. This QR code is randomly displayed on your screen instructing the audience to scan code to post pictures or messages to this screen. When the QR code is scanned it automatically opens the audience members email app with a composed email addressed to post on the JammText screen.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/uSfA74aeYeA?si=HdJSMdeS7HVtS6-j" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### 64 bit and Mojave Support
 
 JammText is now 64 bit for Mac which improves its performance. Also, JammText is supported for the new macOS Mojave.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UJJbj1vbzs8?si=X3zd8thLJKprfuEa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Voting coming soon
 
 We are in the final stages of completing the highly requested Voting feature and will be releasing this update in the near future. Look out for that announcement coming soon.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kx-Pb0otJCs?si=Mvr49yQVesmJA8-O" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Instagram discontinued
 
@@ -66,10 +50,6 @@ Facebook has decided to make changes to their Instagram platform. These changes 
 Upgrade today for free to get the best version of JammText to date!
 
 [LEARN MORE ABOUT JAMMTEXT](https://tools.techidaily.com/pcdj/products/)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3koT_-kvbks?si=sQV7FzPiz6GYITrE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### _Related_
 
@@ -90,24 +70,22 @@ https://i0.wp.com/pcdj.com/wp-content/uploads/2018/12/jammtext-v13.jpg?fit=706%2
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-knowledge.techidaily.com/new-2024-approved-masterful-8-tools-for-flawless-sub-and-srt-conversion/"><u>[New] 2024 Approved Masterful 8 Tools for Flawless Sub and SRT Conversion</u></a></li>
-<li><a href="https://fox-http.techidaily.com/new-high-definition-showdown-ultimate-legendary-sj6-vs-yi-4k-innovation/"><u>[New] High Definition Showdown Ultimate Legendary SJ6 Vs. Yi 4K Innovation</u></a></li>
-<li><a href="https://youtube-clips.techidaily.com/2024-approved-essential-guide-for-youtube-video-clips/"><u>2024 Approved Essential Guide for YouTube Video Clips</u></a></li>
-<li><a href="https://win-tips.techidaily.com/diagnose-and-enhance-performance-of-lagging-windows-programs-with-proven-techniques-by-yl-software-specialists/"><u>Diagnose and Enhance Performance of Lagging Windows Programs with Proven Techniques by YL Software Specialists</u></a></li>
-<li><a href="https://media-tips.techidaily.com/dlna-casting-seamless-media-sharing-between-windows-10-and-7/"><u>DLNA Casting: Seamless Media Sharing Between Windows 10 & 7</u></a></li>
-<li><a href="https://win-tips.techidaily.com/effective-strategies-for-diagnosing-and-fixing-sound-card-problems-tips-from-yl-software/"><u>Effective Strategies for Diagnosing and Fixing Sound Card Problems - Tips From YL Software</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/te-your-youtube-presence-essential-tips-for-engaging-shorts-for-2024/"><u>Elevate Your Youtube Presence Essential Tips for Engaging Shorts for 2024</u></a></li>
-<li><a href="https://win-tips.techidaily.com/ensuring-peak-graphics-card-efficiency-with-yl-software-essentials/"><u>Ensuring Peak Graphics Card Efficiency with YL Software Essentials</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/how-to-remove-or-bypass-knox-enrollment-service-on-htc-by-drfone-android/"><u>How To Remove or Bypass Knox Enrollment Service On HTC</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/in-2024-3-ways-to-unlock-apple-iphone-xs-without-passcode-or-face-id-drfone-by-drfone-ios/"><u>In 2024, 3 Ways to Unlock Apple iPhone XS without Passcode or Face ID | Dr.fone</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/in-2024-accelerate-your-gaming-experience-with-top-extensions/"><u>In 2024, Accelerate Your Gaming Experience with Top Extensions</u></a></li>
-<li><a href="https://win-tips.techidaily.com/mastering-profit-measurement-in-crypto-trading-a-guide-by-yl-computing/"><u>Mastering Profit Measurement in Crypto Trading: A Guide by YL Computing</u></a></li>
-<li><a href="https://youtube-video-recordings.techidaily.com/movie-substitutes-that-shook-up-my-world-7-choices/"><u>Movie Substitutes That Shook Up My World - #7 Choices</u></a></li>
-<li><a href="https://win-tips.techidaily.com/resolving-no-audio-output-expert-guide-to-diagnosing-a-malfunctioning-sound-card-yl-computing-tutorial/"><u>Resolving No Audio Output: Expert Guide to Diagnosing a Malfunctioning Sound Card - YL Computing Tutorial</u></a></li>
-<li><a href="https://win-tips.techidaily.com/solving-pc-hardware-conflict-issues-a-step-by-step-guide-learn-with-yl-expert-computer-repair-techniques/"><u>Solving PC Hardware Conflict Issues: A Step-by-Step Guide - Learn with YL | Expert Computer Repair Techniques</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/the-ultimate-fix-for-instagram-video-problems/"><u>The Ultimate Fix for Instagram Video Problems</u></a></li>
-<li><a href="https://win-tips.techidaily.com/troubleshooting-guide-solving-the-mystery-of-silent-speakers-tech-insights-with-yl-computing/"><u>Troubleshooting Guide: Solving the Mystery of Silent Speakers - Tech Insights with YL Computing</u></a></li>
-<li><a href="https://win-tips.techidaily.com/uncover-the-top-reasons-behind-computer-hardware-failures-insights-by-yl-computing/"><u>Uncover the Top Reasons Behind Computer Hardware Failures - Insights by YL Computing</u></a></li>
-<li><a href="https://win-tips.techidaily.com/yl-computings-comprehensive-tutorial-to-remove-several-windows-files-at-once/"><u>YL Computing's Comprehensive Tutorial to Remove Several Windows Files at Once</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/new-in-2024-capturing-snapshots-transferring-from-snapchat-to-device-storage/"><u>[New] In 2024, Capturing Snapshots Transferring From Snapchat to Device Storage</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/updated-2024-approved-connect-with-stars-write-inspiring-biographies-on-whatsapp/"><u>[Updated] 2024 Approved Connect with Stars – Write Inspiring Biographies on WhatsApp</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-from-newbie-to-pro-your-complete-guide-to-creator-studio/"><u>[Updated] 2024 Approved From Newbie to Pro Your Complete Guide to Creator Studio</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-content-creation-and-currency-maximizing-youtube-wealth-for-2024/"><u>[Updated] Content Creation & Currency Maximizing YouTube Wealth for 2024</u></a></li>
+<li><a href="https://win-tips.techidaily.com/1-ultimate-guide-retrieving-lost-documents-from-your-usb-with-ifind-data-rescue/"><u>1. Ultimate Guide: Retrieving Lost Documents From Your USB with iFind Data Rescue</u></a></li>
+<li><a href="https://win-tips.techidaily.com/1728506840667-hdd/"><u>遭難したHDDからのデータ復旧方法 - 最新手法とヒント</u></a></li>
+<li><a href="https://win-tips.techidaily.com/comment-copier-efficiemment-un-grand-disque-dur-gpt-vers-une-smsmall-ssd-sans-perte-de-donnees/"><u>Comment Copier Efficiemment Un Grand Disque Dur GPT Vers Une SmSmall SSD Sans Perte De Données</u></a></li>
+<li><a href="https://win-tips.techidaily.com/comment-recuperer-les-fichiers-elimines-mais-non-mouves-vers-la-corbeille-dans-windows-10/"><u>Comment Récupérer Les Fichiers Éliminés Mais Non Mouvés Vers La Corbeille Dans Windows 10 ?</u></a></li>
+<li><a href="https://win-tips.techidaily.com/comprehensive-strategies-for-netgear-nas-data-retrieval-expert-insights-and-techniques/"><u>Comprehensive Strategies for Netgear NAS Data Retrieval: Expert Insights and Techniques</u></a></li>
+<li><a href="https://win-tips.techidaily.com/datenschutz-beim-systemformatieren-von-windows-11-schritt-fur-schritt-anleitung-zum-zurucksetzen-ohne-datenverluste/"><u>Datenschutz Beim Systemformatieren Von Windows 11 – Schritt-Für-Schritt-Anleitung Zum Zurücksetzen Ohne Datenverluste</u></a></li>
+<li><a href="https://media-tips.techidaily.com/get-more-bang-for-your-buck-with-these-5-tips-for-effective-peacock-care/"><u>Get More Bang for Your Buck with These 5 Tips for Effective Peacock Care</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/24-channel-success-across-social-networks-youtube-plus-more/"><u>In 2024, Channel Success Across Social Networks YouTube + More</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/step-by-step-guide-setting-up-a-vpn-on-your-netgear-router-with-illustrated-steps/"><u>Step-by-Step Guide: Setting Up a VPN on Your Netgear Router with Illustrated Steps</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/step-by-step-tutorial-how-to-bypass-vivo-t2-5g-frp-by-drfone-android/"><u>Step-by-Step Tutorial How To Bypass Vivo T2 5G FRP</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/streamline-your-iphone-jpegpng-to-pdf-file-processing-for-2024/"><u>Streamline Your iPhone JPEG/PNG to PDF File Processing for 2024</u></a></li>
+<li><a href="https://win-tips.techidaily.com/windows-10dell/"><u>Windows 10向けDellの回復メモニウム構築ハンズオンガイド</u></a></li>
+<li><a href="https://win-tips.techidaily.com/windows-11-dism-2/"><u>Windows 11 離線恢復技術：DISM 解決方案處理程序的 2 種不同方法</u></a></li>
 </ul></div>
 

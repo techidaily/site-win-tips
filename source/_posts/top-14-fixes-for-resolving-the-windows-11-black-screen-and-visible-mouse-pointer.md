@@ -1,7 +1,7 @@
 ---
 title: Top 14 Fixes for Resolving the Windows 11 Black Screen and Visible Mouse Pointer
-date: 2025-01-28T18:04:13.620Z
-updated: 2025-01-31T16:24:02.627Z
+date: 2025-03-01T02:17:16.759Z
+updated: 2025-03-04T02:30:11.818Z
 categories:
   - AOMEI-Backuper
 thumbnail: https://thmb.techidaily.com/bf80edb76b200416e748e081aeadfa243850d855fed3e04f595dd2c29ba995d4.jpg
@@ -52,10 +52,6 @@ If you are looking for methods on how to recover ransomware-infected files, you 
 
 Many solutions are available for you to solve how to recover data from ransomware attacks. We have selected some easy-to-implement methods for you. Read below for detailed information. 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UcplMvRBulA?si=iBonbwDS1v7RAlHK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Method 1\. Recover files from ransomware with data recovery software
 
 Usually, ransomware removes the original data after the intrusion. The encrypted files it creates are not the original files, but copies. Therefore, with the help of professional data recovery software, you can easily retrieve your original files deleted by ransomware.
@@ -82,10 +78,6 @@ The recovery tool will automatically start looking for all the deleted and lost 
 
 [![Scan Lost Data](https://www.ubackup.com/data-recovery-disk/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/en/data-recovery-disk/windows-recovery/scan-lost-data.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/8Y-k_3N-0OI?si=1J-aFBXLJl5b3x4h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **Step 3\. Recover selected files**
 
 You can expand the Deleted files folder and Other missing files folder to select the desired items, then click **Recover x files** to begin ransomware attack recovery now.
@@ -110,10 +102,6 @@ Step 3\. Click **Browse for files** to locate your lost data and choose to save 
 
 [![Browse For Files To Restore](https://www.ubackup.com/data-recovery-disk/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/en/data-recovery-disk/windows/browse-for-files-to-restore.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/nlwr9LjJ-ng?si=I6UNAtfBkY2FTceu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Method 3\. Get back files from ransomware using File History
 
 If you have used File History to save a copy of your precious data, you can follow the steps below to figure out how to recover encrypted files from ransomware. You can use this tool to [recover permanently deleted folders](https://tools.techidaily.com/ubackup/products/) and files on your computer as well.
@@ -130,10 +118,6 @@ Step 3\. Find the files you want to recover and click the arrow pointing left or
 
 [![Restore Deleted File](https://www.ubackup.com/data-recovery-disk/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/en/data-recovery-disk/windows/restore-deleted-file.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9Q8Feep0Rc0?si=YkPhRxXGvrRRMJtb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Method 4\. Recover from ransomware through system restore
 
 If you have created a restore point for your system, the system restore can bring your PC back to a previous point in time. This means that you can get back files on your computer that have been encrypted by ransomware through a system restore point.
@@ -144,35 +128,19 @@ Step 1\. Press **Win + S** to open the Windows search box, type **Create a resto
 
 [![Create A Restore Point Open](https://www.ubackup.com/data-recovery-disk/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/en/data-recovery-disk/windows/create-a-restore-point-open.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qfCSLAhd4FY?si=CUBztmilaeAwl1lw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Step 2\. Click on **System Restore** \> **Next**.
 
 [![System Drive On System Restore Next](https://www.ubackup.com/data-recovery-disk/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/en/data-recovery-disk/windows/system-drive-on-system-restore-next.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kZVDkvMZvP4?si=xAugrCf-Ud6EMMpm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Step 3\. Choose a restore point from the list and tap on **Scan for affected programs** to check the items that will be deleted after the restore. Then, click **Close**.
 
 [![Scan For Affected Programs Close](https://www.ubackup.com/data-recovery-disk/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/en/data-recovery-disk/windows/scan-for-affected-programs-close.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oP8grXxuy2o?si=uIRNhTYbecTcaC7J" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Step 4\. Press **Next**. Confirm the selected restore point and click **Finish**. Then, hit **Yes** to begin the [recovery of deleted files](https://tools.techidaily.com/ubackup/products/).
 
 If there is no restore point, it might be because the system protection isn't turned on. You can check **Protection Settings** on the System Protection tab. If the Protection Settings for your system drive shows as **Off**, you can click on **Configure** \> **Turn on System protection**, and then OK to turn it on.
 
 [![Turn On System Protection Ok](https://www.ubackup.com/data-recovery-disk/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/en/data-recovery-disk/windows/turn-on-system-protection-ok.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UJJbj1vbzs8?si=X3zd8thLJKprfuEa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Notes:✎...
 
@@ -198,10 +166,6 @@ Was the provided information useful? Your vote is important to us!
 [Yes](https://tools.techidaily.com/ubackup/products/)[No](https://tools.techidaily.com/ubackup/products/)
 
 ![Kelsey](https://www.ubackup.com/assets/images/author/kelsey-avatar.jpg) 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ME5-sAQJVE4?si=ZfcvJSnhQevWtjI0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 [Kelsey](https://tools.techidaily.com/ubackup/products/) · Editor
 
@@ -237,10 +201,6 @@ Recover deleted & lost data from any disasters in Windows.
 
 ![](https://www.ubackup.com/resource/images/ub-mr-theme/ub-article-mr-img-dibu.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/r_wWybMqZEM?si=0nPjCQDLS2MCaQbG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
@@ -256,20 +216,21 @@ Recover deleted & lost data from any disasters in Windows.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://twitter-videos.techidaily.com/updated-2024-approved-shifting-focus-twitters-videos-to-facebook-streaming/"><u>[Updated] 2024 Approved Shifting Focus Twitters' Videos to Facebook Streaming</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/updated-adding-time-bound-elements-to-your-obs-productions-for-2024/"><u>[Updated] Adding Time-Bound Elements to Your OBS Productions for 2024</u></a></li>
-<li><a href="https://fox-http.techidaily.com/updated-in-2024-discover-your-inner-artist-with-these-leading-android-graphics-tools/"><u>[Updated] In 2024, Discover Your Inner Artist with These Leading Android Graphics Tools</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/updated-mac-windows-vmx-substitute/"><u>[Updated] Mac-Windows VMX Substitute</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/updated-the-ultimate-list-for-fbs-most-popular-song-videos-for-2024/"><u>[Updated] The Ultimate List for FB's Most Popular Song Videos for 2024</u></a></li>
-<li><a href="https://win-tips.techidaily.com/expert-advice-on-boosting-your-network-speed-by-yl-software-solutions/"><u>Expert Advice on Boosting Your Network Speed by YL Software Solutions</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/in-2024-streamlining-the-process-of-ppt-recording/"><u>In 2024, Streamlining the Process of PPT Recording</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/24-the-key-to-youtube-success-understanding-your-cpm/"><u>In 2024, The Key to YouTube Success Understanding Your CPM</u></a></li>
-<li><a href="https://win-tips.techidaily.com/new-release-alert-jammtext-13-upgrade-discover-the-latest-functional-improvements-and-additions/"><u>New Release Alert: JammText 1.3 Upgrade - Discover the Latest Functional Improvements and Additions</u></a></li>
-<li><a href="https://win-tips.techidaily.com/solving-your-pcs-heat-problems-and-system-fan-noise-with-expert-advice-from-yl-software/"><u>Solving Your PC's Heat Problems and System Fan Noise with Expert Advice From YL Software</u></a></li>
-<li><a href="https://discover-awesome.techidaily.com/troubleshooting-and-correcting-windows-blue-screen-issues-with-tips-by-yl-computings-professional-solutions/"><u>Troubleshooting and Correcting Windows Blue Screen Issues with Tips by YL Computing's Professional Solutions</u></a></li>
-<li><a href="https://win-tips.techidaily.com/troubleshooting-guide-identifying-issues-when-your-printer-fails-to-print-accurately-insights-by-yl-computing/"><u>Troubleshooting Guide: Identifying Issues When Your Printer Fails to Print Accurately - Insights by YL Computing</u></a></li>
-<li><a href="https://win-tips.techidaily.com/troubleshooting-steps-to-resolve-unresponsive-scanning-devices-tips-from-yl-computing-experts/"><u>Troubleshooting Steps to Resolve Unresponsive Scanning Devices - Tips From YL Computing Experts</u></a></li>
-<li><a href="https://win-tips.techidaily.com/uncover-the-reasons-behind-your-pcs-excessive-heating-insights-from-yl-computing/"><u>Uncover the Reasons Behind Your PC's Excessive Heating - Insights From YL Computing</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/what-pokemon-evolve-with-a-dawn-stone-for-honor-magic-5-drfone-by-drfone-virtual-android/"><u>What Pokémon Evolve with A Dawn Stone For Honor Magic 5? | Dr.fone</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/new-2024-approved-the-ultimate-vr-journey-best-pc-360-video-streamers-reviewed/"><u>[New] 2024 Approved The Ultimate VR Journey Best PC 360 Video Streamers Reviewed</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/n-2024-step-by-step-fixes-for-youtube-short-failures/"><u>[New] In 2024, Step-by-Step Fixes for YouTube Short Failures</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-affordable-aaa-gaming-websites-and-streaming-services-for-2024/"><u>[Updated] Affordable AAA Gaming Websites and Streaming Services for 2024</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-the-essentials-for-effective-free-timer-utilization-for-2024/"><u>[Updated] The Essentials for Effective Free Timer Utilization for 2024</u></a></li>
+<li><a href="https://win-tips.techidaily.com/boost-your-visuals-top-tips-for-enhanced-graphics-performance-expert-advice-from-yl-computing/"><u>Boost Your Visuals: Top Tips for Enhanced Graphics Performance - Expert Advice From YL Computing</u></a></li>
+<li><a href="https://win-tips.techidaily.com/diy-laptop-fan-upgrade-a-step-by-step-process-by-yl-software-experts/"><u>DIY Laptop Fan Upgrade: A Step-by-Step Process by YL Software Experts</u></a></li>
+<li><a href="https://win-tips.techidaily.com/dynamic-fire-earth-air-and-water-themed-wallpaper-pack-by-yl-computing-innovative-graphics-solutions/"><u>Dynamic Fire, Earth, Air & Water-Themed Wallpaper Pack by YL Computing: Innovative Graphics Solutions</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/forgotten-the-voicemail-password-of-realme-12-5g-try-these-fixes-by-drfone-android/"><u>Forgotten The Voicemail Password Of Realme 12 5G? Try These Fixes</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-the-ultimate-guide-to-bypassing-icloud-activation-lock-from-iphone-14-pro-max-by-drfone-ios/"><u>In 2024, The Ultimate Guide to Bypassing iCloud Activation Lock from iPhone 14 Pro Max</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-unlock-full-screen-browsing-potential-in-safari-for-apple/"><u>In 2024, Unlock Full-Screen Browsing Potential in Safari for Apple</u></a></li>
+<li><a href="https://win-tips.techidaily.com/mastering-volume-and-quality-adjust-sound-settings-on-your-computer-via-windows-panel-expert-tips-from-yl-computing/"><u>Mastering Volume & Quality: Adjust Sound Settings on Your Computer via Windows Panel – Expert Tips From YL Computing</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/new-in-2024-elevate-your-storytelling-easy-video-editing-with-gopro-quik-on-macbook/"><u>New In 2024, Elevate Your Storytelling Easy Video Editing with GoPro Quik on MacBook</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/the-fcp-factor-10-successful-movies-that-used-final-cut-pro-for-2024/"><u>The FCP Factor 10 Successful Movies That Used Final Cut Pro for 2024</u></a></li>
+<li><a href="https://win-tips.techidaily.com/top-strategies-to-reclaim-your-hard-drives-storage-insights-from-yl-computing/"><u>Top Strategies to Reclaim Your Hard Drive's Storage: Insights From YL Computing</u></a></li>
+<li><a href="https://win-tips.techidaily.com/transferring-data-seamlessly-a-step-by-step-guide-to-moving-files-between-drives-on-windows-yl-computing/"><u>Transferring Data Seamlessly: A Step-by-Step Guide to Moving Files Between Drives on Windows - YL Computing</u></a></li>
+<li><a href="https://win-tips.techidaily.com/yl-softwares-aya-arisugawa-collection-stunning-images-and-customizable-wallpapers-for-enthusiasts/"><u>YL Software's Aya Arisugawa Collection: Stunning Images and Customizable Wallpapers for Enthusiasts</u></a></li>
 </ul></div>
 

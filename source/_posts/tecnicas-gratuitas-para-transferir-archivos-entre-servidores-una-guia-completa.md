@@ -1,7 +1,7 @@
 ---
 title: "Técnicas Gratuitas Para Transferir Archivos Entre Servidores: Una Guía Completa"
-date: 2025-01-28T16:02:49.064Z
-updated: 2025-01-31T18:30:51.079Z
+date: 2025-02-26T16:36:45.273Z
+updated: 2025-03-04T03:07:05.349Z
 categories:
   - AOMEI-Backuper
 thumbnail: https://thmb.techidaily.com/bbd88c517a72e9ebb4f977c94404d584a269beabb937398b9573ea9432863248.jpg
@@ -23,10 +23,6 @@ thumbnail: https://thmb.techidaily.com/bbd88c517a72e9ebb4f977c94404d584a269beabb
 Vous obtiendrez le logiciel de sauvegarde NAS Buffalo le plus simple pour Windows 11/10/8/7/XP/Vista. Apprenez à l'utiliser pour sauvegarder automatiquement des fichiers en quelques étapes simples.
 
 ![Aurore](https://www.ubackup.com/assets/images/author/aurore.png) 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qbuund2HKOQ?si=NaGHqIrx8hSL7gWV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Par[Aurore](https://tools.techidaily.com/ubackup/products/)Publié le 26/06/2024
 
@@ -85,17 +81,9 @@ Tout d'abord, cliquez sur **Ajouter un dossier** ou **Ajouter un fichier** sur l
 
 [![ajouter un fichier ou un dossier](https://www.ubackup.com/fr/articles/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/fr/std/backup/sauvegarder/sauvegarde-fichier/ajouter-dossier-fichier.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Dn-24B6AURY?si=ErES2KWVnintY6h9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Cliquez sur **Share/NAS** pour ouvrir la fenêtre suivante.
 
 [![share/nas](https://www.ubackup.com/fr/articles/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/fr/std/backup/sauvegarder/sauvegarde-fichier/ouvrir.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HMuxjTCMX2E?si=ylRTMJuUstpjLsZc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Ensuite, cliquez sur **Ajouter un périphérique Share ou NAS**, saisissez le nom d'affichage, l'adresse IP, le nom d'utilisateur et le mot de passe pour connecter votre espace de stockage NAS Buffalo. Double-cliquez ensuite dessus dans le volet de gauche et sélectionnez ce que vous souhaitez sauvegarder dans la liste de droite.
 
@@ -117,10 +105,6 @@ De plus, vous pouvez activer la notification par e-mail une fois la tâche termi
 
 [![options](https://www.ubackup.com/fr/articles/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/fr/std/backup/sauvegarder/options-sauvegarder/sauvegarde-options.png "AOMEI Email SMS Notification Settings")
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MHafwnWSEQk?si=rejNVNpJZH2SqNLy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Dernières réflexions sur l'utilitaire de sauvegarde Buffalo
 
 Vous pouvez utiliser AOMEI Backupper Standard comme logiciel de sauvegarde NAS Buffalo pour sauvegarder des fichiers et exécuter cette tâche facilement et automatiquement. Par défaut, il ne sauvegarde que les fichiers modifiés pour économiser du temps de sauvegarde et de l'espace disque. Si vous souhaitez réduire davantage la taille de l'image de sauvegarde, vous pouvez utiliser des niveaux de compression, la sauvegarde sectorielle intelligente, le fractionnement automatique, etc.
@@ -137,17 +121,9 @@ Les informations fournies sont-elles utiles ? Votre vote compte beaucoup pour no
 
 ![Aurore](https://www.ubackup.com/assets/images/author/aurore.png) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/NC0rdKEQ98o?si=HYgqC8CxF_WTO5if" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 [Aurore](https://tools.techidaily.com/ubackup/products/) · Éditeur
 
 Éditrice senior d'AOMEI Technology qui rédige principalement des articles sur la sauvegarde, la synchronisation, le clonage et la restauration de l'ordinateur, tout dans le but de proposer des solutions simples aux utilisateurs pour protéger les données de leur ordinateur. Grâce à ses expertises informatiques, elle propose souvent des astuces très utiles.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UoBCgLTmznE?si=MXXiGsd2qpd_DrzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Autres articles connexes
 
@@ -179,10 +155,6 @@ Protégez toutes les données de votre ordinateur avec la sauvegarde, la synchro
 
 ![](https://www.ubackup.com/resource/images/ab-theme/ub-article-ab-medium-img-pc@2x.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/E1ax-vnGdeo?si=bgTkOhOEwDTlRQE3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
@@ -198,19 +170,19 @@ Protégez toutes les données de votre ordinateur avec la sauvegarde, la synchro
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-web.techidaily.com/024-approved-maximize-your-youtube-income-with-effective-mobile-device-strategies/"><u>[New] 2024 Approved Maximize Your YouTube Income with Effective Mobile Device Strategies</u></a></li>
-<li><a href="https://tiktok-clips.techidaily.com/new-becoming-a-social-media-mogul-the-tiktok-fundamentals-for-earning-for-2024/"><u>[New] Becoming a Social Media Mogul The TikTok Fundamentals for Earning for 2024</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/nveiling-secrets-to-boost-engagement-in-gaming-vlogs-via-hashes/"><u>[New] Unveiling Secrets to Boost Engagement in Gaming Vlogs via Hashes</u></a></li>
-<li><a href="https://article-files.techidaily.com/updated-in-2024-androids-enhanced-vr-video-viewing-in-the-modern-age/"><u>[Updated] In 2024, Android's Enhanced VR Video Viewing in the Modern Age</u></a></li>
-<li><a href="https://win-tips.techidaily.com/1-how-to-restore-irretrievably-erased-documents-on-windows-a-comprehensive-guide-by-yl-computing/"><u>1. How to Restore Irretrievably Erased Documents on Windows: A Comprehensive Guide by YL Computing</u></a></li>
-<li><a href="https://win-tips.techidaily.com/1732516199431-yl/"><u>从成吉思汗至清朝逊位：揭开中国历代君王统治年限秘密 - 由YL计算机解析</u></a></li>
-<li><a href="https://win-tips.techidaily.com/boosting-pc-efficiency-is-antivirus-necessary-for-better-speed-an-expert-take-by-yl-computing/"><u>Boosting PC Efficiency: Is Antivirus Necessary for Better Speed - An Expert Take by YL Computing</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/download-hp-laserjet-printer-software-and-drivers-for-windows-7-users-at-no-cost/"><u>Download HP LaserJet Printer Software & Drivers for Windows 7 Users at No Cost</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/effective-techniques-for-handling-the-xlivedll-missing-error-on-pcs/"><u>Effective Techniques for Handling the 'Xlive.dll Missing' Error on PCs</u></a></li>
-<li><a href="https://win-tips.techidaily.com/how-to-utilize-yls-tech-for-instant-web-to-printer-conversion-yl-computing/"><u>How to Utilize YL's Tech for Instant Web-to-Printer Conversion - YL Computing</u></a></li>
-<li><a href="https://win11.techidaily.com/microsofts-ai-hub-enhancing-shopping-experience/"><u>Microsoft’s AI Hub – Enhancing Shopping Experience</u></a></li>
-<li><a href="https://win-tips.techidaily.com/setting-up-your-network-successfully-with-yl-software-solutions-step-by-step-instructions/"><u>Setting Up Your Network Successfully with YL Software Solutions - Step-by-Step Instructions</u></a></li>
-<li><a href="https://win-tips.techidaily.com/troubleshooting-your-system-why-you-might-encounter-errors-when-starting-games-and-apps-yl-computing-expertise/"><u>Troubleshooting Your System: Why You Might Encounter Errors when Starting Games & Apps (YL Computing Expertise)</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/unleash-creativity-10-top-rated-free-mac-art-software-for-2024/"><u>Unleash Creativity 10 Top-Rated, FREE Mac Art Software for 2024</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-in-2024-learn-the-art-of-virality-infuse-insta-reels-with-tiktok-charm/"><u>[New] In 2024, Learn the Art of Virality Infuse Insta Reels With TikTok Charm</u></a></li>
+<li><a href="https://article-files.techidaily.com/2024-approved-bridging-moments-creating-fluid-edits-with-inshot/"><u>2024 Approved Bridging Moments Creating Fluid Edits with Inshot</u></a></li>
+<li><a href="https://fox-links.techidaily.com/2024-approved-essential-guide-to-best-10-no-cost-srt-converters/"><u>2024 Approved Essential Guide to Best 10 No-Cost Srt Converters</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/2024-approved-maximize-your-youtube-yields-small-channel-sponsorship-strategies/"><u>2024 Approved Maximize Your YouTube Yields Small Channel Sponsorship Strategies</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/9-best-phone-monitoring-apps-for-oppo-find-x7-drfone-by-drfone-virtual-android/"><u>9 Best Phone Monitoring Apps for Oppo Find X7 | Dr.fone</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/best-samsung-galaxy-a15-5g-pattern-lock-removal-tools-remove-android-pattern-lock-without-losing-data-by-drfone-android/"><u>Best Samsung Galaxy A15 5G Pattern Lock Removal Tools Remove Android Pattern Lock Without Losing Data</u></a></li>
+<li><a href="https://win-tips.techidaily.com/detecting-device-clashes-and-incompatibilities-expert-advice-from-yl-software-experts/"><u>Detecting Device Clashes & Incompatibilities: Expert Advice From YL Software Experts</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/enhance-your-pc-gaming-experience-with-controller-and-mouse-combo/"><u>Enhance Your PC Gaming Experience with Controller & Mouse Combo</u></a></li>
+<li><a href="https://win-tips.techidaily.com/how-to-fix-striped-outputs-on-your-printouts-insights-by-yl-software-professionals/"><u>How To Fix Striped Outputs On Your Printouts, Insights By YL Software Professionals</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-3-ways-to-unlock-apple-iphone-6-without-passcode-or-face-id-drfone-by-drfone-ios/"><u>In 2024, 3 Ways to Unlock Apple iPhone 6 without Passcode or Face ID | Dr.fone</u></a></li>
+<li><a href="https://win-tips.techidaily.com/professional-1080p-black-photographic-wallpapers-for-desktop-and-mobile-from-yl-softwares-image-collection/"><u>Professional 1080P Black Photographic Wallpapers for Desktop & Mobile From YL Software's Image Collection</u></a></li>
+<li><a href="https://win-tips.techidaily.com/verifying-your-scanners-firmware-update-status-insights-from-yl-computing/"><u>Verifying Your Scanner's Firmware Update Status - Insights From YL Computing</u></a></li>
+<li><a href="https://win-tips.techidaily.com/yl-software-tips-how-to-skip-specific-programs-in-windows-defender-scans/"><u>YL Software Tips: How to Skip Specific Programs in Windows Defender Scans</u></a></li>
+<li><a href="https://win-tips.techidaily.com/yl-softwares-ultimate-zodiac-iconography-bundle-hd-folder-graphics-for-enhanced-user-interface-design/"><u>YL Software's Ultimate Zodiac Iconography Bundle: HD Folder Graphics for Enhanced User Interface Design</u></a></li>
 </ul></div>
 
